@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-ost.github.io/PAM_template_lab_manual/" 
-  repo-url: "https://github.com/nmfs-ost/PAM_template_lab_manual"
+  title: "PMNM ARC Manual" 
+  site-url: "https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/" 
+  repo-url: "https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
