@@ -2,106 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/index.html</loc>
-    <lastmod>2024-11-05T01:19:21.033Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.912Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Onboarding.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/SharedValues.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/DataManagement.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/PublicationsPresentations.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Hardware.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/SoftwareAnalysis.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/Getting-Started.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/Intro.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/add-content.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Safety.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Resources.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/AnalysisMethods.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/FieldMethods.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/organize.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/code.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/rendering.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/publishing.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Biosecurity.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Offboarding.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/publishing.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/rendering.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/code.html</loc>
+    <lastmod>2024-11-20T00:38:26.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/organize.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/FieldMethods.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/AnalysisMethods.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Resources.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Safety.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/add-content.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/Intro.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/NMFS_OpenSciDirections/Getting-Started.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/SoftwareAnalysis.html</loc>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Hardware.html</loc>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/LabManagement.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Software.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/OpenScience.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Inventory.html</loc>
-    <lastmod>2024-11-05T01:19:21.021Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.900Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/content/Reporting.html</loc>
-    <lastmod>2024-11-05T01:19:21.029Z</lastmod>
+    <lastmod>2024-11-20T00:38:26.908Z</lastmod>
   </url>
 </urlset>
