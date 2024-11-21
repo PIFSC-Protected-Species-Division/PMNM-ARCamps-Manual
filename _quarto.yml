@@ -21,8 +21,8 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
-        text: "NMFS National Passive Acoustic Monitoring Network"
+        href: https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument
+        text: "NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument"
       - icon: github
         href: https://github.com/nmfs-ost/PAM_template_lab_manual
         text: "NMFS PAM SI Lab Manual Template"
@@ -32,46 +32,65 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home
-      - section: content/LabManagement.qmd
+        text: Home - PMNM ARC Manual
+      - section: content/Onboarding.qmd
         contents: 
-          - href: content/Safety.qmd
+          - href: content/HonoluluTips.qmd
+            text: Honolulu Tips
+          - href: content/OnboardingPaperwork.qmd
+            text: Onboarding Paperwork
+      - section: content/OrientationDay.qmd
+        contents: 
+          - href: content/OverviewofCamps.qmd
+            text: Overview of Camps
+      - section: content/EnteringtheMonument.qmd
+        text: "Entering the Monument"
+        contents: 
+          - href: content/Biosecurity.qmd
+            text: Biosecurity
+          - href: content/Permits
+            text: Permits
+          - href: content/CulturalBriefing
+            text: Cultural Briefing
+      - section: content/Training.qmd
+        text: "Training"
+        contents: 
+          - href: content/EmploymentTraining.qmd
+            text: Employment Training
+          - href: content/Boating.qmd
+            text: Boating
+          - href: content/WFATraining.qmd
+            text: Wilderness First Aid
+          - href: content/SafetyTraining.qmd
             text: Safety
-          - href: content/Inventory.qmd
-            text: Inventory
-          - href: content/Hardware.qmd
-            text: Hardware
-      - href: content/FieldMethods.qmd
-        text: "Field Methods"
-      - href: content/DataManagement.qmd
-        text: Data Management
-      - href: content/Hardware.qmd
-        text: Hardware
-      - section: content/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
+          - href: content/CommunicationMedia.qmd
+            text: Communication & Media
+          - href: content/SealTraining.qmd
+            text: Seal Training
+          - href: content/TurtleTraining.qmd
+            text: Turtle Training
+      - section: content/GearPacking.qmd
         contents: 
-          - content/Software.qmd
-          - content/AnalysisMethods.qmd
-      - href: content/Reporting.qmd
-        text: Reporting
-      - section: "Optional Pages"
+          - href: content/GearDatabase.qmd
+            text: Gear Database
+          - href: content/Packing.qmd
+            text: Packing
+      - section: content/Ships.qmd
         contents: 
-          - content/SharedValues.qmd
-          - content/Onboarding.qmd
-          - content/Offboarding.qmd
-          - content/FieldMethods.qmd
-          - content/OpenScience.qmd
-          - content/PublicationsPresentations.qmd
-          - content/Resources.qmd
-      # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
-      #   contents:
-      #     - content/NMFS_OpenSciDirections/Getting-Started.qmd
-      #     - content/NMFS_OpenSciDirections/organize.qmd
-      #     - content/NMFS_OpenSciDirections/add-content.qmd
-      #     - content/NMFS_OpenSciDirections/rendering.qmd
-      #     - content/NMFS_OpenSciDirections/rmarkdown.Rmd
-      #     - content/NMFS_OpenSciDirections/code.qmd
-      #     - content/NMFS_OpenSciDirections/acknowledgements.qmd 
+          - href: content/OurVessels.qmd
+            text: Our Vessels
+          - href: content/ShipProtocols.qmd
+            text: Ship Protocols
+          - href: content/ShipPaperwork.qmd
+            text: Ship Paperwork
+      - href: content/PostSeasonProtocols.qmd
+        text: Post-Season Protocols
+      - section: content/OtherResources.qmd
+        contents: 
+          - href: content/PastMedia.qmd
+            text: Past Media
+
+
         
 format:
   html:

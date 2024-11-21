@@ -8,5 +8,4 @@ A lab management section is required and should include the following informatio
 -   Inventory
 -   Hardware
 
-
 ![](images/website.png)
