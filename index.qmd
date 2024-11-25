@@ -1,12 +1,16 @@
 ---
-title: "Home - PMNM ARC Manual"
-subtitle: "A Training and Field Manual for Protected Species Field Researchers working at the Papahānaumokuākea Marine National Monument Assessment and Recovery Camps"
+title: "Welcome"
+subtitle: "This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument"
 page-layout: full
 ---
 
+![](content/images/2018_EastPano-light.JPG)
+
 ## Welcome to NOAA's ARC!
 
-Welcome orientation notes go here
+This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument
+
+![](content/images/FieldCampSticker0827 shrunk to fit.jpg){width="313"}
 
 ## Top Links
 
@@ -16,19 +20,8 @@ Welcome orientation notes go here
 
 ## Who are we?
 
-NOAA
-
-PIFSC
-
-PSD
-
-HMSRP
-
-MTBAP
-
-PSSP
-
-CIMAR/RCUH
+A brief overview to orient new staff to the levels of organization
+(NOAA, PIFSC, PSD, HMSRP, MTBAP, PSSP, CIMAR/RCUH, PMNM)
 
 See "Acronyms" for more
 
@@ -38,11 +31,12 @@ XYZ instructions
 
 ## Example Manuals
 
-Here are two lab manuals to pull inspiration from
+Here are other lab manuals to pull inspiration from
 
--   [SWFSC Southwest Acoustic Ecology Lab Manual](https://sael-swfsc.github.io/SAEL-lab-manual/content/media.html)
+-   [SWFSC Southwest Acoustic Ecology Lab Manual](https://sael-swfsc.github.io/SAEL-lab-manual/)
 -   [Faylab Manual](https://thefaylab.github.io/lab-manual/)
 -   [SWFSC Glider Lab Manual](https://swfsc.github.io/glider-lab-manual/)
+-   [Adrift Field Methods](https://sael-swfsc.github.io/adrift-field-methods/)
 
 ## Example how to link to other pages
 

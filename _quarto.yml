@@ -32,24 +32,28 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home - PMNM ARC Manual
+        text: Welcome
       - section: content/Onboarding.qmd
         contents: 
-          - href: content/HonoluluTips.qmd
-            text: Honolulu Tips
           - href: content/OnboardingPaperwork.qmd
             text: Onboarding Paperwork
+          - href: content/HonoluluTips.qmd
+            text: Honolulu Tips
+          - href: content/Acronyms.qmd
+            text: Acronyms
       - section: content/OrientationDay.qmd
         contents: 
           - href: content/OverviewofCamps.qmd
             text: Overview of Camps
+          - href: content/MeettheTeam.qmd
+            text: Meet the Team
       - section: content/EnteringtheMonument.qmd
         text: "Entering the Monument"
         contents: 
           - href: content/Biosecurity.qmd
             text: Biosecurity
-          - href: content/Permits
-            text: Permits
+          - href: content/PermitsBMPs
+            text: Permits & BMPs
           - href: content/CulturalBriefing
             text: Cultural Briefing
       - section: content/Training.qmd
