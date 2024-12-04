@@ -1,0 +1,16 @@
+---
+title: "Calendar"
+editor: visual
+---
+
+**11-22 September 2023**
+
+<iframe width="900" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLiWG8-yKRB3l3V-F4a0ZVrmpunM-2TlbSa4Lhm0vQgCOI76CSgQwZZeHlc-B2k1uvw09apKIVACSf/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<iframe width="900" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBGpj6cDQMTFDTUIQKmLkM7OFChkTjknM865DE2CqiEJLJqBZEwNjMrpV5u7wJJYhC83PBpEz25_ps/pubhtml?widget=true&amp;headers=false">
+
+</iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Pacific%2FHonolulu&amp;showPrint=0&amp;src=N3RnZGRudW9jMWhxOHU0dnNuZDU0anFzamNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no">
+
+</iframe>
