@@ -20,7 +20,8 @@ website:
   site-url: "https://pifsc-protected-species-division.github.io/PMNM-ARC-Manual/" 
   repo-url: "https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual"
   repo-actions: [edit, source, issue]
-  favicon: content/images/tent_icon.jpg
+  favicon: content/images/favicon.ico
+# https://iconifier.net/
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
