@@ -1,6 +1,19 @@
 project: 
   type: website
 
+## Below was test to convert to book, also pdf document class below (not functional yet)
+# book:
+#   title: "Test-Book"
+#   author: "Marylou Staman"
+#   date: "12/9/2024"
+#   chapters:
+#     - index.qmd
+#     - intro.qmd
+#     - summary.qmd
+#     - references.qmd
+# 
+# bibliography: references.bib
+
 website: 
   page-navigation: true
   title: "PMNM ARC Manual" 
@@ -104,6 +117,8 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+  # pdf:
+  #   documentclass: scrreprt
 
 
 filters:
