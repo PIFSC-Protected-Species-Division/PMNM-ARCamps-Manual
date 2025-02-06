@@ -236,6 +236,17 @@
     ]
   },
   {
+    "objectID": "content/SafetyTraining.html",
+    "href": "content/SafetyTraining.html",
+    "title": "Safety Training",
+    "section": "",
+    "text": "Hawaii Boater’s Hurricane and Tsunami Safety Manual\nUsing SkyFile Mail\nSoap Notes, NOLS Resource\nSupervisor’s Report of Industrial Injury\nHEPA Medical Communications Protocol 2024\nField Camp Contacts\nEmergency Protocols 2025 Draft\nIllness and Injury Risk Mitigation Plan\nCamp Takedown Emergency Protocol 2024\nComms Draft 2025\nLifeWorks, How to Use the EAP",
+    "crumbs": [
+      "Training",
+      "Safety"
+    ]
+  },
+  {
     "objectID": "content/DataManagement.html",
     "href": "content/DataManagement.html",
     "title": "Turtles",
@@ -272,6 +283,16 @@
     "text": "11-22 September 2023"
   },
   {
+    "objectID": "content/PostSeasonProtocols.html",
+    "href": "content/PostSeasonProtocols.html",
+    "title": "Post-Season Protocols",
+    "section": "",
+    "text": "After Camp",
+    "crumbs": [
+      "Post-Season Protocols"
+    ]
+  },
+  {
     "objectID": "content/Reporting.html",
     "href": "content/Reporting.html",
     "title": "Reporting",
@@ -293,22 +314,25 @@
     "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example"
   },
   {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
+    "objectID": "content/EthanPage.html",
+    "href": "content/EthanPage.html",
+    "title": "Ethan’s Page",
     "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
+    "text": "ADRIFT example"
   },
   {
-    "objectID": "content/Biosecurity.html",
-    "href": "content/Biosecurity.html",
-    "title": "Biosecurity",
+    "objectID": "content/PermitsBMPs.html#best-management-practices-bmps",
+    "href": "content/PermitsBMPs.html#best-management-practices-bmps",
+    "title": "Permits & BMPs",
+    "section": "Best Management Practices (BMPs)",
+    "text": "Best Management Practices (BMPs)\nList of PMNM BMPs"
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
     "section": "",
-    "text": "Video: Biosecurity Protocols for Protecting the Northwestern Hawaiian Islands (2013)",
-    "crumbs": [
-      "Entering the Monument",
-      "Biosecurity"
-    ]
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
   },
   {
     "objectID": "index.html#welcome-to-noaas-arc",
@@ -381,18 +405,22 @@
     ]
   },
   {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
+    "objectID": "content/Biosecurity.html",
+    "href": "content/Biosecurity.html",
+    "title": "Biosecurity",
     "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
+    "text": "Video: Biosecurity Protocols for Protecting the Northwestern Hawaiian Islands (2013)",
+    "crumbs": [
+      "Entering the Monument",
+      "Biosecurity"
+    ]
   },
   {
-    "objectID": "content/PermitsBMPs.html#best-management-practices-bmps",
-    "href": "content/PermitsBMPs.html#best-management-practices-bmps",
-    "title": "Permits & BMPs",
-    "section": "Best Management Practices (BMPs)",
-    "text": "Best Management Practices (BMPs)\nList of PMNM BMPs"
+    "objectID": "content/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics)."
   },
   {
     "objectID": "content/SharedValues.html",
@@ -582,5 +610,16 @@
     "title": "NOAA quarto simple with R",
     "section": "",
     "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
+  },
+  {
+    "objectID": "content/GearDatabase.html",
+    "href": "content/GearDatabase.html",
+    "title": "Gear Database",
+    "section": "",
+    "text": "Use and Care of Equipment 2024\nPSD Generator Protocol\nProtocol for Setting Up and Using Solar Freezers\nLogistics Debrief\nEquipment Repair Log 2024",
+    "crumbs": [
+      "Gear & Packing",
+      "Gear Database"
+    ]
   }
 ]
