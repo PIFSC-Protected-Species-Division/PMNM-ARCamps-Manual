@@ -1,5 +1,5 @@
 ---
-title: Communication & Media
+title: Internet & Media
 ---
 
 [Communication Protocol](https://docs.google.com/document/d/1XaeK8-3qOJfoy9mwuYYnCccQq00Zl-f-r6f2NAd8NjY/edit?tab=t.0)

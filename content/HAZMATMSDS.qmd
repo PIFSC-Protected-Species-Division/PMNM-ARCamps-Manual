@@ -1,0 +1,17 @@
+---
+title: "Material Safety Data Sheets"
+format: html
+---
+## H&Dz: LN, DMSO, Formalin, Alcohol, etc.
+
+## Explosives: Flares & Ammo
+
+## Corrosives: Bleach, Rescue, Hair Bleach
+
+## Flammables: Propane & Gas
+
+## Flammables: Insecticide
+
+## Flammables: General Camp
+
+## Flammables: Camp & Boat Maintenance

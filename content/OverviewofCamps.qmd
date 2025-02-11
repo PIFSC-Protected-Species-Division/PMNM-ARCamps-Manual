@@ -1,6 +1,8 @@
 ---
 title: Overview of Camps
 ---
+-   [Island Specific Maps](https://docs.google.com/document/d/1K2A754c0zdEeeMmONt6iPCu3e_G6n55XjQSAMxXwy1M/edit?usp=sharing){.external target="_blank"}
+-   [PMNM Hawaiian Names Map](https://drive.google.com/file/d/1Ltd7Y8X53vzwnUb6At4Lf9lCoLGoAPh2/view?usp=sharing){.external target="_blank"}
 
 ![](images/PMNM_Map.jpg)
 

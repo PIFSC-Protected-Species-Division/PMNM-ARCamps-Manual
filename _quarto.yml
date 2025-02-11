@@ -55,44 +55,54 @@ website:
             text: Honolulu Tips
           - href: content/Acronyms.qmd
             text: Acronyms
-      - section: content/OrientationDay.qmd
+      - section: content/Orientation.qmd
         contents: 
+          - href: content/OverviewofResearch.qmd
+            text: Overview of Research
           - href: content/OverviewofCamps.qmd
             text: Overview of Camps
           - href: content/MeettheTeam.qmd
             text: Meet the Team
+          - href: content/LandAcknowledgements.qmd
+            text: Land Acknowledgements
       - section: content/EnteringtheMonument.qmd
         text: "Entering the Monument"
         contents: 
           - href: content/Biosecurity.qmd
-            text: Biosecurity
-          - href: content/PermitsBMPs
+            text: Biosecurity and Packing
+          - href: content/PermitsBMPs.qmd
             text: Permits & BMPs
           - href: content/CulturalBriefing
-            text: Cultural Briefing
+            text: Cultural Briefing & Resources
+          - href: content/CommunicationMedia.qmd
+            text: Internet & Media
       - section: content/Training.qmd
         text: "Training"
         contents: 
           - href: content/EmploymentTraining.qmd
             text: Employment Training
+          - href: content/WorksiteTraining.qmd
+            text: Worksite Training
           - href: content/Boating.qmd
             text: Boating
           - href: content/WFATraining.qmd
             text: Wilderness First Aid
           - href: content/SafetyTraining.qmd
-            text: Safety
-          - href: content/CommunicationMedia.qmd
-            text: Communication & Media
-          - href: content/SealTraining.qmd
-            text: Seal Training
-          - href: content/TurtleTraining.qmd
-            text: Turtle Training
+            text: Safety & Communication
+          - href: content/Huliia.qmd
+            text: Huli'ia
       - section: content/GearPacking.qmd
         contents: 
           - href: content/GearDatabase.qmd
             text: Gear Database
+          - href: content/CareAndRepairs.qmd
+            text: Care and Repairs
+          - href: content/EquipmentManuals.qmd
+            text: Equipment Manuals
+          - href: content/HAZMATMSDS.qmd
+            text: Material Safety Data Sheets
           - href: content/Packing.qmd
-            text: Packing
+            text: Setting Up Camp
       - section: content/Ships.qmd
         contents: 
           - href: content/OurVessels.qmd
@@ -101,14 +111,40 @@ website:
             text: Ship Protocols
           - href: content/ShipPaperwork.qmd
             text: Ship Paperwork
-      - href: content/PostSeasonProtocols.qmd
-        text: Post-Season Protocols
+      - section: content/MonkSealProtocols.qmd
+        contents: 
+          - href: content/MonkSealOverview.qmd
+            text: Overview
+          - href: content/PopulationAssessment.qmd
+            text: Population Assessment
+          - href: content/DataPhotoEntryProcessing.qmd
+            text: Data-Photo Entry Processing
+          - href: content/Interventions.qmd
+            text: Interventions
+          - href: content/Necropsy.qmd
+            text: Necropsy
+          - href: content/Specimens.qmd
+            text: Specimens
+          - href: content/SpecialStudiesSpecies.qmd
+            text: Special Studies/Species
+      - href: content/MarineTurtleProtocols.qmd
+        text: Marine Turtle Protocols     
+      - section: content/PostSeasonProtocols.qmd
+        contents: 
+          - href: content/CleanUpInHonolulu.qmd
+            text: Clean-up in Honolulu
+          - href: content/MonkSealPostSeason.qmd
+            text: Monk Seal Post-Season
+          - href: content/Debriefs.qmd
+            text: Debriefs
       - section: content/OtherResources.qmd
         contents: 
           - href: content/PastMedia.qmd
             text: Past Media
-          - href: content/Ethanpage.qmd
-            text: Ethan's Page
+          - href: content/LibraryCorner.qmd
+            text: Library Corner
+          - href: content/AboutThisWebsite.qmd
+            text: About This Website
 
         
 format:
