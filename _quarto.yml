@@ -37,6 +37,8 @@ website:
       - icon: globe
         href: https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument
         text: "NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument"
+        target: _blank
+        #"target: _blank" makes link pop out to new window
       - icon: github
         href: https://github.com/nmfs-ost/PAM_template_lab_manual
         text: "NMFS PAM SI Lab Manual Template"
