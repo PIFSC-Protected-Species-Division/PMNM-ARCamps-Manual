@@ -1,5 +1,5 @@
 ---
-title: Communication & Media
+title: Internet & Media
 ---
 
 good example for using markdown (with pop-out icon)
