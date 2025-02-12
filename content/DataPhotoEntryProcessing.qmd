@@ -3,3 +3,6 @@ title: "Data-Photo Entry Processing"
 format: html
 ---
 
+-   [Setting Up ACDSee Pro Software for HMS Photo Databases](https://docs.google.com/document/d/1mg3gKdyqNYBRAFnVfaLcdEAC5oX6VRFPfq9Xu30qn1o/edit?usp=sharing){.external target="_blank"}
+
+-   [Hawaiian Monk Seal Photo Management System Using ACDSee Pro](https://docs.google.com/document/d/1pD7cSaVQ02O1W7tVfV_doVr-3Mnez0Pg0fKDvzTc3mo/edit?usp=sharing){.external target="_blank"}

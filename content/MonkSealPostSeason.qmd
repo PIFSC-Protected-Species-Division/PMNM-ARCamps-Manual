@@ -4,5 +4,12 @@ format: html
 ---
 
 ## After Camp Processing
+-   [Data Overview](https://docs.google.com/document/d/1dlILS9NL6dEAHFU-VwuqnSaid3F78OSuz2soz8FNo5o/edit?usp=sharing){.external target="_blank"}
+-   [Data Checklist](https://docs.google.com/document/d/1eHbsy7Arhk4cXH4DBYo4YX2kihA3Z3dJVU3h8UkfN_0/edit?usp=sharing){.external target="_blank"}
+-   [Data Editing and Report Writing](https://docs.google.com/document/d/1_1McUxx6qfST1LdBpLpGoj-fIXDRrIFB-SUWbewyR3c/edit?usp=sharing){.external target="_blank"}
+-   [Specimens]
 
 ## Data Entry Photo Processing
+-   [Computers / SPA](https://docs.google.com/document/d/1LWmXT0Op4Fo8hVopLuvHPZG8TF6-LiQDKwbfkmV--ng/edit?usp=sharing){.external target="_blank"}
+-   [Setting Up ACDSee Pro Software for HMS Photo Databases](https://docs.google.com/document/d/1mg3gKdyqNYBRAFnVfaLcdEAC5oX6VRFPfq9Xu30qn1o/edit?usp=sharing){.external target="_blank"}
+-   [Hawaiian Monk Seal Photo Management System Using ACDSee Pro](https://docs.google.com/document/d/1pD7cSaVQ02O1W7tVfV_doVr-3Mnez0Pg0fKDvzTc3mo/edit?usp=sharing){.external target="_blank"}

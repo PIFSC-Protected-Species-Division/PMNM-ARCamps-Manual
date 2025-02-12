@@ -3,3 +3,4 @@ title: "Debriefs"
 format: html
 ---
 
+-   [Logistics Debrief](https://docs.google.com/document/d/1JofZnl1FNJzAnC5jKPLD2zC69IPZ-s-KFV1AH0aZIBM/edit?usp=sharing){.external target="_blank"}

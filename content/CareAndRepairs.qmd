@@ -3,3 +3,6 @@ title: "Care and Repairs"
 format: html
 ---
 
+-   [Use and Care of Equipment](https://docs.google.com/document/d/10vwo5NnerFIYuidLERN374uBXeH_WMkP_MwkC_yRMwI/edit?usp=sharing){.external target="_blank"}
+
+-   [Equipment Repair Log](https://docs.google.com/spreadsheets/d/1YiSssKkEPUC4-KH-6B_-6y3mYHla48N8FlnhguIefT0/edit?usp=sharing){.external target="_blank"}

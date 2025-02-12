@@ -3,3 +3,14 @@ title: "Specimens"
 format: html
 ---
 
+-   [Specimen Collection Protocol](https://docs.google.com/document/d/1gjIYnJDCQrv1qyrUcpTCaWbQ_bmTTmiX9pMid_8UykA/edit?usp=sharing){.external target="_blank"}
+
+-   [Liquid Nitrogen User Guide and Safety](https://docs.google.com/document/d/1mDJSPF-UQrvvehcpRC4cIfm9UpNCMOENKcrhMd-WPPY/edit?usp=sharing){.external target="_blank"}
+
+-   [Specimen Collection Reminders](https://docs.google.com/document/d/1-qODyMf5dxSbYSZf0TImvjT8EB9UJhOoysk_Wliq5EU/edit?usp=sharing){.external target="_blank"}
+
+-   [Specimen Log Code Summary]
+
+-   [Digital HDz Specimen Collection Spreadsheets]
+
+-   [Zoonotic Diseases]

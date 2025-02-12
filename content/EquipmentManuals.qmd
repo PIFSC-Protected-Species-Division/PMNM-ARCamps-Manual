@@ -2,24 +2,60 @@
 title: "Equipment Manuals"
 format: html
 ---
+
 ## Refrigerators
+-   [Unique UGP 6F Chest Freezer](https://drive.google.com/file/d/1DDZwK3tHJcCs7tsN5q28xiVZjZlVC6Wu/view?usp=sharing)
+-   [Unique UGP 3 Propane Refrigerator](https://drive.google.com/file/d/1y6pULlaaBeCWplmFi8UqsTw-qdg21s5T/view?usp=sharing)
+-   [SunDazer Solar Freezer](https://drive.google.com/file/d/1UE-5wG-UyGAmPiB94_8paX2mphDRdW7u/view?usp=sharing)
+-   [Steca PF166 and PF240 Solar Freezer](https://drive.google.com/file/d/1iU0dcmge6u6rDLN9wc9iZKiBGqjCMitY/view?usp=sharing)
 
 ## Generators, Hoist, Etc
+-   [Generator Protocol](https://docs.google.com/document/d/1GYtTmnWQ9ThCNy880yv8ZuFGJgudDykZ/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true)
+-   [Generator EU1000](https://drive.google.com/file/d/1KOdDUfczSagOzY9VSxZFqeN5G7iQQeC6/view?usp=sharing)
+-   [Generator EB10000](https://drive.google.com/file/d/1x_qnOHvA1U3INpI9c9wC2nMNhX3YMLGG/view?usp=sharing)
+-   [Generator EB6500X](https://drive.google.com/file/d/1dDjx7o89o4bJEWTJJIgEiBEaZlI95V68/view?usp=sharing)
+-   [Dayton Manual Chain Hoist](https://drive.google.com/file/d/1fhWlhv0eL6UaVKXNwBvb7jzW8asFbKrZ/view?usp=sharing)
 
 ## Freezer and Battleborn Battery Solar System
+-   [Solar Freezer Set Up and Use](https://docs.google.com/document/d/1f14ZM1hRWA6GIH65vKVVS9IFApp1lWG1hRDWZrWP5o0/edit?usp=sharing)
+-   [Solar Controllers for Battleborn Batteries](https://drive.google.com/file/d/19SFvva9SHtpodHz1LggR4sWRDc4hCas9/view?usp=sharing)
+-   [PF166-H and PF240-H Refrigerator / Freezer](https://drive.google.com/file/d/1SZat1W_1oBg9UTp0PuBUgCNvl9DoO8y_/view?usp=sharing)
+-   [Battleborn Battery Manual](https://drive.google.com/file/d/1h_uxY7QKgfO5nKEv_VTnyH3nFssTevif/view?usp=sharing)
+-   [Battery Chargers for Battleborn Batteries](https://drive.google.com/file/d/1kCCLJAyyoibD9HCQBgcDTTOPKOlw6Jy5/view?usp=sharing)
 
 ## Emergency Equipment
+-   [Watermaker Katadyn Survivor 6](https://drive.google.com/file/d/1z7_Gv_MGIHLaz-fmTEU4sRAAIjIN_Hmz/view?usp=sharing)
+-   [PLB-400 and 425](https://drive.google.com/file/d/1iApZFBQKeo5tq0D_GgzRP5WVA5w_AkF_/view?usp=drive_link)
+-   [ACR GlobalFIX v4](https://drive.google.com/file/d/1Y1-U1rgoReI_OhOt5oeXg-xQb_1gU99n/view?usp=drive_link)
 
 ## Electronics: Sat Phones & Inreaches
+-   [Iridium Satphone 9555](https://drive.google.com/file/d/1JeaUDUtjqRKhQYZrpApGnMIUrv-XI8J2/view?usp=drive_link)
+-   [InReach Explorer+](https://drive.google.com/file/d/1MpiZXr5R-2w96nHJxKLL8cjSBhIVd2t9/view?usp=drive_link)
+-   [InReach Explorer](https://drive.google.com/file/d/1z1TFB4qx_PZ17qTMvUI4AtCDjrWJA9az/view?usp=drive_link)
 
 ## Electronics: Radios
+-   [Handheld Radio IC-M25](https://drive.google.com/file/d/1sMeTEaX4L4db2lFjsidZn7kRSnUwWCO0/view?usp=drive_link)
+-   [Handheld Radio IC-M24](https://drive.google.com/file/d/1dugZf5yYoFsiFGEsQqfOAhv8fiMISPJj/view?usp=drive_link)
 
 ## Electronics: Pit Tag Readers
+-   [Biomark Pocket Reader](https://drive.google.com/file/d/1Wl_Ch208U8GURZwKzRWeQNL-rxN622sQ/view?usp=drive_link)
+-   [Biomark HPR Lite](https://drive.google.com/file/d/1kfk1DDM3bLhkCxFD6kehcJ6K5-CT_r_e/view?usp=drive_link)
+-   [Biomark GPR Plus](https://drive.google.com/file/d/1i6C8vzjpc7IhOkrqz7jqYbthHU1wl2jD/view?usp=drive_link)
+-   [Biomark 601 Reader](https://drive.google.com/file/d/1FhDMEIqoM74Qy9qqW1gNOQVuhIEc7hs5/view?usp=drive_link)
 
 ## Electronics: GZ
+-   [GoalZero Yeti400](https://drive.google.com/file/d/1DmRPfbMyyoBrdbTuhVNeNk4gf7Zt0dS-/view?usp=drive_link)
+-   [GoalZero Yeti150](https://drive.google.com/file/d/1AInvxz4pAlsCtti_VCfACgaSYrgqCutr/view?usp=drive_link)
+-   [GoalZero Switch10 Multi](https://drive.google.com/file/d/1h6-PYcC1HP3ITgpWfHP8RthjUmVNiv-t/view?usp=drive_link)
+-   [GoalZero Nomad100](https://drive.google.com/file/d/1UbcFJbY6QS_8vSHZ3Yf0u25o-Hm8-buB/view?usp=drive_link)
+-   [GoalZero Nomad20](https://drive.google.com/file/d/1ABauKWVa24LesHgmml31zZITR1KuCDFh/view?usp=drive_link)
+-   [GoalZero Nomad7](https://drive.google.com/file/d/1kCc8uCTcmc7Te1zXFH7FI3lrnc_UfRMC/view?usp=drive_link)
+-   [GoalZero Lantern](https://drive.google.com/file/d/1JOVah9hhOGkHH0z3BfGYaed-sRvXzuwA/view?usp=drive_link)
+-   [GoalZero Boulder100](https://drive.google.com/file/d/1eVwr8qGhe9lSkf5D9333NDnu-TSsSEms/view?usp=drive_link)
+-   [GoalZero Boulder50](https://drive.google.com/file/d/1UE8qWkElpj1OZ6gjyRibCFl6JbgdDyOl/view?usp=drive_link)
+-   [GoalZero Boulder30](https://drive.google.com/file/d/1ZBXlxz3Sat5wJ15DkpVtwNDCsnBY6EI-/view?usp=drive_link)
+-   [GoalZero Nomad28](https://drive.google.com/file/d/1luc-S3U8ZLhGlyDl9KphlGk-v-vBRR5J/view?usp=drive_link)
 
 ## Electronics: GPS
 
 ## Electronics: Cameras and GoPros
-
-
