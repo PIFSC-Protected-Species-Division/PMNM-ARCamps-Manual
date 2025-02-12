@@ -8,6 +8,8 @@ good example for using markdown (with pop-out icon)
 good example for using markdown (without pop-out icon)
 [example](https://example.com){target="_blank"}
 
-[Communication Protocol](https://docs.google.com/document/d/1XaeK8-3qOJfoy9mwuYYnCccQq00Zl-f-r6f2NAd8NjY/edit?tab=t.0){.external target="_blank"}
+-   [Communication Protocol](https://docs.google.com/document/d/1XaeK8-3qOJfoy9mwuYYnCccQq00Zl-f-r6f2NAd8NjY/edit?tab=t.0){.external target="_blank"}
 
-[Personal Social Media Guidelines While Conducting Work in the Papahānaumokuākea Marine National Monument](https://docs.google.com/document/d/1nd7oxxkSThPauQHRa_RX7uEESaekdvTkthd29AqkFG4/edit?tab=t.0#heading=h.nsul0sl0gzmv){.external target="_blank"}
+-   [Personal Social Media Guidelines While Conducting Work in the Papahānaumokuākea Marine National Monument](https://docs.google.com/document/d/1nd7oxxkSThPauQHRa_RX7uEESaekdvTkthd29AqkFG4/edit?tab=t.0#heading=h.nsul0sl0gzmv){.external target="_blank"}
+
+-   [Photography I: Permits & Ethics](https://docs.google.com/document/d/1NJqhJa2Y0GgMqVtbcgAvAMFxlpTLWE-qXn2Cu6QVQPA/edit?usp=sharing){.external target="_blank"}

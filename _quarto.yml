@@ -103,7 +103,7 @@ website:
             text: Equipment Manuals
           - href: content/HAZMATMSDS.qmd
             text: Material Safety Data Sheets
-          - href: content/Packing.qmd
+          - href: content/SettingUpCamp.qmd
             text: Setting Up Camp
       - section: content/Ships.qmd
         contents: 
