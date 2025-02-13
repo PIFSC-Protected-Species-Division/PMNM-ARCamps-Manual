@@ -797,7 +797,7 @@
     "href": "content/SpecialStudiesSpecies.html",
     "title": "Special Studies/Species",
     "section": "",
-    "text": "Special Studies Overview\nTrail Cams, FFS, and PHR\n[FFS: Entrapment Surveys]\nFFS: Shark Bite Swab Kits",
+    "text": "Special Studies Overview\nTrail Cams, FFS, and PHR\nFFS: Entrapment Surveys\nFFS: Shark Bite Swab Kits",
     "crumbs": [
       "Monk Seal Protocols",
       "Special Studies/Species"
@@ -1042,11 +1042,11 @@
     ]
   },
   {
-    "objectID": "content/Boats.html#manuals-repair-troubleshooting-folder",
-    "href": "content/Boats.html#manuals-repair-troubleshooting-folder",
+    "objectID": "content/Boats.html#manuals-repair-troubleshooting",
+    "href": "content/Boats.html#manuals-repair-troubleshooting",
     "title": "Boats",
-    "section": "Manuals, Repair, Troubleshooting Folder",
-    "text": "Manuals, Repair, Troubleshooting Folder\n\nMarine Battery Protocol\nHonda 90 Prop\nInflatable Patching Protocol",
+    "section": "Manuals, Repair, Troubleshooting",
+    "text": "Manuals, Repair, Troubleshooting\n\nManuals, Repair, Troubleshooting Folder",
     "crumbs": [
       "Gear & Packing",
       "Boats"
