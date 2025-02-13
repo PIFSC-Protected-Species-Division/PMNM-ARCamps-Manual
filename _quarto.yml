@@ -74,7 +74,7 @@ website:
             text: Biosecurity and Packing
           - href: content/PermitsBMPs.qmd
             text: Permits & BMPs
-          - href: content/CulturalBriefing
+          - href: content/CulturalBriefing.qmd
             text: Cultural Briefing & Resources
           - href: content/CommunicationMedia.qmd
             text: Internet & Media

@@ -21,7 +21,5 @@ format: html
 -   [NWHI Kayak Protocols](https://docs.google.com/document/d/1wtiQc4GI6ty-QAmoRidBUTmOI3M0vJewv8oE2USq6-U/edit?usp=sharing){.external target="_blank"}
 -   [NWHI Kayak PQS](https://docs.google.com/document/d/1mbeCMh5m5a2_c5O8Gy7Z01WNTWygVtx7dLI4PKkowFA/edit?usp=sharing){.external target="_blank"}
 
-## Manuals, Repair, Troubleshooting Folder
--   [Marine Battery Protocol](https://docs.google.com/document/d/1o6zOyLkOTlBU_GcGqar9FXOCMA1AjuLsTSJzXVMthsY/edit?usp=sharing){.external target="_blank"}
--   [Honda 90 Prop](https://docs.google.com/document/d/17yqgpmi-qJSzZsTeTDNPtGC5zIfHWn6L_qDB_aG1Yq4/edit?usp=drive_link){.external target="_blank"}
--   [Inflatable Patching Protocol](https://docs.google.com/document/d/1FczNhfTUuOvFtkoT0eWFTFftFRiV_8iK/edit?usp=drive_link&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+## Manuals, Repair, Troubleshooting 
+-   [Manuals, Repair, Troubleshooting Folder](https://drive.google.com/drive/folders/1LJqDz1iJRSaoxYTLboCmhufC2xD7qrFt?usp=drive_link){.external target="_blank"}
