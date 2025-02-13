@@ -105,6 +105,8 @@ website:
             text: Material Safety Data Sheets
           - href: content/SettingUpCamp.qmd
             text: Setting Up Camp
+          - href: content/Boats.qmd
+            text: Boats
       - section: content/Ships.qmd
         contents: 
           - href: content/OurVessels.qmd
