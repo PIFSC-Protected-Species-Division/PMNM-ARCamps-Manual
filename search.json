@@ -25,209 +25,662 @@
     ]
   },
   {
-    "objectID": "content/Specimens.html",
-    "href": "content/Specimens.html",
-    "title": "Specimens",
-    "section": "",
-    "text": "Specimen Collection Protocol\nLiquid Nitrogen User Guide and Safety\nSpecimen Collection Reminders\n[Specimen Log Code Summary]\n[Digital HDz Specimen Collection Spreadsheets]\n[Zoonotic Diseases]",
+    "objectID": "content/OurVessels.html#charter-vessels",
+    "href": "content/OurVessels.html#charter-vessels",
+    "title": "Our Vessels",
+    "section": "Charter Vessels",
+    "text": "Charter Vessels",
     "crumbs": [
-      "Monk Seal Protocols",
-      "Specimens"
+      "Ships",
+      "Our Vessels"
     ]
   },
   {
-    "objectID": "content/DataPhotoEntryProcessing.html",
-    "href": "content/DataPhotoEntryProcessing.html",
-    "title": "Data-Photo Entry Processing",
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
     "section": "",
-    "text": "Setting Up ACDSee Pro Software for HMS Photo Databases\nHawaiian Monk Seal Photo Management System Using ACDSee Pro",
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
     "crumbs": [
-      "Monk Seal Protocols",
-      "Data-Photo Entry Processing"
+      "Onboarding"
     ]
   },
   {
-    "objectID": "content/Offboarding.html",
-    "href": "content/Offboarding.html",
-    "title": "Offboarding",
+    "objectID": "content/OnboardingPaperwork.html",
+    "href": "content/OnboardingPaperwork.html",
+    "title": "Onboarding Paperwork",
     "section": "",
-    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
-  },
-  {
-    "objectID": "content/CommunicationMedia.html",
-    "href": "content/CommunicationMedia.html",
-    "title": "Internet & Media",
-    "section": "",
-    "text": "good example for using markdown (with pop-out icon) example\ngood example for using markdown (without pop-out icon) example\n\nCommunication Protocol\nPersonal Social Media Guidelines While Conducting Work in the Papahānaumokuākea Marine National Monument\nPhotography I: Permits & Ethics",
+    "text": "Hiring Checklist\nNOAA Sexual Assault and Sexual Harrassment Prevention\nPIFSC Values Document\n\nGeneral Instructions (sent from RCUH in emails)\nCIMAR/RCUH POCs",
     "crumbs": [
-      "Entering the Monument",
-      "Internet & Media"
+      "Onboarding",
+      "Onboarding Paperwork"
     ]
   },
   {
-    "objectID": "content/PostSeasonProtocols.html",
-    "href": "content/PostSeasonProtocols.html",
-    "title": "Post-Season Protocols",
+    "objectID": "content/AnalysisMethods.html",
+    "href": "content/AnalysisMethods.html",
+    "title": "Analysis Methods",
     "section": "",
-    "text": "After Camp",
-    "crumbs": [
-      "Post-Season Protocols"
-    ]
+    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example"
   },
   {
-    "objectID": "content/Biosecurity.html",
-    "href": "content/Biosecurity.html",
-    "title": "Biosecurity and Packing",
+    "objectID": "content/PermitsBMPs.html",
+    "href": "content/PermitsBMPs.html",
+    "title": "Permits & BMPs",
     "section": "",
-    "text": "Video: Biosecurity Protocols for Protecting the Northwestern Hawaiian Islands (2013)\nPSD PMNM Biosecurity Protocol 2024\nBiosecurity / Appendix 1: PMNM BMPs\nBiosecurity / Appendix 2: Quick Guide to PMNM Invasive Species\nBiosecurity / Appendix 3: Biosecurity Monitoring Log\nBiosecurity / Appendix 4: PMNM Packing Cheat Sheet\nTerrestrial Species Prevention",
+    "text": "HMS Research Permit 22677\nHMS Research Permit 22677 Extension\nHMS Research Permit 22677 Take Tables\nHMS Research Permit Application",
     "crumbs": [
       "Entering the Monument",
-      "Biosecurity and Packing"
+      "Permits & BMPs"
     ]
   },
   {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
+    "objectID": "content/PermitsBMPs.html#research-permits",
+    "href": "content/PermitsBMPs.html#research-permits",
+    "title": "Permits & BMPs",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks)."
+    "text": "HMS Research Permit 22677\nHMS Research Permit 22677 Extension\nHMS Research Permit 22677 Take Tables\nHMS Research Permit Application",
+    "crumbs": [
+      "Entering the Monument",
+      "Permits & BMPs"
+    ]
   },
   {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
+    "objectID": "content/PermitsBMPs.html#monument-permits",
+    "href": "content/PermitsBMPs.html#monument-permits",
+    "title": "Permits & BMPs",
+    "section": "Monument Permits",
+    "text": "Monument Permits\n\nPMNM 2025 Manager’s Permit",
+    "crumbs": [
+      "Entering the Monument",
+      "Permits & BMPs"
+    ]
+  },
+  {
+    "objectID": "content/PermitsBMPs.html#best-management-practices-bmps",
+    "href": "content/PermitsBMPs.html#best-management-practices-bmps",
+    "title": "Permits & BMPs",
+    "section": "Best Management Practices (BMPs)",
+    "text": "Best Management Practices (BMPs)\n\nList of PMNM BMPs\nPMNM BMP 001: Alien Species Inspection Vessels\nPMNM BMP 003: Human Hazards to Seabirds\nPMNM BMP 004: Boat Operations and Diving Activities\nPMNM BMP 005: Laysan Finch Protocol\nPNNM BMP 007: Terrestrial Biosecurity\nPMNM BMP 009: Reducing Light Impact Sea Turtles\nPMNM BMP 010: Marine Wildlife Viewing Guidelines\nPMNM BMP 011: Disease Introduced Species Prevention\nPMNM BMP 012: Precautions for Minimizing Human Impacts on Land Birds\nPMNM BMP 013: Small Boat Operations at Tern Isl\nPMNM BMP 015: Midway Inspection Requirements\nPMNM BMP 016: Nihoa Access\nPMNM BMP 017: Maritime Heritage\nPMNM BMP 018: Terrestrial Alien Species Prevention\nPMNM BMP 019: Mokumanamana\nPMNM BMP 020: Nuisance Algae",
+    "crumbs": [
+      "Entering the Monument",
+      "Permits & BMPs"
+    ]
+  },
+  {
+    "objectID": "content/CleanUpInHonolulu.html",
+    "href": "content/CleanUpInHonolulu.html",
+    "title": "Clean-up in Honolulu",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks)."
+    "text": "Ford Island Cleanup",
+    "crumbs": [
+      "Post-Season Protocols",
+      "Clean-up in Honolulu"
+    ]
   },
   {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example"
-  },
-  {
-    "objectID": "content/SafetyTraining.html",
-    "href": "content/SafetyTraining.html",
-    "title": "Safety & Communication",
+    "objectID": "content/PublicationsPresentations.html",
+    "href": "content/PublicationsPresentations.html",
+    "title": "Publications and Presentations",
     "section": "",
-    "text": "Communication Protocol\nEmergency Protocol\nField Camp Regular and Emergency Contact List\nCamp Takedown Emergency Protocol\nEmail / SkyFile Directions\nHEPA SOP\nSoap Notes, NOLS Resource\nRCUH Accident / Injury Reporting Form\nRCUH Employee Assistance Program Brochure\n2025 PIFSC PSD NWHI Operations Illness and Injury Risk Mitigation Plan\nHawaii Boater’s Hurricane and Tsunami Safety Manual",
-    "crumbs": [
-      "Training",
-      "Safety & Communication"
-    ]
+    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)"
   },
   {
-    "objectID": "content/Resources.html",
-    "href": "content/Resources.html",
-    "title": "Resources",
+    "objectID": "content/Necropsy.html",
+    "href": "content/Necropsy.html",
+    "title": "Necropsy",
     "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
-  },
-  {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
-  },
-  {
-    "objectID": "content/HAZMATMSDS.html#explosives-flares-ammo",
-    "href": "content/HAZMATMSDS.html#explosives-flares-ammo",
-    "title": "Material Safety Data Sheets",
-    "section": "Explosives: Flares & Ammo",
-    "text": "Explosives: Flares & Ammo",
-    "crumbs": [
-      "Gear & Packing",
-      "Material Safety Data Sheets"
-    ]
-  },
-  {
-    "objectID": "content/HAZMATMSDS.html#corrosives-bleach-rescue-hair-bleach",
-    "href": "content/HAZMATMSDS.html#corrosives-bleach-rescue-hair-bleach",
-    "title": "Material Safety Data Sheets",
-    "section": "Corrosives: Bleach, Rescue, Hair Bleach",
-    "text": "Corrosives: Bleach, Rescue, Hair Bleach",
-    "crumbs": [
-      "Gear & Packing",
-      "Material Safety Data Sheets"
-    ]
-  },
-  {
-    "objectID": "content/HAZMATMSDS.html#flammables-propane-gas",
-    "href": "content/HAZMATMSDS.html#flammables-propane-gas",
-    "title": "Material Safety Data Sheets",
-    "section": "Flammables: Propane & Gas",
-    "text": "Flammables: Propane & Gas",
-    "crumbs": [
-      "Gear & Packing",
-      "Material Safety Data Sheets"
-    ]
-  },
-  {
-    "objectID": "content/HAZMATMSDS.html#flammables-insecticide",
-    "href": "content/HAZMATMSDS.html#flammables-insecticide",
-    "title": "Material Safety Data Sheets",
-    "section": "Flammables: Insecticide",
-    "text": "Flammables: Insecticide",
-    "crumbs": [
-      "Gear & Packing",
-      "Material Safety Data Sheets"
-    ]
-  },
-  {
-    "objectID": "content/HAZMATMSDS.html#flammables-general-camp",
-    "href": "content/HAZMATMSDS.html#flammables-general-camp",
-    "title": "Material Safety Data Sheets",
-    "section": "Flammables: General Camp",
-    "text": "Flammables: General Camp",
-    "crumbs": [
-      "Gear & Packing",
-      "Material Safety Data Sheets"
-    ]
-  },
-  {
-    "objectID": "content/HAZMATMSDS.html#flammables-camp-boat-maintenance",
-    "href": "content/HAZMATMSDS.html#flammables-camp-boat-maintenance",
-    "title": "Material Safety Data Sheets",
-    "section": "Flammables: Camp & Boat Maintenance",
-    "text": "Flammables: Camp & Boat Maintenance",
-    "crumbs": [
-      "Gear & Packing",
-      "Material Safety Data Sheets"
-    ]
-  },
-  {
-    "objectID": "content/Orientation.html",
-    "href": "content/Orientation.html",
-    "title": "Orientation",
-    "section": "",
-    "text": "Rough schedule (not specific to a year)",
-    "crumbs": [
-      "Orientation"
-    ]
-  },
-  {
-    "objectID": "content/SpecialStudiesSpecies.html",
-    "href": "content/SpecialStudiesSpecies.html",
-    "title": "Special Studies/Species",
-    "section": "",
-    "text": "Special Studies Overview\nTrail Cams, FFS, and PHR\n[FFS: Entrapment Surveys]\nFFS: Shark Bite Swab Kits",
+    "text": "Necropsy Protocol\nBlank Necropsy Gross Report\nExample Necropsy Gross Report\n[Necropsy Sample Checklists]\nNecropsy Helpful Hint Guide\n[Cetacean Strandings / Necropsy]",
     "crumbs": [
       "Monk Seal Protocols",
-      "Special Studies/Species"
+      "Necropsy"
     ]
   },
   {
-    "objectID": "content/OverviewofResearch.html",
-    "href": "content/OverviewofResearch.html",
-    "title": "Overview of Research",
+    "objectID": "content/EthanPage.html",
+    "href": "content/EthanPage.html",
+    "title": "Ethan’s Page",
     "section": "",
-    "text": "Fact Sheet HMS\nIsland Population Summaries - HMS",
+    "text": "ADRIFT example"
+  },
+  {
+    "objectID": "content/SharedValues.html",
+    "href": "content/SharedValues.html",
+    "title": "Shared Values",
+    "section": "",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
+  },
+  {
+    "objectID": "content/MeettheTeam.html",
+    "href": "content/MeettheTeam.html",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "Field Staff and Camp Dates",
     "crumbs": [
       "Orientation",
-      "Overview of Research"
+      "Meet the Team"
     ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html",
+    "href": "content/EquipmentManuals.html",
+    "title": "Equipment Manuals",
+    "section": "",
+    "text": "Inventory of Equipment Manuals",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#refrigerators",
+    "href": "content/EquipmentManuals.html#refrigerators",
+    "title": "Equipment Manuals",
+    "section": "Refrigerators",
+    "text": "Refrigerators\n\nUnique UGP 6F Chest Freezer\nUnique UGP 3 Propane Refrigerator\nSunDazer Solar Freezer\nSteca PF166 and PF240 Solar Freezer",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#generators-hoist-etc",
+    "href": "content/EquipmentManuals.html#generators-hoist-etc",
+    "title": "Equipment Manuals",
+    "section": "Generators, Hoist, Etc",
+    "text": "Generators, Hoist, Etc\n\nGenerator Protocol\nGenerator EU1000\nGenerator EB10000\nGenerator EB6500X\nDayton Manual Chain Hoist",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#freezer-and-battleborn-battery-solar-system",
+    "href": "content/EquipmentManuals.html#freezer-and-battleborn-battery-solar-system",
+    "title": "Equipment Manuals",
+    "section": "Freezer and Battleborn Battery Solar System",
+    "text": "Freezer and Battleborn Battery Solar System\n\nSolar Freezer Set Up and Use\nSolar Controllers for Battleborn Batteries\nPF166-H and PF240-H Refrigerator / Freezer\nBattleborn Battery Manual\nBattery Chargers for Battleborn Batteries",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#emergency-equipment",
+    "href": "content/EquipmentManuals.html#emergency-equipment",
+    "title": "Equipment Manuals",
+    "section": "Emergency Equipment",
+    "text": "Emergency Equipment\n\nWatermaker Katadyn Survivor 6\nPLB-400 and 425\nACR GlobalFIX v4",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#electronics-sat-phones-inreaches",
+    "href": "content/EquipmentManuals.html#electronics-sat-phones-inreaches",
+    "title": "Equipment Manuals",
+    "section": "Electronics: Sat Phones & Inreaches",
+    "text": "Electronics: Sat Phones & Inreaches\n\nIridium Satphone 9555\nInReach Explorer+\nInReach Explorer",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#electronics-radios",
+    "href": "content/EquipmentManuals.html#electronics-radios",
+    "title": "Equipment Manuals",
+    "section": "Electronics: Radios",
+    "text": "Electronics: Radios\n\nHandheld Radio IC-M25\nHandheld Radio IC-M24",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#electronics-pit-tag-readers",
+    "href": "content/EquipmentManuals.html#electronics-pit-tag-readers",
+    "title": "Equipment Manuals",
+    "section": "Electronics: Pit Tag Readers",
+    "text": "Electronics: Pit Tag Readers\n\nBiomark Pocket Reader\nBiomark HPR Lite\nBiomark GPR Plus\nBiomark 601 Reader",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#electronics-gz",
+    "href": "content/EquipmentManuals.html#electronics-gz",
+    "title": "Equipment Manuals",
+    "section": "Electronics: GZ",
+    "text": "Electronics: GZ\n\nGoalZero Yeti400\nGoalZero Yeti150\nGoalZero Switch10 Multi\nGoalZero Nomad100\nGoalZero Nomad20\nGoalZero Nomad7\nGoalZero Lantern\nGoalZero Boulder100\nGoalZero Boulder50\nGoalZero Boulder30\nGoalZero Nomad28",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#electronics-gps",
+    "href": "content/EquipmentManuals.html#electronics-gps",
+    "title": "Equipment Manuals",
+    "section": "Electronics: GPS",
+    "text": "Electronics: GPS\n\nGarmin GPS76",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/EquipmentManuals.html#electronics-cameras-and-gopros",
+    "href": "content/EquipmentManuals.html#electronics-cameras-and-gopros",
+    "title": "Equipment Manuals",
+    "section": "Electronics: Cameras and GoPros",
+    "text": "Electronics: Cameras and GoPros\n\nPanasonic Lumix DMC-TS6\nPanasonic Lumix DMC-TZ3\nPanasonic Lumix DMC-FZ200/60\nPanasonic Lumix DMC-FZ70\nPanasonic Lumix DMC-FZ47\nPanasonic Lumix DMC-FZ35\nPanasonic Lumix DMC-FZ80\nGoPro Hero 2",
+    "crumbs": [
+      "Gear & Packing",
+      "Equipment Manuals"
+    ]
+  },
+  {
+    "objectID": "content/HonoluluTips.html#living-in-honolulu",
+    "href": "content/HonoluluTips.html#living-in-honolulu",
+    "title": "Honolulu Tips",
+    "section": "Living in Honolulu",
+    "text": "Living in Honolulu",
+    "crumbs": [
+      "Onboarding",
+      "Honolulu Tips"
+    ]
+  },
+  {
+    "objectID": "content/HonoluluTips.html#transportation",
+    "href": "content/HonoluluTips.html#transportation",
+    "title": "Honolulu Tips",
+    "section": "Transportation",
+    "text": "Transportation",
+    "crumbs": [
+      "Onboarding",
+      "Honolulu Tips"
+    ]
+  },
+  {
+    "objectID": "content/MonkSealPostSeason.html",
+    "href": "content/MonkSealPostSeason.html",
+    "title": "Monk Seal Post-Season",
+    "section": "",
+    "text": "Data Overview\nData Checklist\nData Editing and Report Writing\n[Specimens]",
+    "crumbs": [
+      "Post-Season Protocols",
+      "Monk Seal Post-Season"
+    ]
+  },
+  {
+    "objectID": "content/MonkSealPostSeason.html#after-camp-processing",
+    "href": "content/MonkSealPostSeason.html#after-camp-processing",
+    "title": "Monk Seal Post-Season",
+    "section": "",
+    "text": "Data Overview\nData Checklist\nData Editing and Report Writing\n[Specimens]",
+    "crumbs": [
+      "Post-Season Protocols",
+      "Monk Seal Post-Season"
+    ]
+  },
+  {
+    "objectID": "content/MonkSealPostSeason.html#data-entry-photo-processing",
+    "href": "content/MonkSealPostSeason.html#data-entry-photo-processing",
+    "title": "Monk Seal Post-Season",
+    "section": "Data Entry Photo Processing",
+    "text": "Data Entry Photo Processing\n\nComputers / SPA\nSetting Up ACDSee Pro Software for HMS Photo Databases\nHawaiian Monk Seal Photo Management System Using ACDSee Pro",
+    "crumbs": [
+      "Post-Season Protocols",
+      "Monk Seal Post-Season"
+    ]
+  },
+  {
+    "objectID": "content/Debriefs.html",
+    "href": "content/Debriefs.html",
+    "title": "Debriefs",
+    "section": "",
+    "text": "Logistics Debrief",
+    "crumbs": [
+      "Post-Season Protocols",
+      "Debriefs"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html",
+    "href": "content/DataManagement.html",
+    "title": "Turtles",
+    "section": "",
+    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual"
+  },
+  {
+    "objectID": "content/GearDatabase.html",
+    "href": "content/GearDatabase.html",
+    "title": "Gear Database",
+    "section": "",
+    "text": "Gear Database Protocol",
+    "crumbs": [
+      "Gear & Packing",
+      "Gear Database"
+    ]
+  },
+  {
+    "objectID": "content/CareAndRepairs.html",
+    "href": "content/CareAndRepairs.html",
+    "title": "Care and Repairs",
+    "section": "",
+    "text": "Use and Care of Equipment\nEquipment Repair Log",
+    "crumbs": [
+      "Gear & Packing",
+      "Care and Repairs"
+    ]
+  },
+  {
+    "objectID": "content/Calendar.html",
+    "href": "content/Calendar.html",
+    "title": "Calendar",
+    "section": "",
+    "text": "11-22 September 2023"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
+    "href": "content/NMFS_OpenSciDirections/publishing.html",
+    "title": "Publishing",
+    "section": "",
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
+    "href": "content/NMFS_OpenSciDirections/rendering.html",
+    "title": "Rendering",
+    "section": "",
+    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "title": "Rendering",
+    "section": "Step 1. Make sure you have a recent RStudio",
+    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "title": "Rendering",
+    "section": "Step 2. Clone and create RStudio project",
+    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "title": "Rendering",
+    "section": "Step 3. Render within RStudio",
+    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "title": "R Markdown",
+    "section": "",
+    "text": "You can include R Markdown files in your project."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "title": "R Markdown",
+    "section": "R Markdown",
+    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "title": "R Markdown",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "content/LabManagement.html",
+    "href": "content/LabManagement.html",
+    "title": "Lab Management",
+    "section": "",
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
+  },
+  {
+    "objectID": "content/FieldMethods.html",
+    "href": "content/FieldMethods.html",
+    "title": "Field Methods",
+    "section": "",
+    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example"
+  },
+  {
+    "objectID": "index.html#welcome-to-noaas-arc",
+    "href": "index.html#welcome-to-noaas-arc",
+    "title": "Welcome",
+    "section": "Welcome to NOAA’s ARC!",
+    "text": "Welcome to NOAA’s ARC!\nThis is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#top-links",
+    "href": "index.html#top-links",
+    "title": "Welcome",
+    "section": "Top Links",
+    "text": "Top Links\n\n2025 Training Calendar (see also training tab on left)\nCIMAR Papahānaumokuākea Protected Species Field Research\nNOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#who-are-we",
+    "href": "index.html#who-are-we",
+    "title": "Welcome",
+    "section": "Who are we?",
+    "text": "Who are we?\nA brief overview to orient new staff to the levels of organization (NOAA, PIFSC, PSD, HMSRP, MTBAP, PSSP, CIMAR/RCUH, PMNM)\nSee “Acronyms” for more\nC:\\Users\\marylou.staman\\Desktop\\2025.01 Marylou MOICC",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Welcome",
+    "section": "Schedule",
+    "text": "Schedule",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-manual",
+    "href": "index.html#how-to-use-this-manual",
+    "title": "Welcome",
+    "section": "How to use this manual",
+    "text": "How to use this manual\nXYZ instructions",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#example-manuals",
+    "href": "index.html#example-manuals",
+    "title": "Welcome",
+    "section": "Example Manuals",
+    "text": "Example Manuals\nHere are other lab manuals to pull inspiration from\n\nSWFSC Southwest Acoustic Ecology Lab Manual\nFaylab Manual\nSWFSC Glider Lab Manual\nAdrift Field Methods",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#example-how-to-link-to-other-pages",
+    "href": "index.html#example-how-to-link-to-other-pages",
+    "title": "Welcome",
+    "section": "Example how to link to other pages",
+    "text": "Example how to link to other pages\n\nLab Management",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "content/Interventions.html",
+    "href": "content/Interventions.html",
+    "title": "Interventions",
+    "section": "",
+    "text": "Field Intervention Overview\nMale Aggression Response\nAversive Techniques\nHMS Health Assessment Checklist and Guidelines\nAbscess Treatment\nHMS Medication Administration & Pole Syringe Care\nPole Syringe Dry Bag Maintenance\nBeach Pen Protocol\nVaccination\nTranslocation",
+    "crumbs": [
+      "Monk Seal Protocols",
+      "Interventions"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html",
+    "href": "content/NMFS_OpenSciDirections/code.html",
+    "title": "Rendering with Code",
+    "section": "",
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
+    "href": "content/NMFS_OpenSciDirections/add-content.html",
+    "title": "Customize Content",
+    "section": "",
+    "text": "You can customize your content by (1) Modifying existing content, or (2) creating your own content. For examples, we will assume a folder structure such as that in the PAM Template Lab Manual."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
+    "title": "Customize Content",
+    "section": "Modify Existing Content",
+    "text": "Modify Existing Content\nHere are basic instructions for modifying existing content, such as the example pages provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). As an example, we will change the “/content/Hardware.qmd” file. First, read the information in the page to understand the intended content. To start, we will organize different subheadings within this page.\nIdentify Sub-Headings. In this example, we will want to identify different types of Hardware used by our particular lab. In this example, we will want the following categories: “PAM Gliders”, “Drifting Recorders”, “Towed Arrays”, and “Handheld Hydrophones”.\n\nUsing the Source editor, use # to indicate Heading 1 style, ## for Heading 2 Style, etc.\nUsing the Visual editor, use the dropdown menu to select the Heading Style\n\nAdd Content. Most content will consist of text, with some images, hyperlinks, and occasional tables. To start, we recommend identifying the content you would like to put in there, and identify the Point of Contact (POC). As an example, we may put the following text:\nPOC: Jane Doe. General description of Hardware, links to online content (vendor specification page, relevant online content), instructions for build or maintain hardware (or links to that information), links to inventory, etc.\nOnce your outline is developed, fill in the content. IF someone else will collate the content– they can create it in a separate document to be copied/pasted here, or they can directly modify this page.\nIf you find you need separate pages for each sub-heading (instead of one long subheading), then create New Content, and link the new content to the _quarto.yml.\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
+    "title": "Customize Content",
+    "section": "Create New Content",
+    "text": "Create New Content\nAgain, assuming you have an RStudio project for your Github Repository, such as the example provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). Select New Blank File, and in the drop-down, select Quarto Document. Then give your file a logical and descriptive name.\n\nUsing the Source editor, create a title header with the text you would like as your primary Header for this page (will appear as Header 1).\n\nAdd content below the header section, using either the Source or Visual editor in RStudio.\nAdd your new content to the _quarto.yml\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#examples",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#examples",
+    "title": "Customize Content",
+    "section": "Examples",
+    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#resources",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#resources",
+    "title": "Customize Content",
+    "section": "Resources",
+    "text": "Resources\n\nQuarto documentation."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/organize.html",
+    "href": "content/NMFS_OpenSciDirections/organize.html",
+    "title": "Organize with Yaml",
+    "section": "",
+    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
+    "href": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
+    "title": "Organize with Yaml",
+    "section": "",
+    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/organize.html#resources",
+    "href": "content/NMFS_OpenSciDirections/organize.html#resources",
+    "title": "Organize with Yaml",
+    "section": "Resources",
+    "text": "Resources\n\nYaml Checker\nQuarto Yaml Options (HTML)\nQuarto Book Structure"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
+    "href": "content/NMFS_OpenSciDirections/Intro.html",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
   },
   {
     "objectID": "content/OverviewofCamps.html",
@@ -329,650 +782,274 @@
     ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "title": "Getting Started",
+    "objectID": "content/OverviewofResearch.html",
+    "href": "content/OverviewofResearch.html",
+    "title": "Overview of Research",
     "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
-    "href": "content/NMFS_OpenSciDirections/Intro.html",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/organize.html",
-    "href": "content/NMFS_OpenSciDirections/organize.html",
-    "title": "Organize with Yaml",
-    "section": "",
-    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
-    "href": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
-    "title": "Organize with Yaml",
-    "section": "",
-    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/organize.html#resources",
-    "href": "content/NMFS_OpenSciDirections/organize.html#resources",
-    "title": "Organize with Yaml",
-    "section": "Resources",
-    "text": "Resources\n\nYaml Checker\nQuarto Yaml Options (HTML)\nQuarto Book Structure"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
-    "href": "content/NMFS_OpenSciDirections/add-content.html",
-    "title": "Customize Content",
-    "section": "",
-    "text": "You can customize your content by (1) Modifying existing content, or (2) creating your own content. For examples, we will assume a folder structure such as that in the PAM Template Lab Manual."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
-    "title": "Customize Content",
-    "section": "Modify Existing Content",
-    "text": "Modify Existing Content\nHere are basic instructions for modifying existing content, such as the example pages provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). As an example, we will change the “/content/Hardware.qmd” file. First, read the information in the page to understand the intended content. To start, we will organize different subheadings within this page.\nIdentify Sub-Headings. In this example, we will want to identify different types of Hardware used by our particular lab. In this example, we will want the following categories: “PAM Gliders”, “Drifting Recorders”, “Towed Arrays”, and “Handheld Hydrophones”.\n\nUsing the Source editor, use # to indicate Heading 1 style, ## for Heading 2 Style, etc.\nUsing the Visual editor, use the dropdown menu to select the Heading Style\n\nAdd Content. Most content will consist of text, with some images, hyperlinks, and occasional tables. To start, we recommend identifying the content you would like to put in there, and identify the Point of Contact (POC). As an example, we may put the following text:\nPOC: Jane Doe. General description of Hardware, links to online content (vendor specification page, relevant online content), instructions for build or maintain hardware (or links to that information), links to inventory, etc.\nOnce your outline is developed, fill in the content. IF someone else will collate the content– they can create it in a separate document to be copied/pasted here, or they can directly modify this page.\nIf you find you need separate pages for each sub-heading (instead of one long subheading), then create New Content, and link the new content to the _quarto.yml.\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
-    "title": "Customize Content",
-    "section": "Create New Content",
-    "text": "Create New Content\nAgain, assuming you have an RStudio project for your Github Repository, such as the example provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). Select New Blank File, and in the drop-down, select Quarto Document. Then give your file a logical and descriptive name.\n\nUsing the Source editor, create a title header with the text you would like as your primary Header for this page (will appear as Header 1).\n\nAdd content below the header section, using either the Source or Visual editor in RStudio.\nAdd your new content to the _quarto.yml\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#examples",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#examples",
-    "title": "Customize Content",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#resources",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#resources",
-    "title": "Customize Content",
-    "section": "Resources",
-    "text": "Resources\n\nQuarto documentation."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html",
-    "href": "content/NMFS_OpenSciDirections/code.html",
-    "title": "Rendering with Code",
-    "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
-  },
-  {
-    "objectID": "content/Interventions.html",
-    "href": "content/Interventions.html",
-    "title": "Interventions",
-    "section": "",
-    "text": "Field Intervention Overview\nMale Aggression Response\nAversive Techniques\nHMS Health Assessment Checklist and Guidelines\nAbscess Treatment\nHMS Medication Administration & Pole Syringe Care\nPole Syringe Dry Bag Maintenance\nBeach Pen Protocol\nVaccination\nTranslocation",
-    "crumbs": [
-      "Monk Seal Protocols",
-      "Interventions"
-    ]
-  },
-  {
-    "objectID": "index.html#welcome-to-noaas-arc",
-    "href": "index.html#welcome-to-noaas-arc",
-    "title": "Welcome",
-    "section": "Welcome to NOAA’s ARC!",
-    "text": "Welcome to NOAA’s ARC!\nThis is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#top-links",
-    "href": "index.html#top-links",
-    "title": "Welcome",
-    "section": "Top Links",
-    "text": "Top Links\n\n2025 Training Calendar (see also training tab on left)\nCIMAR Papahānaumokuākea Protected Species Field Research\nNOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#who-are-we",
-    "href": "index.html#who-are-we",
-    "title": "Welcome",
-    "section": "Who are we?",
-    "text": "Who are we?\nA brief overview to orient new staff to the levels of organization (NOAA, PIFSC, PSD, HMSRP, MTBAP, PSSP, CIMAR/RCUH, PMNM)\nSee “Acronyms” for more\nC:\\Users\\marylou.staman\\Desktop\\2025.01 Marylou MOICC",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "Welcome",
-    "section": "Schedule",
-    "text": "Schedule",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#how-to-use-this-manual",
-    "href": "index.html#how-to-use-this-manual",
-    "title": "Welcome",
-    "section": "How to use this manual",
-    "text": "How to use this manual\nXYZ instructions",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#example-manuals",
-    "href": "index.html#example-manuals",
-    "title": "Welcome",
-    "section": "Example Manuals",
-    "text": "Example Manuals\nHere are other lab manuals to pull inspiration from\n\nSWFSC Southwest Acoustic Ecology Lab Manual\nFaylab Manual\nSWFSC Glider Lab Manual\nAdrift Field Methods",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#example-how-to-link-to-other-pages",
-    "href": "index.html#example-how-to-link-to-other-pages",
-    "title": "Welcome",
-    "section": "Example how to link to other pages",
-    "text": "Example how to link to other pages\n\nLab Management",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
-    "title": "Field Methods",
-    "section": "",
-    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example"
-  },
-  {
-    "objectID": "content/LabManagement.html",
-    "href": "content/LabManagement.html",
-    "title": "Lab Management",
-    "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "title": "R Markdown",
-    "section": "",
-    "text": "You can include R Markdown files in your project."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "title": "R Markdown",
-    "section": "R Markdown",
-    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "title": "R Markdown",
-    "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "title": "Acknowledgments",
-    "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
-    "href": "content/NMFS_OpenSciDirections/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
-    "href": "content/NMFS_OpenSciDirections/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/Calendar.html",
-    "href": "content/Calendar.html",
-    "title": "Calendar",
-    "section": "",
-    "text": "11-22 September 2023"
-  },
-  {
-    "objectID": "content/CareAndRepairs.html",
-    "href": "content/CareAndRepairs.html",
-    "title": "Care and Repairs",
-    "section": "",
-    "text": "Use and Care of Equipment\nEquipment Repair Log",
-    "crumbs": [
-      "Gear & Packing",
-      "Care and Repairs"
-    ]
-  },
-  {
-    "objectID": "content/GearDatabase.html",
-    "href": "content/GearDatabase.html",
-    "title": "Gear Database",
-    "section": "",
-    "text": "Use and Care of Equipment 2024\nPSD Generator Protocol\nProtocol for Setting Up and Using Solar Freezers\nLogistics Debrief\nEquipment Repair Log 2024",
-    "crumbs": [
-      "Gear & Packing",
-      "Gear Database"
-    ]
-  },
-  {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
-    "title": "Turtles",
-    "section": "",
-    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual"
-  },
-  {
-    "objectID": "content/Debriefs.html",
-    "href": "content/Debriefs.html",
-    "title": "Debriefs",
-    "section": "",
-    "text": "Logistics Debrief",
-    "crumbs": [
-      "Post-Season Protocols",
-      "Debriefs"
-    ]
-  },
-  {
-    "objectID": "content/MonkSealPostSeason.html",
-    "href": "content/MonkSealPostSeason.html",
-    "title": "Monk Seal Post-Season",
-    "section": "",
-    "text": "Data Overview\nData Checklist\nData Editing and Report Writing\n[Specimens]",
-    "crumbs": [
-      "Post-Season Protocols",
-      "Monk Seal Post-Season"
-    ]
-  },
-  {
-    "objectID": "content/MonkSealPostSeason.html#after-camp-processing",
-    "href": "content/MonkSealPostSeason.html#after-camp-processing",
-    "title": "Monk Seal Post-Season",
-    "section": "",
-    "text": "Data Overview\nData Checklist\nData Editing and Report Writing\n[Specimens]",
-    "crumbs": [
-      "Post-Season Protocols",
-      "Monk Seal Post-Season"
-    ]
-  },
-  {
-    "objectID": "content/MonkSealPostSeason.html#data-entry-photo-processing",
-    "href": "content/MonkSealPostSeason.html#data-entry-photo-processing",
-    "title": "Monk Seal Post-Season",
-    "section": "Data Entry Photo Processing",
-    "text": "Data Entry Photo Processing\n\nComputers / SPA\nSetting Up ACDSee Pro Software for HMS Photo Databases\nHawaiian Monk Seal Photo Management System Using ACDSee Pro",
-    "crumbs": [
-      "Post-Season Protocols",
-      "Monk Seal Post-Season"
-    ]
-  },
-  {
-    "objectID": "content/HonoluluTips.html#living-in-honolulu",
-    "href": "content/HonoluluTips.html#living-in-honolulu",
-    "title": "Honolulu Tips",
-    "section": "Living in Honolulu",
-    "text": "Living in Honolulu",
-    "crumbs": [
-      "Onboarding",
-      "Honolulu Tips"
-    ]
-  },
-  {
-    "objectID": "content/HonoluluTips.html#transportation",
-    "href": "content/HonoluluTips.html#transportation",
-    "title": "Honolulu Tips",
-    "section": "Transportation",
-    "text": "Transportation",
-    "crumbs": [
-      "Onboarding",
-      "Honolulu Tips"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html",
-    "href": "content/EquipmentManuals.html",
-    "title": "Equipment Manuals",
-    "section": "",
-    "text": "Unique UGP 6F Chest Freezer\nUnique UGP 3 Propane Refrigerator\nSunDazer Solar Freezer\nSteca PF166 and PF240 Solar Freezer",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#refrigerators",
-    "href": "content/EquipmentManuals.html#refrigerators",
-    "title": "Equipment Manuals",
-    "section": "",
-    "text": "Unique UGP 6F Chest Freezer\nUnique UGP 3 Propane Refrigerator\nSunDazer Solar Freezer\nSteca PF166 and PF240 Solar Freezer",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#generators-hoist-etc",
-    "href": "content/EquipmentManuals.html#generators-hoist-etc",
-    "title": "Equipment Manuals",
-    "section": "Generators, Hoist, Etc",
-    "text": "Generators, Hoist, Etc\n\nGenerator Protocol\nGenerator EU1000\nGenerator EB10000\nGenerator EB6500X\nDayton Manual Chain Hoist",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#freezer-and-battleborn-battery-solar-system",
-    "href": "content/EquipmentManuals.html#freezer-and-battleborn-battery-solar-system",
-    "title": "Equipment Manuals",
-    "section": "Freezer and Battleborn Battery Solar System",
-    "text": "Freezer and Battleborn Battery Solar System\n\nSolar Freezer Set Up and Use\nSolar Controllers for Battleborn Batteries\nPF166-H and PF240-H Refrigerator / Freezer\nBattleborn Battery Manual\nBattery Chargers for Battleborn Batteries",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#emergency-equipment",
-    "href": "content/EquipmentManuals.html#emergency-equipment",
-    "title": "Equipment Manuals",
-    "section": "Emergency Equipment",
-    "text": "Emergency Equipment\n\nWatermaker Katadyn Survivor 6\nPLB-400 and 425\nACR GlobalFIX v4",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#electronics-sat-phones-inreaches",
-    "href": "content/EquipmentManuals.html#electronics-sat-phones-inreaches",
-    "title": "Equipment Manuals",
-    "section": "Electronics: Sat Phones & Inreaches",
-    "text": "Electronics: Sat Phones & Inreaches\n\nIridium Satphone 9555\nInReach Explorer+\nInReach Explorer",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#electronics-radios",
-    "href": "content/EquipmentManuals.html#electronics-radios",
-    "title": "Equipment Manuals",
-    "section": "Electronics: Radios",
-    "text": "Electronics: Radios\n\nHandheld Radio IC-M25\nHandheld Radio IC-M24",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#electronics-pit-tag-readers",
-    "href": "content/EquipmentManuals.html#electronics-pit-tag-readers",
-    "title": "Equipment Manuals",
-    "section": "Electronics: Pit Tag Readers",
-    "text": "Electronics: Pit Tag Readers\n\nBiomark Pocket Reader\nBiomark HPR Lite\nBiomark GPR Plus\nBiomark 601 Reader",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#electronics-gz",
-    "href": "content/EquipmentManuals.html#electronics-gz",
-    "title": "Equipment Manuals",
-    "section": "Electronics: GZ",
-    "text": "Electronics: GZ\n\nGoalZero Yeti400\nGoalZero Yeti150\nGoalZero Switch10 Multi\nGoalZero Nomad100\nGoalZero Nomad20\nGoalZero Nomad7\nGoalZero Lantern\nGoalZero Boulder100\nGoalZero Boulder50\nGoalZero Boulder30\nGoalZero Nomad28",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#electronics-gps",
-    "href": "content/EquipmentManuals.html#electronics-gps",
-    "title": "Equipment Manuals",
-    "section": "Electronics: GPS",
-    "text": "Electronics: GPS",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/EquipmentManuals.html#electronics-cameras-and-gopros",
-    "href": "content/EquipmentManuals.html#electronics-cameras-and-gopros",
-    "title": "Equipment Manuals",
-    "section": "Electronics: Cameras and GoPros",
-    "text": "Electronics: Cameras and GoPros",
-    "crumbs": [
-      "Gear & Packing",
-      "Equipment Manuals"
-    ]
-  },
-  {
-    "objectID": "content/MeettheTeam.html",
-    "href": "content/MeettheTeam.html",
-    "title": "Meet the Team",
-    "section": "",
-    "text": "Field Staff and Camp Dates",
+    "text": "Fact Sheet HMS\nIsland Population Summaries - HMS",
     "crumbs": [
       "Orientation",
-      "Meet the Team"
+      "Overview of Research"
     ]
   },
   {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
+    "objectID": "content/SpecialStudiesSpecies.html",
+    "href": "content/SpecialStudiesSpecies.html",
+    "title": "Special Studies/Species",
     "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
-  },
-  {
-    "objectID": "content/EthanPage.html",
-    "href": "content/EthanPage.html",
-    "title": "Ethan’s Page",
-    "section": "",
-    "text": "ADRIFT example"
-  },
-  {
-    "objectID": "content/Necropsy.html",
-    "href": "content/Necropsy.html",
-    "title": "Necropsy",
-    "section": "",
-    "text": "Necropsy Protocol\nBlank Necropsy Gross Report\nExample Necropsy Gross Report\n[Necropsy Sample Checklists]\nNecropsy Helpful Hint Guide\n[Cetacean Strandings / Necropsy]",
+    "text": "Special Studies Overview\nTrail Cams, FFS, and PHR\n[FFS: Entrapment Surveys]\nFFS: Shark Bite Swab Kits",
     "crumbs": [
       "Monk Seal Protocols",
-      "Necropsy"
+      "Special Studies/Species"
     ]
   },
   {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
+    "objectID": "content/Orientation.html",
+    "href": "content/Orientation.html",
+    "title": "Orientation",
     "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)"
+    "text": "Rough schedule (not specific to a year)",
+    "crumbs": [
+      "Orientation"
+    ]
   },
   {
-    "objectID": "content/PermitsBMPs.html",
-    "href": "content/PermitsBMPs.html",
-    "title": "Permits & BMPs",
+    "objectID": "content/HAZMATMSDS.html",
+    "href": "content/HAZMATMSDS.html",
+    "title": "Material Safety Data Sheets",
     "section": "",
-    "text": "HMS Research Permit 22677\nHMS Research Permit 22677 Extension\nHMS Research Permit 22677 Take Tables\nHMS Research Permit Application",
+    "text": "Liquid Nitrogen\nIsopropyl Alcohol 91%\nFormalin 10%\nDMSO\nBetadine\nAccel",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#hdz-ln-dmso-formalin-alcohol-etc.",
+    "href": "content/HAZMATMSDS.html#hdz-ln-dmso-formalin-alcohol-etc.",
+    "title": "Material Safety Data Sheets",
+    "section": "",
+    "text": "Liquid Nitrogen\nIsopropyl Alcohol 91%\nFormalin 10%\nDMSO\nBetadine\nAccel",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#explosives-flares-ammo",
+    "href": "content/HAZMATMSDS.html#explosives-flares-ammo",
+    "title": "Material Safety Data Sheets",
+    "section": "Explosives: Flares & Ammo",
+    "text": "Explosives: Flares & Ammo\n\nParachute Flare\nHandheld Red Flare\nHandheld Orange SMoke Signal\nFlare Launcher\nAmmo",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#corrosives-bleach-rescue-hair-bleach",
+    "href": "content/HAZMATMSDS.html#corrosives-bleach-rescue-hair-bleach",
+    "title": "Material Safety Data Sheets",
+    "section": "Corrosives: Bleach, Rescue, Hair Bleach",
+    "text": "Corrosives: Bleach, Rescue, Hair Bleach\n\nBleach\nRescue\nWella Color Charm Cream Developer 20 Vol 11\nAGEbeautiful Ultra Bond Powder Lightener 2",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#flammables-propane-gas",
+    "href": "content/HAZMATMSDS.html#flammables-propane-gas",
+    "title": "Material Safety Data Sheets",
+    "section": "Flammables: Propane & Gas",
+    "text": "Flammables: Propane & Gas\n\nPropane\nGasoline",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#flammables-insecticide",
+    "href": "content/HAZMATMSDS.html#flammables-insecticide",
+    "title": "Material Safety Data Sheets",
+    "section": "Flammables: Insecticide",
+    "text": "Flammables: Insecticide\n\nRaid Fogger\nRaid Ant and Roach Killer\nPermethrin: Sawyer Insect Repellent\nMaxforce Complete Insecticide\nBens 30 Wilderness Formula DEET\nAnt Traps",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#flammables-general-camp",
+    "href": "content/HAZMATMSDS.html#flammables-general-camp",
+    "title": "Material Safety Data Sheets",
+    "section": "Flammables: General Camp",
+    "text": "Flammables: General Camp\n\nPurell Hand Sanitizer",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/HAZMATMSDS.html#flammables-camp-boat-maintenance",
+    "href": "content/HAZMATMSDS.html#flammables-camp-boat-maintenance",
+    "title": "Material Safety Data Sheets",
+    "section": "Flammables: Camp & Boat Maintenance",
+    "text": "Flammables: Camp & Boat Maintenance\n\nWing Goop\nWD40\nVinyl Cement\nSilicone Lubricant\nSilicone Grease\nPB Blaster\nMotor Oil 10W-30\nMarine Carb and Choke Cleaner\nMarine Tex\nLPS Silicone Lubricant\nLower Unit Oil 80W-90\nKrazy Glue\nFuel Stabilizer\nEpoxy 5 and 10 Minute\nDielectric Grease\nCorrosion Block\nCarb and Choke Cleaner\nBoat Oil 10W-30\nBarge Cement\n5200 Marine Sealant\n12v Battery\n5 Minute Epoxy",
+    "crumbs": [
+      "Gear & Packing",
+      "Material Safety Data Sheets"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
+  },
+  {
+    "objectID": "content/Resources.html",
+    "href": "content/Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
+  },
+  {
+    "objectID": "content/SafetyTraining.html",
+    "href": "content/SafetyTraining.html",
+    "title": "Safety & Communication",
+    "section": "",
+    "text": "Communication Protocol\nEmergency Protocol\nField Camp Regular and Emergency Contact List\nCamp Takedown Emergency Protocol\nEmail / SkyFile Directions\nHEPA SOP\nSoap Notes, NOLS Resource\nRCUH Accident / Injury Reporting Form\nRCUH Employee Assistance Program Brochure\n2025 PIFSC PSD NWHI Operations Illness and Injury Risk Mitigation Plan\nHawaii Boater’s Hurricane and Tsunami Safety Manual",
+    "crumbs": [
+      "Training",
+      "Safety & Communication"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks)."
+  },
+  {
+    "objectID": "content/Reporting.html#templates",
+    "href": "content/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks)."
+  },
+  {
+    "objectID": "content/Reporting.html#permits",
+    "href": "content/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example"
+  },
+  {
+    "objectID": "content/Biosecurity.html",
+    "href": "content/Biosecurity.html",
+    "title": "Biosecurity and Packing",
+    "section": "",
+    "text": "Video: Biosecurity Protocols for Protecting the Northwestern Hawaiian Islands (2013)\nPSD PMNM Biosecurity Protocol 2024\nBiosecurity / Appendix 1: PMNM BMPs\nBiosecurity / Appendix 2: Quick Guide to PMNM Invasive Species\nBiosecurity / Appendix 3: Biosecurity Monitoring Log\nBiosecurity / Appendix 4: PMNM Packing Cheat Sheet\nTerrestrial Species Prevention",
     "crumbs": [
       "Entering the Monument",
-      "Permits & BMPs"
+      "Biosecurity and Packing"
     ]
   },
   {
-    "objectID": "content/PermitsBMPs.html#research-permits",
-    "href": "content/PermitsBMPs.html#research-permits",
-    "title": "Permits & BMPs",
+    "objectID": "content/PostSeasonProtocols.html",
+    "href": "content/PostSeasonProtocols.html",
+    "title": "Post-Season Protocols",
     "section": "",
-    "text": "HMS Research Permit 22677\nHMS Research Permit 22677 Extension\nHMS Research Permit 22677 Take Tables\nHMS Research Permit Application",
+    "text": "After Camp",
+    "crumbs": [
+      "Post-Season Protocols"
+    ]
+  },
+  {
+    "objectID": "content/CommunicationMedia.html",
+    "href": "content/CommunicationMedia.html",
+    "title": "Internet & Media",
+    "section": "",
+    "text": "good example for using markdown (with pop-out icon) example\ngood example for using markdown (without pop-out icon) example\n\nCommunication Protocol\nPersonal Social Media Guidelines While Conducting Work in the Papahānaumokuākea Marine National Monument\nPhotography I: Permits & Ethics",
     "crumbs": [
       "Entering the Monument",
-      "Permits & BMPs"
+      "Internet & Media"
     ]
   },
   {
-    "objectID": "content/PermitsBMPs.html#monument-permits",
-    "href": "content/PermitsBMPs.html#monument-permits",
-    "title": "Permits & BMPs",
-    "section": "Monument Permits",
-    "text": "Monument Permits\n\nPMNM 2025 Manager’s Permit",
-    "crumbs": [
-      "Entering the Monument",
-      "Permits & BMPs"
-    ]
-  },
-  {
-    "objectID": "content/PermitsBMPs.html#best-management-practices-bmps",
-    "href": "content/PermitsBMPs.html#best-management-practices-bmps",
-    "title": "Permits & BMPs",
-    "section": "Best Management Practices (BMPs)",
-    "text": "Best Management Practices (BMPs)\n\nList of PMNM BMPs\nPMNM BMP 001: Alien Species Inspection Vessels\nPMNM BMP 003: Human Hazards to Seabirds\nPMNM BMP 004: Boat Operations and Diving Activities\nPMNM BMP 005: Laysan Finch Protocol\nPNNM BMP 007: Terrestrial Biosecurity\nPMNM BMP 009: Reducing Light Impact Sea Turtles\nPMNM BMP 010: Marine Wildlife Viewing Guidelines\nPMNM BMP 011: Disease Introduced Species Prevention\nPMNM BMP 012: Precautions for Minimizing Human Impacts on Land Birds\nPMNM BMP 013: Small Boat Operations at Tern Isl\nPMNM BMP 015: Midway Inspection Requirements\nPMNM BMP 016: Nihoa Access\nPMNM BMP 017: Maritime Heritage\nPMNM BMP 018: Terrestrial Alien Species Prevention\nPMNM BMP 019: Mokumanamana\nPMNM BMP 020: Nuisance Algae",
-    "crumbs": [
-      "Entering the Monument",
-      "Permits & BMPs"
-    ]
-  },
-  {
-    "objectID": "content/AnalysisMethods.html",
-    "href": "content/AnalysisMethods.html",
-    "title": "Analysis Methods",
+    "objectID": "content/Offboarding.html",
+    "href": "content/Offboarding.html",
+    "title": "Offboarding",
     "section": "",
-    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example"
+    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
   },
   {
-    "objectID": "content/OnboardingPaperwork.html",
-    "href": "content/OnboardingPaperwork.html",
-    "title": "Onboarding Paperwork",
+    "objectID": "content/DataPhotoEntryProcessing.html",
+    "href": "content/DataPhotoEntryProcessing.html",
+    "title": "Data-Photo Entry Processing",
     "section": "",
-    "text": "Hiring Checklist\nNOAA Sexual Assault and Sexual Harrassment Prevention\nPIFSC Values Document\n\nGeneral Instructions (sent from RCUH in emails)\nCIMAR/RCUH POCs",
+    "text": "Setting Up ACDSee Pro Software for HMS Photo Databases\nHawaiian Monk Seal Photo Management System Using ACDSee Pro",
     "crumbs": [
-      "Onboarding",
-      "Onboarding Paperwork"
+      "Monk Seal Protocols",
+      "Data-Photo Entry Processing"
     ]
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/Specimens.html",
+    "href": "content/Specimens.html",
+    "title": "Specimens",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "text": "Specimen Collection Protocol\nLiquid Nitrogen User Guide and Safety\nSpecimen Collection Reminders\n[Specimen Log Code Summary]\n[Digital HDz Specimen Collection Spreadsheets]\n[Zoonotic Diseases]",
     "crumbs": [
-      "Onboarding"
+      "Monk Seal Protocols",
+      "Specimens"
     ]
   },
   {
-    "objectID": "content/OurVessels.html#charter-vessels",
-    "href": "content/OurVessels.html#charter-vessels",
-    "title": "Our Vessels",
-    "section": "Charter Vessels",
-    "text": "Charter Vessels",
+    "objectID": "content/Boats.html",
+    "href": "content/Boats.html",
+    "title": "Boats",
+    "section": "",
+    "text": "PSD Small Boat Guidelines for PMNM Field Camps\n[Gar / Float Plans]\n[Field PQS Form]\n[Start Up / Shut Down Checklists]\n[PIFSC VOP Worksheet]\n[Mooring Set Up]\nMHI Small Boat Operator Handbook\nNOAA SBSP Manual v4.2\nASBES: blank checklist\nASBES Outline: expanded checklist\n[Boat Records]",
     "crumbs": [
-      "Ships",
-      "Our Vessels"
+      "Gear & Packing",
+      "Boats"
+    ]
+  },
+  {
+    "objectID": "content/Boats.html#small-boats-general",
+    "href": "content/Boats.html#small-boats-general",
+    "title": "Boats",
+    "section": "",
+    "text": "PSD Small Boat Guidelines for PMNM Field Camps\n[Gar / Float Plans]\n[Field PQS Form]\n[Start Up / Shut Down Checklists]\n[PIFSC VOP Worksheet]\n[Mooring Set Up]\nMHI Small Boat Operator Handbook\nNOAA SBSP Manual v4.2\nASBES: blank checklist\nASBES Outline: expanded checklist\n[Boat Records]",
+    "crumbs": [
+      "Gear & Packing",
+      "Boats"
+    ]
+  },
+  {
+    "objectID": "content/Boats.html#kayaks",
+    "href": "content/Boats.html#kayaks",
+    "title": "Boats",
+    "section": "Kayaks",
+    "text": "Kayaks\n\nNWHI Kayak Protocols\nNWHI Kayak PQS",
+    "crumbs": [
+      "Gear & Packing",
+      "Boats"
+    ]
+  },
+  {
+    "objectID": "content/Boats.html#manuals-repair-troubleshooting-folder",
+    "href": "content/Boats.html#manuals-repair-troubleshooting-folder",
+    "title": "Boats",
+    "section": "Manuals, Repair, Troubleshooting Folder",
+    "text": "Manuals, Repair, Troubleshooting Folder\n\nMarine Battery Protocol\nHonda 90 Prop\nInflatable Patching Protocol",
+    "crumbs": [
+      "Gear & Packing",
+      "Boats"
     ]
   },
   {
