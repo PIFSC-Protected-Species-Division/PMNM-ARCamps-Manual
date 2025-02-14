@@ -2,4 +2,12 @@
 title: Orientation
 ---
 
+## NOAA Daniel K. Inouye Regional Center Map
+
+![](images/IRC.jpg){fig-align="center"}
+
+## Certification Tracker
+
+<iframe src="https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=1021233825#gid=1021233825" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no">
+
 Rough schedule (not specific to a year)
