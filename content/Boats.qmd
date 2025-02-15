@@ -14,7 +14,7 @@ format: html
 -   [NOAA SBSP Manual v4.2](https://drive.google.com/file/d/1jgDs4ywqKSD_fk4wWVu4S_iZJNfNVMz5/view?usp=sharing){.external target="_blank"}
 -   [ASBES: blank checklist](https://drive.google.com/file/d/1bO7-08xxpMmaOnxUXe4wAqOtHMjbSL7B/view?usp=sharing){.external target="_blank"}
 -   [ASBES Outline: expanded checklist](https://drive.google.com/file/d/1X_s4v9v8ePQGCMslK2hiFjY272SuzLX3/view?usp=sharing){.external target="_blank"}
--   [Boat Records]
+-   [Boat Records](https://drive.google.com/drive/folders/1muNBLvxE2ePJzXzY3mYkuwuqvhmDmtqb?usp=drive_link){.external target="_blank"}
 
 
 ## Kayaks
