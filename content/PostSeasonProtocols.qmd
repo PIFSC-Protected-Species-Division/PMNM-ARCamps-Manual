@@ -2,4 +2,9 @@
 title: Post-Season Protocols
 ---
 
-[After Camp](https://docs.google.com/document/d/1Ef67tl8LnGazMe1e5I62-HopO1OOg3S1iJ3-iVLdrqs/edit?usp=sharing)
+Contains post-deployment recovery and data-processing information.
+
+##  Sub-Pages
+-   [Clean-Up in Honolulu](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/CleanUpInHonolulu.html)
+-   [Monk Seal Post-Season](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/MonkSealPostSeason.html)
+-   [Debriefs](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Debriefs.html)

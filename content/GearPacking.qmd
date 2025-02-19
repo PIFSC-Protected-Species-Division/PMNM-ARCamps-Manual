@@ -1,3 +1,14 @@
 ---
 title: Gear & Packing
 ---
+
+Contains maintenance and use resources for camp equipment.
+
+##  Sub-Pages
+
+-   [Gear Database](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/GearDatabase.html)
+-   [Care and Repairs](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/CareAndRepairs.html)
+-   [Equipment Manuals](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/EquipmentManuals.html)
+-   [Material Safety Data Sheets](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/HAZMATMSDS.html)
+-   [Setting Up Camp](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/SettingUpCamp.html)
+-   [Boats](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Boats.html)

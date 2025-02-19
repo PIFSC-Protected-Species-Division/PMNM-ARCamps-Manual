@@ -1,3 +1,13 @@
 ---
 title: Training
 ---
+
+Contains links to pre-deployment training and resources.
+
+##  Sub-Pages
+-   [Employment Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/EmploymentTraining.html)
+-   [Worksite Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/WorksiteTraining.html)
+-   [Boating](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Boating.html)
+-   [Wilderness First Aid Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/WFATraining.html)
+-   [Safety & Communication](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/SafetyTraining.html)
+-   [Huli'ia](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Huliia.html)

@@ -3,3 +3,13 @@ title: "Monk Seal Protocols"
 format: html
 ---
 
+Contains guidance for Monk Seal fieldwork.
+
+##  Sub-Pages
+-   [Overview](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/MonkSealOverview.html)
+-   [Population Assessment](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/PopulationAssessment.html)
+-   [Data-Photo Entry Processing](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/DataPhotoEntryProcessing.html)
+-   [Interventions](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Interventions.html)
+-   [Necropsy](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Necropsy.html)
+-   [Specimens](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Specimens.html)
+-   [Special Studies/Species](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/SpecialStudiesSpecies.html)

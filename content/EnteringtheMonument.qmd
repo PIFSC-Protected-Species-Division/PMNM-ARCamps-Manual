@@ -2,3 +2,10 @@
 title: Entering the Monument
 ---
 
+Contains pre-deployment guidelines to protect biosecurity, ensure adherence to best management practices, and maintain visibility as responsible stewards of PMNM.
+
+##  Sub-Pages
+-   [Biosecurity and Packing](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Biosecurity.html)
+-   [Permits and BMPs](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/PermitsBMPs.html)
+-   [Cultural Briefing and Resources](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/CulturalBriefing.html)
+-   [Internet & Media](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/CommunicationMedia.html)
