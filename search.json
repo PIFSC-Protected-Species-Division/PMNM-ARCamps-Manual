@@ -14,6 +14,26 @@
     "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example"
   },
   {
+    "objectID": "content/Training.html",
+    "href": "content/Training.html",
+    "title": "Training",
+    "section": "",
+    "text": "Contains links to pre-deployment training and resources.",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
+    "objectID": "content/Training.html#sub-pages",
+    "href": "content/Training.html#sub-pages",
+    "title": "Training",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nEmployment Training\nWorksite Training\nBoating\nWilderness First Aid Training\nSafety & Communication\nHuli’ia",
+    "crumbs": [
+      "Training"
+    ]
+  },
+  {
     "objectID": "content/SettingUpCamp.html",
     "href": "content/SettingUpCamp.html",
     "title": "Setting Up Camp",
@@ -62,6 +82,26 @@
     "title": "Analysis Methods",
     "section": "",
     "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example"
+  },
+  {
+    "objectID": "content/MonkSealProtocols.html",
+    "href": "content/MonkSealProtocols.html",
+    "title": "Monk Seal Protocols",
+    "section": "",
+    "text": "Contains guidance for Monk Seal fieldwork.",
+    "crumbs": [
+      "Monk Seal Protocols"
+    ]
+  },
+  {
+    "objectID": "content/MonkSealProtocols.html#sub-pages",
+    "href": "content/MonkSealProtocols.html#sub-pages",
+    "title": "Monk Seal Protocols",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nOverview\nPopulation Assessment\nData-Photo Entry Processing\nInterventions\nNecropsy\nSpecimens\nSpecial Studies/Species",
+    "crumbs": [
+      "Monk Seal Protocols"
+    ]
   },
   {
     "objectID": "content/PermitsBMPs.html",
@@ -364,6 +404,26 @@
     "crumbs": [
       "Gear & Packing",
       "Gear Database"
+    ]
+  },
+  {
+    "objectID": "content/GearPacking.html",
+    "href": "content/GearPacking.html",
+    "title": "Gear & Packing",
+    "section": "",
+    "text": "Contains maintenance and use resources for camp equipment.",
+    "crumbs": [
+      "Gear & Packing"
+    ]
+  },
+  {
+    "objectID": "content/GearPacking.html#sub-pages",
+    "href": "content/GearPacking.html#sub-pages",
+    "title": "Gear & Packing",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nGear Database\nCare and Repairs\nEquipment Manuals\nMaterial Safety Data Sheets\nSetting Up Camp\nBoats",
+    "crumbs": [
+      "Gear & Packing"
     ]
   },
   {
@@ -782,6 +842,26 @@
     ]
   },
   {
+    "objectID": "content/Ships.html",
+    "href": "content/Ships.html",
+    "title": "Ships",
+    "section": "",
+    "text": "Our Vessels\nShip Protocols\nShip Paperwork",
+    "crumbs": [
+      "Ships"
+    ]
+  },
+  {
+    "objectID": "content/Ships.html#sub-pages",
+    "href": "content/Ships.html#sub-pages",
+    "title": "Ships",
+    "section": "",
+    "text": "Our Vessels\nShip Protocols\nShip Paperwork",
+    "crumbs": [
+      "Ships"
+    ]
+  },
+  {
     "objectID": "content/OverviewofResearch.html",
     "href": "content/OverviewofResearch.html",
     "title": "Overview of Research",
@@ -801,6 +881,36 @@
     "crumbs": [
       "Monk Seal Protocols",
       "Special Studies/Species"
+    ]
+  },
+  {
+    "objectID": "content/Orientation.html",
+    "href": "content/Orientation.html",
+    "title": "Orientation",
+    "section": "",
+    "text": "Overview of Research\nOverview of Camps\nMeet the Team\nLand Acknowledgements",
+    "crumbs": [
+      "Orientation"
+    ]
+  },
+  {
+    "objectID": "content/Orientation.html#sub-pages",
+    "href": "content/Orientation.html#sub-pages",
+    "title": "Orientation",
+    "section": "",
+    "text": "Overview of Research\nOverview of Camps\nMeet the Team\nLand Acknowledgements",
+    "crumbs": [
+      "Orientation"
+    ]
+  },
+  {
+    "objectID": "content/Orientation.html#noaa-daniel-k.-inouye-regional-center-map",
+    "href": "content/Orientation.html#noaa-daniel-k.-inouye-regional-center-map",
+    "title": "Orientation",
+    "section": "NOAA Daniel K. Inouye Regional Center Map",
+    "text": "NOAA Daniel K. Inouye Regional Center Map",
+    "crumbs": [
+      "Orientation"
     ]
   },
   {
@@ -916,6 +1026,26 @@
     "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
   },
   {
+    "objectID": "content/EnteringtheMonument.html",
+    "href": "content/EnteringtheMonument.html",
+    "title": "Entering the Monument",
+    "section": "",
+    "text": "Contains pre-deployment guidelines to protect biosecurity, ensure adherence to best management practices, and maintain visibility as responsible stewards of PMNM.",
+    "crumbs": [
+      "Entering the Monument"
+    ]
+  },
+  {
+    "objectID": "content/EnteringtheMonument.html#sub-pages",
+    "href": "content/EnteringtheMonument.html#sub-pages",
+    "title": "Entering the Monument",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nBiosecurity and Packing\nPermits and BMPs\nCultural Briefing and Resources\nInternet & Media",
+    "crumbs": [
+      "Entering the Monument"
+    ]
+  },
+  {
     "objectID": "content/SafetyTraining.html",
     "href": "content/SafetyTraining.html",
     "title": "Safety & Communication",
@@ -963,7 +1093,17 @@
     "href": "content/PostSeasonProtocols.html",
     "title": "Post-Season Protocols",
     "section": "",
-    "text": "After Camp",
+    "text": "Contains post-deployment recovery and data-processing information.",
+    "crumbs": [
+      "Post-Season Protocols"
+    ]
+  },
+  {
+    "objectID": "content/PostSeasonProtocols.html#sub-pages",
+    "href": "content/PostSeasonProtocols.html#sub-pages",
+    "title": "Post-Season Protocols",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nClean-Up in Honolulu\nMonk Seal Post-Season\nDebriefs",
     "crumbs": [
       "Post-Season Protocols"
     ]
