@@ -59,6 +59,8 @@ website:
             text: Acronyms
       - section: content/Orientation.qmd
         contents: 
+          - href: content/About_the_Site.qmd
+            text: About the Site
           - href: content/OverviewofResearch.qmd
             text: Overview of Research
           - href: content/OverviewofCamps.qmd

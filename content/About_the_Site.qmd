@@ -1,0 +1,26 @@
+---
+title: "About the Site"
+format: html
+---
+
+## The Daniel K. Inouye Regional Center
+
+> "Located on a national historic landmark site on Oahu’s Ford Island, NOAA’s Inouye Regional Center features the adaptive reuse of two World War II-era airplane hangars linked by a new steel and glass building. The original hangars, designed in 1939 by Albert Kahn, inspired beautifully simple solutions for how the new Center uses air, water and light.
+>
+> The new complex accommodates 715 people in a high-performance research and office campus that integrates NOAA’s mission of “science, service and stewardship” with regional culture and ecology. It houses a diverse range of critical programs, functions and federal departments, including the Pacific Tsunami Warning Center."[^1]
+
+[^1]: From [building developer's webpage](https://www.hok.com/projects/view/national-oceanic-and-atmospheric-administration-noaa-daniel-k-inouye-regional-center/)
+
+## Inouye Regional Center Map
+
+![](images/IRC.jpg){fig-align="center"}
+
+## Virtual Tour
+
+<iframe src='https://youtu.be/oINP4x5Ipy0' allowfullscreen frameborder=0 width="440" height="260"></iframe>
+
+[Inouye Regional Center Intro Video](https://sites.google.com/noaa.gov/inouye-regional-center/home?pli=1){.external target="_blank"}
+
+## Ford Island History
+
+[Ford Island history and Interpretive Trail](https://historichawaii.org/2020/05/21/fordislandhistoricaltrail/){.external target="_blank"}
