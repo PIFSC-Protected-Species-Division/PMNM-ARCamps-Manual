@@ -4,14 +4,13 @@ title: Orientation
 
 ## Sub-Pages
 
--   [About the Site]
+-   [About the Site](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/About_the_Site.html)
 -   [Overview of Research](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OverviewofResearch.html)
 -   [Overview of Camps](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OverviewofCamps.html)
 -   [Meet the Team](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/MeettheTeam.html)
 -   [Land Acknowledgements](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/LandAcknowledgements.html)
 
 ## Certification Tracker
+[Link to Certification Tracker](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=1021233825#gid=1021233825){.external target="_blank"}
 
 <iframe src="https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=1021233825#gid=1021233825" style="border:solid 1px #777" width="950" height="600" frameborder="0" scrolling="no">
-
-Rough schedule (not specific to a year)

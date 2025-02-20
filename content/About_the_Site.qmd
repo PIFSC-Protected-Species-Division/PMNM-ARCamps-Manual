@@ -17,9 +17,9 @@ format: html
 
 ## Virtual Tour
 
-<iframe src='https://youtu.be/oINP4x5Ipy0' allowfullscreen frameborder=0 width="440" height="260"></iframe>
+<iframe src="https://www.youtube.com/embed/oINP4x5Ipy0" allowfullscreen frameborder=0 width="880" height="520"></iframe>
 
-[Inouye Regional Center Intro Video](https://sites.google.com/noaa.gov/inouye-regional-center/home?pli=1){.external target="_blank"}
+[Inouye Regional Center Website](https://sites.google.com/noaa.gov/inouye-regional-center/home?pli=1){.external target="_blank"}
 
 ## Ford Island History
 
