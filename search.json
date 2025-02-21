@@ -70,7 +70,7 @@
     "href": "content/OnboardingPaperwork.html",
     "title": "Onboarding Paperwork",
     "section": "",
-    "text": "2025 Administrative/Orientation Information\nHiring Checklist\nNOAA Sexual Assault and Sexual Harrassment Prevention\nPIFSC Values Document\n\nGeneral Instructions (sent from RCUH in emails)\nCIMAR/RCUH POCs",
+    "text": "2025 Administrative/Orientation Information\nHiring Checklist\nNOAA Sexual Assault and Sexual Harrassment Prevention\nPIFSC Values Document\nCIMAR Employee Timesheet Payday Schedule 2025\n\nGeneral Instructions (sent from RCUH in emails)\nCIMAR/RCUH POCs",
     "crumbs": [
       "Onboarding",
       "Onboarding Paperwork"
@@ -195,7 +195,18 @@
     "href": "content/MeettheTeam.html",
     "title": "Meet the Team",
     "section": "",
-    "text": "Field Staff and Camp Dates",
+    "text": "Erin Oleson, PhD Supervisory Research Ecologist\n\n\nSummer L. Martin, PhD Supervisory Research Biologist\n\n\n\nMichelle Barbieri, DVM, MS Supervisory Veterinary Medical Officer\n\n\n\nJessica Bohlander Supervisory Marine Biologist\n\nField Staff and Camp Dates",
+    "crumbs": [
+      "Orientation",
+      "Meet the Team"
+    ]
+  },
+  {
+    "objectID": "content/MeettheTeam.html#protected-species-division",
+    "href": "content/MeettheTeam.html#protected-species-division",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "Erin Oleson, PhD Supervisory Research Ecologist\n\n\nSummer L. Martin, PhD Supervisory Research Biologist\n\n\n\nMichelle Barbieri, DVM, MS Supervisory Veterinary Medical Officer\n\n\n\nJessica Bohlander Supervisory Marine Biologist\n\nField Staff and Camp Dates",
     "crumbs": [
       "Orientation",
       "Meet the Team"
@@ -337,6 +348,39 @@
     "text": "Our Vessels\nShip Protocols\nShip Paperwork",
     "crumbs": [
       "Ships"
+    ]
+  },
+  {
+    "objectID": "content/WorksiteTraining.html",
+    "href": "content/WorksiteTraining.html",
+    "title": "Worksite Training",
+    "section": "",
+    "text": "B130 Training Sheet\nB130 Operations and Safety Manual\nB130 HAZCOM",
+    "crumbs": [
+      "Training",
+      "Worksite Training"
+    ]
+  },
+  {
+    "objectID": "content/WorksiteTraining.html#b130-orientation",
+    "href": "content/WorksiteTraining.html#b130-orientation",
+    "title": "Worksite Training",
+    "section": "",
+    "text": "B130 Training Sheet\nB130 Operations and Safety Manual\nB130 HAZCOM",
+    "crumbs": [
+      "Training",
+      "Worksite Training"
+    ]
+  },
+  {
+    "objectID": "content/WorksiteTraining.html#irc-lab-training",
+    "href": "content/WorksiteTraining.html#irc-lab-training",
+    "title": "Worksite Training",
+    "section": "IRC Lab Training",
+    "text": "IRC Lab Training\nA signed user agreement on file with the Lab Manager is required to become an authorized lab user. Complete the following:\n\nReview the Laboratory Safety Briefing Slides (Version 6).\nTake the Quiz at the end of the briefing.\nReview the Biosafety Plan.\nReview the Chemical Hygiene Plan.\nPrint out the Lab User Agreement, which is Appendix C in the Chemical Hygiene Plan. Open in Adobe Acrobat and print the relevant two pages.\nComplete the checklist in the User Agreement.\nSchedule a Lab Safety Orientation with the Lab Manager.\nObtain signatures and provide the signed form to the Lab Manager.",
+    "crumbs": [
+      "Training",
+      "Worksite Training"
     ]
   },
   {
