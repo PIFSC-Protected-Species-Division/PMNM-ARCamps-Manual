@@ -10,8 +10,6 @@ page-layout: full
 
 This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument
 
-![](content/images/FieldCampSticker0827 shrunk to fit.jpg){width="313"}
-
 ## Top Links
 
 -   [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977) (see also training tab on left)

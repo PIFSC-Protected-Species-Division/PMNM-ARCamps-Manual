@@ -10,18 +10,44 @@ title: Overview of Camps
 
 ADD CAMP VIDEO LINK
 
-## Lalo (French Frigate Shoals)
+## [Lalo (French Frigate Shoals)](https://www.papahanaumokuakea.gov/visit/ffs.html){.external target="_blank"}
 
-## Kamole (Laysan)
+![](images/Lalo.jpg){width=200, height=240}
 
-## Kapou (Lisianski)
+Lalo is an open atoll consisting of a large, crescent-shaped reef surrounding numerous small, sandy islets. While the land area is only 1⁄4 square kilometer (67 acres), the total coral reef area of the shoals is over 938 square kilometers (232,000 acres). Tern Island, a part of the atoll, was formed into a runway to serve as a refueling stop for planes enroute to Midway during World War II. The original seawall, runway, and some of the buildings remain. The U.S. Fish and Wildlife Service continues to maintain a field station there, which is staffed year-round by two permanent employees and a handful of volunteers.
 
-## Manawai (Pearl & Hermes Reef)
+## [Kamole (Laysan)](https://www.papahanaumokuakea.gov/visit/laysan.html){.external target="_blank"}
 
-## Kuaihelani (Midway Atoll)
+![](images/Laysan.jpg){width=260, height=200}
 
-## Hōlanikū (Kure Atoll)
+Laysan is the second largest land mass in the NWHI (1,015 acres) just behind Sand Island at Midway Atoll. It is about 1 mile wide and 1-1/2 miles long and shaped like a poi board. The island was formed from geologic forces pushing upward and by coral growth. It has fringing reefs and a hypersaline (very salty) lake in the middle of the island, the only lake in the island chain, and one of only five natural lakes in all of Hawai‘i.
 
-## Nihoa
+## [Kapou (Lisianski)](https://www.papahanaumokuakea.gov/visit/lis.html){.external target="_blank"}
 
-## Mokumanamana
+![](images/Lisianski.jpg){width=260, height=200}
+
+About 20 million years ago, geologic forces raised the tip of a huge coral bank above sea level. Today, Kapou Island is 1.5 square kilometers (381 acres), about the size of Honolulu. Its highest point is a sand dune about 40 feet above sea level. Though the island is small, the reef area to the southeast, called Neva Shoals, is huge, covering 979 square kilometers(241,916 acres), an area nearly the size of O`ahu.
+
+## [Manawai (Pearl & Hermes Reef)](https://www.papahanaumokuakea.gov/visit/pearl.html){.external target="_blank"}
+
+![](images/Pearl_hermes.png){width=260, height=200}
+
+Manawai is a true atoll that is primarily underwater and has numerous islets, seven of which are above sea level. While total land area is only 0.36 square km (80 acres), the reef area is huge, over 450 square miles (194,000 acres). The atoll is ever-changing, with islets emerging and subsiding.
+
+## [Kuaihelani (Midway Atoll)](https://www.papahanaumokuakea.gov/visit/midway.html){.external target="_blank"}
+
+![](images/Midway.jpg){width=260, height=200}
+
+Midway, the best known of the Northwestern Hawaiian Islands (NWHI), is a circular-shaped atoll with three small islets (Sand, Eastern, and Spit) on the southern end of a lagoon. While its land area is small, about 1,535 acres, the atoll has approximately 85,929 acres of reef area.
+
+## [Hōlanikū (Kure Atoll)](https://www.papahanaumokuakea.gov/visit/kure.html){.external target="_blank"}
+
+![](images/Kure.png){width=260, height=200}
+
+Kure Atoll is the most remote of the Northwestern Hawaiian Islands, and the northern-most coral atoll in the world. Kure is an oval-shaped atoll, which is 6 miles at its maximum diameter and 55 miles west-northwest of Midway Atoll at the extreme northwest end of the Hawaiian archipelago. Green Island is the only permanent island in the atoll. 
+
+## [Mokumanamana](https://www.papahanaumokuakea.gov/visit/moku.html){.external target="_blank"}
+
+![](images/mokumanamana.jpg){width=300, height=180}
+
+About 155 miles northwest of Nihoa lies Mokumanamana, a small basalt island that is 1/6 square km, or 46 acres, in size. Although the island is the second smallest of the NWHI, it has the second largest surrounding marine habitat (almost 385,000 acres). Large offshore areas include Shark Bay on the north side, West Cove and Northwest Cape as well as miles of shallow reef to the southeast.

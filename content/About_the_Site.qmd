@@ -11,15 +11,16 @@ format: html
 
 [^1]: From [building developer's webpage](https://www.hok.com/projects/view/national-oceanic-and-atmospheric-administration-noaa-daniel-k-inouye-regional-center/)
 
+[Inouye Regional Center Website](https://sites.google.com/noaa.gov/inouye-regional-center/home?pli=1){.external target="_blank"}
+
 ## Inouye Regional Center Map
 
 ![](images/IRC.jpg){fig-align="center"}
 
 ## Virtual Tour
 
-<iframe src="https://www.youtube.com/embed/oINP4x5Ipy0" allowfullscreen frameborder=0 width="880" height="520"></iframe>
+<iframe src="https://www.youtube.com/embed/oINP4x5Ipy0" allowfullscreen frameborder=0 width="780" height="520"></iframe>
 
-[Inouye Regional Center Website](https://sites.google.com/noaa.gov/inouye-regional-center/home?pli=1){.external target="_blank"}
 
 ## Ford Island History
 
