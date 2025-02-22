@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -469,8 +498,15 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#rcuh-new-hire-orientation" id="toc-rcuh-new-hire-orientation" class="nav-link active" data-scroll-target="#rcuh-new-hire-orientation">RCUH New Hire Orientation</a></li>
+  <li><a href="#new-employee-training" id="toc-new-employee-training" class="nav-link" data-scroll-target="#new-employee-training">New Employee Training</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/edit/main/content/EmploymentTraining.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/blob/main/content/EmploymentTraining.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -494,8 +530,51 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="rcuh-new-hire-orientation" class="level2">
+<h2 class="anchored" data-anchor-id="rcuh-new-hire-orientation">RCUH New Hire Orientation</h2>
+<ol type="1">
+<li>View New Hire Orientation videos parts one and two.</li>
+</ol>
+<p>Part 1:</p>
+<iframe src="https://www.youtube.com/embed/Yr1U2zV_4Xg?si=xjf0Oda0JXbIc7P0" allowfullscreen="" frameborder="0" width="680" height="460">
+</iframe>
+<p>Part 2:</p>
+<iframe src="https://www.youtube.com/embed/UuxRv20ZmUc?si=FNJSsOZn2Z1faGcq" allowfullscreen="" frameborder="0" width="680" height="460">
+</iframe>
+<ol start="2" type="1">
+<li>Complete and sign the <a href="https://www.rcuh.com/hidden-document-library/nho-certificate-of-awareness-and-understanding/" class="external" target="_blank">Certificate of Awareness and Understanding Form</a></li>
+<li>Email the signed form to RCUH Human Resources immediately to acknowledge completion.</li>
+</ol>
+<p>Additional Information: <a href="https://drive.google.com/file/d/1JU45wljUc92xpV-t2qZ0Dw9IXJLKQNlZ/view?usp=drive_link" class="external" target="_blank">RCUH New Hire Reference Guide for Regular Hires</a></p>
+</section>
+<section id="new-employee-training" class="level2">
+<h2 class="anchored" data-anchor-id="new-employee-training">New Employee Training</h2>
+<p>Completed online at your own pace</p>
+<ol type="1">
+<li><p>Establish <a href="https://docs.google.com/document/d/1CqWzhqM28yKylDRchMqn1_Ynvy5-qPSwueER457KoNc/edit" class="external" target="_blank">RCUH Training Portal Account</a> Required for all RCUH trainings. May take 24 hours to be approved. (All field staff. 15 min)</p></li>
+<li><p>University of Hawaii IACUC (Institutional Animal Care and Use Committee): <a href="https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit" class="external" target="_blank">Basic Course</a> (All new field staff. Returning field staff renew if cert expires prior to September 2025. 1.5 Hour) <span class="math inline">\(^1\)</span></p></li>
+<li><p>University of Hawaii IACUC (Institutional Animal Care and Use Committee): <a href="https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit" class="external" target="_blank">Marine Mammal Course</a> (All new field staff. Returning field staff renew if cert expires prior to September 2025. 30 min) <span class="math inline">\(^1\)</span></p></li>
+<li><p>University of Hawaii IACUC (Institutional Animal Care and Use Committee): <a href="https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit" class="external" target="_blank">Wildlife Course</a> (All new MTBAP staff, all team leads, and anyone due for renewal. 30 min) <span class="math inline">\(^1\)</span></p></li>
+<li><p>UH IBC - <a href="https://docs.google.com/document/d/1avdtopa3tw7OmXY5q9wIOiJAwCD_ruNNvhs3CLB3_aQ/edit" class="external" target="_blank">Biosafety</a> Due within 10 days of start date. (All field staff. 40 min)<span class="math inline">\(^1\)</span></p></li>
+<li><p>UH IBC - <a href="https://docs.google.com/document/d/1avdtopa3tw7OmXY5q9wIOiJAwCD_ruNNvhs3CLB3_aQ/edit" class="external" target="_blank">Bloodborne pathogens</a> Due within 10 days of start date. (All field staff. 25 min)<span class="math inline">\(^1\)</span></p></li>
+<li><p>UH IACUC <a href="https://docs.google.com/document/d/1avdtopa3tw7OmXY5q9wIOiJAwCD_ruNNvhs3CLB3_aQ/edit" class="external" target="_blank">Animal Biosafety Training</a> Due within 10 days of start date. (All field staff)<span class="math inline">\(^1\)</span></p></li>
+<li><p>IACUC: Review <a href="https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit" class="external" target="_blank">seal zoonotic disease documents</a> (All field staff. 5 min)<span class="math inline">\(^1\)</span></p></li>
+<li><p>IACUC: <a href="https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit" class="external" target="_blank">Review turtle zoonotic disease documents</a> (All field staff. 5 min)<span class="math inline">\(^1\)</span></p></li>
+<li><p>RCUH <a href="https://view.knowledgevision.com/presentation/9f9b9ad0ae1b4f31970133499e5da954" class="external" target="_blank">Hazard Communication Training</a> (All field staff. 20 min)<span class="math inline">\(^2\)</span></p></li>
+<li><p>RCUH <a href="https://docs.google.com/document/d/1CqWzhqM28yKylDRchMqn1_Ynvy5-qPSwueER457KoNc/edit" class="external" target="_blank">EEO/Sexual Harassment Prevention for Employees</a> (All new staff, returnees MUST renew annually. If it will expire during deployment, renew now. 1 hr)<span class="math inline">\(^3\)</span></p></li>
+<li><p>RCUH <a href="https://docs.google.com/document/d/1CqWzhqM28yKylDRchMqn1_Ynvy5-qPSwueER457KoNc/edit" class="external" target="_blank">Workplace Violence Prevention for Employees</a> (All new staff, returnees MUST renew. 1 hr)<span class="math inline">\(^3\)</span></p></li>
+<li><p>RCUH <a href="https://ethics.hawaii.gov/ethicsonlinetraining/" class="external" target="_blank">Hawaii State Ethics Training</a> (All field staff. 30 min)<span class="math inline">\(^1\)</span></p></li>
+<li><p>Hawaii Boat Safety Course. See <a href="https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Boating.html">Boating Tab</a>. (All boating staff, 8 hrs)</p></li>
+<li><p>NMFS <a href="https://drive.google.com/file/d/11-XZk1-Lt8widh1H23xm4U2sVrp4MmE9/view?usp=sharing" class="external" target="_blank">IACUC Animal Care and Use Training</a> (FEDERAL IACUC). (30 min, all new staff, returnees renew if applicable)</p></li>
+</ol>
+<hr>
+<p>1: Email cert to Lizabeth.kashinsky@noaa.gov and Ashley.uyehara@noaa.gov</p>
+<p>2: Email cert to Lizabeth.kashinsky@noaa.gov and rcuh_employment@rcuh.com</p>
+<p>3: Email cert to Lizabeth.kashinsky@noaa.gov</p>
+<p>4: Email Laura.mccue@noaa.gov acknowledging that you reviewed ppt (cc Liz)</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1079,7 +1158,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/edit/main/content/EmploymentTraining.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/blob/main/content/EmploymentTraining.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/edit/main/content/EmploymentTraining.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/blob/main/content/EmploymentTraining.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/PIFSC-Protected-Species-Division/PMNM-ARC-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
