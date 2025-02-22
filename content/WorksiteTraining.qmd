@@ -3,21 +3,35 @@ title: "Worksite Training"
 format: html
 ---
 
+## IT Training
+
+Following account creation, take the NOAA Cyber Awareness Challenge (2024) CSAT Training Course within 48 hours. This course is accessible in the [Commerce Learning Center](https://doc.csod.com/client/doc/default.aspx){target="_blank"}. Select NOAA as your agency and bureau. Send certificate to lizabeth.kashinsky\@noaa.gov, hope.ronco\@noaa.gov, and marylou.staman\@noaa.gov.
+
 ## B130 Orientation
 
--   [B130 Training Sheet](https://docs.google.com/document/d/1bXpfzask-ZBk4dFhgJK8Fyk_KqSVhMdWFC9cAmUgJmc/edit?usp=drive_link){.external target="_blank"}
--   [B130 Operations and Safety Manual](https://docs.google.com/document/d/1pxLHU5h5ZJVFUV_oFnWiT6xChJVxrHu_1cKWpEbxP3M/edit?usp=drive_link){.external target="_blank"}
--   [B130 HAZCOM](https://docs.google.com/presentation/d/19Gjx0wf3lpIJbPrY_MM6rmala9A0BZICOpbgX_4YYZw/edit?usp=drive_link){.external target="_blank"}
+1.  Review [B130 Operations and Safety Manual](https://docs.google.com/document/d/1pxLHU5h5ZJVFUV_oFnWiT6xChJVxrHu_1cKWpEbxP3M/edit?usp=drive_link){.external target="_blank"} and [B130 HAZCOM](https://docs.google.com/presentation/d/19Gjx0wf3lpIJbPrY_MM6rmala9A0BZICOpbgX_4YYZw/edit?usp=drive_link){.external target="_blank"}.
+2.  Schedule and complete walkthrough with B130 Warehouse Manager.
+3.  Submit signed and completed [B130 Training Sheet](https://docs.google.com/document/d/1bXpfzask-ZBk4dFhgJK8Fyk_KqSVhMdWFC9cAmUgJmc/edit?usp=drive_link){.external target="_blank"}.
 
 ## IRC Lab Training
 
 A signed user agreement on file with the Lab Manager is required to become an authorized lab user. Complete the following:
 
-1.   Review the [Laboratory Safety Briefing Slides (Version 6)](https://docs.google.com/presentation/d/1ey4m6rBtt3Dqd61iKIFp5CFH9tVJhUS9bB6FCj41IgA/edit#slide=id.g3226f387574_2_63){.external target="_blank"}.
-2.   Take the Quiz at the end of the briefing.
-3.   Review the [Biosafety Plan](https://sites.google.com/noaa.gov/pifsc-labs/bio-chem-labs/biosafety-plan){.external target="_blank"}.
-4.   [Review the Chemical Hygiene Plan](https://sites.google.com/noaa.gov/pifsc-labs/bio-chem-labs/chp){.external target="_blank"}.
-5.   Print out the [Lab User Agreement](https://docs.google.com/document/d/15EfBEdMe47GsK4E_0zkZLj9_dKu-xfRM8InxwbF-rQ8/edit?tab=t.0#heading=h.1302m92){.external target="_blank"}, which is Appendix C in the Chemical Hygiene Plan. Open in Adobe Acrobat and print the relevant two pages.
-6.   Complete the checklist in the User Agreement.
-7.   Schedule a Lab Safety Orientation with the Lab Manager.
-8.   Obtain signatures and provide the signed form to the Lab Manager.
+1.  **New Staff:**Review the [Laboratory Safety Briefing Slides (Version 6)](https://docs.google.com/presentation/d/1ey4m6rBtt3Dqd61iKIFp5CFH9tVJhUS9bB6FCj41IgA/edit#slide=id.g3226f387574_2_63){.external target="_blank"}. 
+
+    **Returning Staff** Review the [Lab Safety Refresher](https://docs.google.com/presentation/d/1ey4m6rBtt3Dqd61iKIFp5CFH9tVJhUS9bB6FCj41IgA/edit#slide=id.g3226f387574_2_63){.external target="_blank"}.
+2.  **New Staff:** Take the [Lab Safety Orientation Quiz](https://docs.google.com/forms/d/e/1FAIpQLSelZvriX8MqEMF5UTJIctc15pbKi6zn_2K8C2LFFc8NYvWN_Q/viewform?c=0&w=1){.external target="_blank"}.
+    
+    **Returning Staff** Take the [Annual Lab Safety Refresher Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeLAt5cZjXwzDJlVCMLq-LUgxbWG8EgiMUO3XpgBXwcg_6bmA/viewform){.external target="_blank"}.
+3.  Watch the [Formaldehyde Safety Awareness Training](https://drive.google.com/file/d/1pP7nP1eGLUA5sa__geD24608y7CpEWPw/view){.external target="_blank"} and complete [quiz](https://docs.google.com/forms/d/e/1FAIpQLSejBGZm-5f0JHDgxjUlY0uJJi6K-WiMyoBaQJaN8uY2MNlMew/viewform){.external target="_blank"}.
+3.  Review the [Biosafety Plan](https://sites.google.com/noaa.gov/pifsc-labs/bio-chem-labs/biosafety-plan){.external target="_blank"}.
+4.  [Review the Chemical Hygiene Plan](https://sites.google.com/noaa.gov/pifsc-labs/bio-chem-labs/chp){.external target="_blank"}.
+5.  Print out the [Lab User Agreement](https://docs.google.com/document/d/15EfBEdMe47GsK4E_0zkZLj9_dKu-xfRM8InxwbF-rQ8/edit?tab=t.0#heading=h.1302m92){.external target="_blank"}, which is Appendix C in the Chemical Hygiene Plan. Open in Adobe Acrobat and print the relevant two pages.
+6.  Complete the checklist in the User Agreement.
+7.  Schedule a Lab Safety Orientation with the Lab Manager.
+8.  Obtain signatures and submit signed form to lizabeth.kashinsky\@noaa.gov and claudia.cedillo\@noaa.gov.
+
+## PIFSC Safety Training
+
+1.  Review [PIFSC Safety Orientation for New Staff](https://docs.google.com/document/d/1ii6HU5gPcJ7-Hy1G6e2WI7xDfkFhfCGIDjrpacj6O1w/edit?usp=sharing){.external target="_blank"}
+2.  Complete the [quiz](https://docs.google.com/forms/d/e/1FAIpQLSffRmUCu7JO2c60m8_L5gO8AcIV4bPNohGO9DxytEmmOM8IiA/viewform?c=0&w=1){.external target="_blank"}.

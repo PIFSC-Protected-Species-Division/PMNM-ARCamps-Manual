@@ -11,3 +11,8 @@ Contains links to pre-deployment training and resources.
 -   [Wilderness First Aid Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/WFATraining.html)
 -   [Safety & Communication](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/SafetyTraining.html)
 -   [Huli'ia](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Huliia.html)
+
+## Certification Tracker
+[Link to Certification Tracker](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=1021233825#gid=1021233825){.external target="_blank"}
+
+<iframe src="https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=1021233825#gid=1021233825" style="border:solid 1px #777" width="950" height="600" frameborder="0" scrolling="no">

@@ -1,3 +1,68 @@
 ---
 title: Employment Training
 ---
+
+## RCUH New Hire Orientation
+
+1.  View New Hire Orientation videos parts one and two.
+
+Part 1:
+
+<iframe src="https://www.youtube.com/embed/Yr1U2zV_4Xg?si=xjf0Oda0JXbIc7P0" allowfullscreen frameborder="0" width="680" height="460">
+
+</iframe>
+
+Part 2:
+
+<iframe src="https://www.youtube.com/embed/UuxRv20ZmUc?si=FNJSsOZn2Z1faGcq" allowfullscreen frameborder="0" width="680" height="460">
+
+</iframe>
+
+2.  Complete and sign the [Certificate of Awareness and Understanding Form](https://www.rcuh.com/hidden-document-library/nho-certificate-of-awareness-and-understanding/){.external target="_blank"}
+3.  Email the signed form to RCUH Human Resources immediately to acknowledge completion.
+
+Additional Information: [RCUH New Hire Reference Guide for Regular Hires](https://drive.google.com/file/d/1JU45wljUc92xpV-t2qZ0Dw9IXJLKQNlZ/view?usp=drive_link){.external target="_blank"}
+
+## New Employee Training
+
+Completed online at your own pace
+
+1.  Establish [RCUH Training Portal Account](https://docs.google.com/document/d/1CqWzhqM28yKylDRchMqn1_Ynvy5-qPSwueER457KoNc/edit){.external target="_blank"} Required for all RCUH trainings. May take 24 hours to be approved. (All field staff. 15 min)
+
+2.  University of Hawaii IACUC (Institutional Animal Care and Use Committee): [Basic Course](https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit){.external target="_blank"} (All new field staff. Returning field staff renew if cert expires prior to September 2025. 1.5 Hour) $^1$
+
+3.  University of Hawaii IACUC (Institutional Animal Care and Use Committee): [Marine Mammal Course](https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit){.external target="_blank"} (All new field staff. Returning field staff renew if cert expires prior to September 2025. 30 min) $^1$
+
+4.  University of Hawaii IACUC (Institutional Animal Care and Use Committee): [Wildlife Course](https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit){.external target="_blank"} (All new MTBAP staff, all team leads, and anyone due for renewal. 30 min) $^1$
+
+5.  UH IBC - [Biosafety](https://docs.google.com/document/d/1avdtopa3tw7OmXY5q9wIOiJAwCD_ruNNvhs3CLB3_aQ/edit){.external target="_blank"} Due within 10 days of start date. (All field staff. 40 min)$^1$
+
+6.  UH IBC - [Bloodborne pathogens](https://docs.google.com/document/d/1avdtopa3tw7OmXY5q9wIOiJAwCD_ruNNvhs3CLB3_aQ/edit){.external target="_blank"} Due within 10 days of start date. (All field staff. 25 min)$^1$
+
+7.  UH IACUC [Animal Biosafety Training](https://docs.google.com/document/d/1avdtopa3tw7OmXY5q9wIOiJAwCD_ruNNvhs3CLB3_aQ/edit){.external target="_blank"} Due within 10 days of start date. (All field staff)$^1$
+
+8.  IACUC: Review [seal zoonotic disease documents](https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit){.external target="_blank"} (All field staff. 5 min)$^1$
+
+9.  IACUC: [Review turtle zoonotic disease documents](https://docs.google.com/document/d/1fIDwm5AirExn7RKb54d-mtt6tbyc5Tlwtma2FpieSt4/edit){.external target="_blank"} (All field staff. 5 min)$^1$
+
+10. RCUH [Hazard Communication Training](https://view.knowledgevision.com/presentation/9f9b9ad0ae1b4f31970133499e5da954){.external target="_blank"} (All field staff. 20 min)$^2$
+
+11. RCUH [EEO/Sexual Harassment Prevention for Employees](https://docs.google.com/document/d/1CqWzhqM28yKylDRchMqn1_Ynvy5-qPSwueER457KoNc/edit){.external target="_blank"} (All new staff, returnees MUST renew annually. If it will expire during deployment, renew now. 1 hr)$^3$
+
+12. RCUH [Workplace Violence Prevention for Employees](https://docs.google.com/document/d/1CqWzhqM28yKylDRchMqn1_Ynvy5-qPSwueER457KoNc/edit){.external target="_blank"} (All new staff, returnees MUST renew. 1 hr)$^3$
+
+13. RCUH [Hawaii State Ethics Training](https://ethics.hawaii.gov/ethicsonlinetraining/){.external target="_blank"} (All field staff. 30 min)$^1$
+
+14. Hawaii Boat Safety Course. See [Boating Tab](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Boating.html). (All boating staff, 8 hrs)
+
+15. NMFS [IACUC Animal Care and Use Training](https://drive.google.com/file/d/11-XZk1-Lt8widh1H23xm4U2sVrp4MmE9/view?usp=sharing){.external target="_blank"} (FEDERAL IACUC). (30 min, all new staff, returnees renew if applicable)
+
+------------------------------------------------------------------------
+
+1: Email cert to Lizabeth.kashinsky\@noaa.gov and Ashley.uyehara\@noaa.gov
+
+2: Email cert to Lizabeth.kashinsky\@noaa.gov and rcuh_employment\@rcuh.com
+
+3: Email cert to Lizabeth.kashinsky\@noaa.gov
+
+4: Email Laura.mccue\@noaa.gov acknowledging that you reviewed ppt (cc Liz)
