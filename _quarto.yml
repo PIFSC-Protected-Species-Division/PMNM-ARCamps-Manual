@@ -29,7 +29,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "content/images/FieldCampSticker0827-shrunk-to-fit.jpg"
+    logo: "content/images/logo_nobackground.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
