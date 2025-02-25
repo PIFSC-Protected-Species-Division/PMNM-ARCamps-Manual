@@ -59,8 +59,8 @@ website:
             text: Acronyms
       - section: content/Orientation.qmd
         contents: 
-          - href: content/About_the_Site.qmd
-            text: About the Site
+          - href: content/About_the_IRC.qmd
+            text: About the IRC
           - href: content/OverviewofResearch.qmd
             text: Overview of Research
           - href: content/OverviewofCamps.qmd
@@ -118,7 +118,7 @@ website:
           - href: content/ShipProtocols.qmd
             text: Ship Protocols
           - href: content/ShipPaperwork.qmd
-            text: Ship Paperwork
+            text: Ship Paperwork and Protocols
       - section: content/MonkSealProtocols.qmd
         contents: 
           - href: content/MonkSealOverview.qmd

@@ -2,7 +2,6 @@
 title: Overview of Camps
 ---
 -   [Personal Items and Island Specific Info](https://docs.google.com/document/d/1erMyXFjss5YYpeR4hi5D8_bPJoCjgndxFZOyxBdbgKA/edit?usp=sharing){.external target="_blank"}
--   [Cruises/Cruise Schedule](https://docs.google.com/spreadsheets/d/153jotShaMERiNy9uUIzngoRGeViB-CU4soD7FutxyYo/edit?usp=sharing){.external target="_blank"}
 -   [Island Specific Maps](https://docs.google.com/document/d/1K2A754c0zdEeeMmONt6iPCu3e_G6n55XjQSAMxXwy1M/edit?usp=sharing){.external target="_blank"}
 -   [PMNM Hawaiian Names Map](https://drive.google.com/file/d/1Ltd7Y8X53vzwnUb6At4Lf9lCoLGoAPh2/view?usp=sharing){.external target="_blank"}
 

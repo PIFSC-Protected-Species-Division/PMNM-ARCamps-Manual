@@ -1,5 +1,5 @@
 ---
-title: "About the Site"
+title: "About the Inouye Regional Center"
 format: html
 ---
 

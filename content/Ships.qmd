@@ -4,5 +4,4 @@ title: Ships
 
 ## Sub-Pages
 -   [Our Vessels](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OurVessels.html)
--   [Ship Protocols](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/ShipProtocols.html)
--   [Ship Paperwork](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/ShipPaperwork.html)
+-   [Ship Paperwork and Protocols](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/ShipPaperwork.html)

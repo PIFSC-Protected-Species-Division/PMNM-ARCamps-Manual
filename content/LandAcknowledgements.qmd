@@ -2,4 +2,12 @@
 title: "Land Acknowledgements"
 format: html
 ---
+![](images/history1.jpg){fig-align="center, height=300}
 
+> "The name Papahānaumokuākea commemorates the union of two Hawaiian ancestors – Papahānaumoku and Wākea – who gave rise to the Hawaiian Archipelago, the taro plant, and the Hawaiian people.
+>
+> Papahānaumokuākea is of great importance to Native Hawaiians, with significant cultural sites found on the islands of Nihoa and Mokumanamana, both of which are on the National and State Register for Historic Places. Mokumanamana has the highest density of sacred sites in the Hawaiian Archipelago and has spiritual significance in Hawaiian cosmology.
+>
+> The Northwestern Hawaiian Islands were explored, colonized, and in some cases permanently settled by Native Hawaiians in pre-contact times. Nihoa and Mokumanamana, the islands that are closest to the Main Hawaiian Islands, have archaeological sites including agricultural, religious, and habitation features. Based on radiocarbon data, it’s been estimated that Nihoa and Mokumanamana could have been inhabited from 1000 A.D. to 1700 A. D. These islands pose the same dilemma as a score of other islands in Oceania, which were small targets for voyaging and often at some distance from their nearest occupied neighbor. All of these islands were either empty at contact or abandoned, having been occupied some time previously. Due to the environmental constraints of being small, geographically isolated, and not having enough resources to allow self-sustainability, demographic stability (in initial and later stages of colonization) have been thought to be the main reasons why interaction was so vital to these regions."
+
+From [Papahānaumokuākea Marine National Monument webpage](https://www.papahanaumokuakea.gov/new-about/){.external target="_blank"}

@@ -5,7 +5,7 @@ title: Orientation
 
 ## Sub-Pages
 
--   [About the Site](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/About_the_Site.html)
+-   [About the Inouye Regional Center](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/About_the_IRC.html)
 -   [Overview of Research](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OverviewofResearch.html)
 -   [Overview of Camps](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OverviewofCamps.html)
 -   [Meet the Team](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/MeettheTeam.html)
