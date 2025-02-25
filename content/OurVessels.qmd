@@ -4,4 +4,8 @@ title: Our Vessels
 
 ## NOAA White Ships
 
+![](images/Sette.jpg){fig-align="center, width=300, height=200}
+
+NOAA Ship [Oscar Elton Sette](https://www.omao.noaa.gov/marine-operations/ships/oscar-elton-sette){.external target="_blank"} as built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.
+
 ## Charter Vessels

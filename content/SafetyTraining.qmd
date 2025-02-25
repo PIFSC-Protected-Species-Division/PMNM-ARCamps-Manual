@@ -1,26 +1,24 @@
 ---
 title: Safety & Communication
 ---
--   [Communication Protocol](https://docs.google.com/document/d/14fkwFLLkIIj8OV80xEg5G0lzZ_OlKp1EUlolTRfRF5w/edit?usp=sharing){.external target="_blank"}
 
--   [Emergency Protocol](https://docs.google.com/document/d/1bct9mv_JhczIkr7Bhx5W_txtQa4fKo_Hba9diohxQ54/edit?usp=sharing){.external target="_blank"}
-
--   [Field Camp Regular and Emergency Contact List](https://docs.google.com/document/d/1OgxWw3GioTt9gAzqMgC1TEgmVWUEs9ZGwl95qgde2Ig/edit?usp=sharing){.external target="_blank"}
-
--   [Camp Takedown Emergency Protocol](https://docs.google.com/document/d/1JrFgn1PePoON2VS7u8A5zV-9gvq6NkYXf4dHygEdWSI/edit?usp=sharing){.external target="_blank"}
-
--   [Email / SkyFile Directions](https://docs.google.com/document/d/1y3SEuaLFK7PLSz24mpzh3dteoV9pA-12RD5SZUGwaEE/edit?usp=sharing){.external target="_blank"}
+## HEPA / Health
 
 -   [HEPA SOP](https://docs.google.com/document/d/11_b7DEgAzzm-B1ct64IMD7Wl0eupd4DSkX23WyMRUYc/edit?usp=sharing){.external target="_blank"}
-
--   [Soap Notes, NOLS Resource](https://drive.google.com/file/d/1mMBRVZggA9rNMam91xUB-sOPGX008G9d/view?usp=sharing){.external target="_blank"}
-
--   [RCUH Accident / Injury Reporting Form](https://drive.google.com/file/d/1ztVR9hdqSjJCB8DqQeB53OfmMkYZNTB1/view?usp=sharing){.external target="_blank"}
-
+-   [2025 PIFSC PSD NWHI Operations Illness and Injury Risk Mitigation Plan](https://docs.google.com/document/d/1XpXBhXfYftiAGn0ggQ4B7xPdO8QSCIR5/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
 -   [RCUH Employee Assistance Program Brochure](https://drive.google.com/file/d/1u6Ah77UmaVmiA3PiC52Ck9OxDLe12ATk/view?usp=sharing){.external target="_blank"}
 
--   [2025 PIFSC PSD NWHI Operations Illness and Injury Risk Mitigation Plan](https://docs.google.com/document/d/1XpXBhXfYftiAGn0ggQ4B7xPdO8QSCIR5/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+## Emergencies
 
+-   [Emergency Protocol](https://docs.google.com/document/d/1bct9mv_JhczIkr7Bhx5W_txtQa4fKo_Hba9diohxQ54/edit?usp=sharing){.external target="_blank"}
+-   [Field Camp Regular and Emergency Contact List](https://docs.google.com/document/d/1OgxWw3GioTt9gAzqMgC1TEgmVWUEs9ZGwl95qgde2Ig/edit?usp=sharing){.external target="_blank"}
+-   [Camp Takedown Emergency Protocol](https://docs.google.com/document/d/1JrFgn1PePoON2VS7u8A5zV-9gvq6NkYXf4dHygEdWSI/edit?usp=sharing){.external target="_blank"}
 -   [Hawaii Boater's Hurricane and Tsunami Safety Manual](https://drive.google.com/file/d/1P8A_qSCJSegbTMre4TumOBZJznJHMEpp/view?usp=sharing){.external target="_blank"}
 
+## Reporting
+
+-   [Communication Protocol](https://docs.google.com/document/d/14fkwFLLkIIj8OV80xEg5G0lzZ_OlKp1EUlolTRfRF5w/edit?usp=sharing){.external target="_blank"}
+-   [Email / SkyFile Directions](https://docs.google.com/document/d/1y3SEuaLFK7PLSz24mpzh3dteoV9pA-12RD5SZUGwaEE/edit?usp=sharing){.external target="_blank"}
+-   [Soap Notes, NOLS Resource](https://drive.google.com/file/d/1mMBRVZggA9rNMam91xUB-sOPGX008G9d/view?usp=sharing){.external target="_blank"}
+-   [RCUH Accident / Injury Reporting Form](https://drive.google.com/file/d/1ztVR9hdqSjJCB8DqQeB53OfmMkYZNTB1/view?usp=sharing){.external target="_blank"}
 

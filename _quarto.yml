@@ -80,6 +80,8 @@ website:
             text: Cultural Briefing & Resources
           - href: content/CommunicationMedia.qmd
             text: Internet & Media
+          - href: content/Partners.qmd
+            text: Partners
       - section: content/Training.qmd
         text: "Training"
         contents: 
