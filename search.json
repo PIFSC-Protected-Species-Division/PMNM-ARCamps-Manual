@@ -48,7 +48,29 @@
     "href": "content/SettingUpCamp.html",
     "title": "Setting Up Camp",
     "section": "",
-    "text": "Camp Set Up\nSetting Up Wall Tents\nBuilding / Disbanding NWHI Long Drop\nCamp Take Down\nCamp Chore Suggestions\nData Project Suggestions\nData Training Suggestions\nKnots\nAwl\nGrommets",
+    "text": "Camp Set Up\nSetting Up Wall Tents\nBuilding / Disbanding NWHI Long Drop\nCamp Take Down\nCamp Chore Suggestions\nData Project Suggestions\nData Training Suggestions",
+    "crumbs": [
+      "Gear & Packing",
+      "Setting Up Camp"
+    ]
+  },
+  {
+    "objectID": "content/SettingUpCamp.html#general",
+    "href": "content/SettingUpCamp.html#general",
+    "title": "Setting Up Camp",
+    "section": "",
+    "text": "Camp Set Up\nSetting Up Wall Tents\nBuilding / Disbanding NWHI Long Drop\nCamp Take Down\nCamp Chore Suggestions\nData Project Suggestions\nData Training Suggestions",
+    "crumbs": [
+      "Gear & Packing",
+      "Setting Up Camp"
+    ]
+  },
+  {
+    "objectID": "content/SettingUpCamp.html#technical-guides",
+    "href": "content/SettingUpCamp.html#technical-guides",
+    "title": "Setting Up Camp",
+    "section": "Technical Guides",
+    "text": "Technical Guides\n\nKnots\nAwl\nGrommets",
     "crumbs": [
       "Gear & Packing",
       "Setting Up Camp"
@@ -267,7 +289,29 @@
     "href": "content/Necropsy.html",
     "title": "Necropsy",
     "section": "",
-    "text": "Necropsy Protocol\nBlank Necropsy Gross Report\nExample Necropsy Gross Report\n[Necropsy Sample Checklists]\nNecropsy Helpful Hint Guide\n[Cetacean Strandings / Necropsy]",
+    "text": "Necropsy Protocol\n[Necropsy Sample Checklists]\nNecropsy Helpful Hint Guide\n[Cetacean Strandings / Necropsy]",
+    "crumbs": [
+      "Monk Seal Protocols",
+      "Necropsy"
+    ]
+  },
+  {
+    "objectID": "content/Necropsy.html#general",
+    "href": "content/Necropsy.html#general",
+    "title": "Necropsy",
+    "section": "",
+    "text": "Necropsy Protocol\n[Necropsy Sample Checklists]\nNecropsy Helpful Hint Guide\n[Cetacean Strandings / Necropsy]",
+    "crumbs": [
+      "Monk Seal Protocols",
+      "Necropsy"
+    ]
+  },
+  {
+    "objectID": "content/Necropsy.html#reports",
+    "href": "content/Necropsy.html#reports",
+    "title": "Necropsy",
+    "section": "Reports",
+    "text": "Reports\n\nBlank Necropsy Gross Report\nExample Necropsy Gross Report",
     "crumbs": [
       "Monk Seal Protocols",
       "Necropsy"
@@ -847,7 +891,29 @@
     "href": "content/Interventions.html",
     "title": "Interventions",
     "section": "",
-    "text": "Field Intervention Overview\nMale Aggression Response\nAversive Techniques\nHMS Health Assessment Checklist and Guidelines\nAbscess Treatment\nHMS Medication Administration & Pole Syringe Care\nPole Syringe Dry Bag Maintenance\nBeach Pen Protocol\nVaccination\nTranslocation",
+    "text": "Field Intervention Overview\nMale Aggression Response\nHMS Health Assessment Checklist and Guidelines",
+    "crumbs": [
+      "Monk Seal Protocols",
+      "Interventions"
+    ]
+  },
+  {
+    "objectID": "content/Interventions.html#overview",
+    "href": "content/Interventions.html#overview",
+    "title": "Interventions",
+    "section": "",
+    "text": "Field Intervention Overview\nMale Aggression Response\nHMS Health Assessment Checklist and Guidelines",
+    "crumbs": [
+      "Monk Seal Protocols",
+      "Interventions"
+    ]
+  },
+  {
+    "objectID": "content/Interventions.html#techniques-procedures",
+    "href": "content/Interventions.html#techniques-procedures",
+    "title": "Interventions",
+    "section": "Techniques / Procedures",
+    "text": "Techniques / Procedures\n\nAversive Techniques\nAbscess Treatment\nHMS Medication Administration & Pole Syringe Care\nPole Syringe Dry Bag Maintenance\nBeach Pen Protocol\nVaccination\nTranslocation",
     "crumbs": [
       "Monk Seal Protocols",
       "Interventions"
@@ -1149,7 +1215,18 @@
     "href": "content/Boating.html",
     "title": "Boating",
     "section": "",
-    "text": "##Training\n\nHawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats",
+    "text": "Hawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats",
+    "crumbs": [
+      "Training",
+      "Boating"
+    ]
+  },
+  {
+    "objectID": "content/Boating.html#training",
+    "href": "content/Boating.html#training",
+    "title": "Boating",
+    "section": "",
+    "text": "Hawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats",
     "crumbs": [
       "Training",
       "Boating"
