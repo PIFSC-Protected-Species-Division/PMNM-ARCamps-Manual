@@ -29,7 +29,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "content/images/logo_nobackground.png"
+    logo: "content/images/Logo_nobackground.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
