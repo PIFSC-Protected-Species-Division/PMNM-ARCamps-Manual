@@ -2,7 +2,7 @@
 title: Boating
 ---
 
-##Training
+## Training
 
 -   [Hawaii Boat Safety Course](https://www.boatus.org/hawaii){.external target="_blank"}(8 hours online, email cert to hope.ronco\@noaa.gov and lizabeth.kashinsky\@noaa.gov)
 -   MOCC

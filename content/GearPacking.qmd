@@ -1,6 +1,7 @@
 ---
 title: Gear & Packing
 ---
+![](images/Tents.jpg){fig-align="center, height=350}
 
 Contains maintenance and use resources for camp equipment.
 

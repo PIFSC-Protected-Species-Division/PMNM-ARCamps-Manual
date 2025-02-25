@@ -3,6 +3,8 @@ title: "Monk Seal Protocols"
 format: html
 ---
 
+![](images/HMS-Researcher.jpg){fig-align="center, height=350}
+
 Contains guidance for Monk Seal fieldwork.
 
 ##  Sub-Pages

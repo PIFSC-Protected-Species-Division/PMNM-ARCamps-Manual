@@ -3,14 +3,12 @@ title: "Necropsy"
 format: html
 ---
 
+## General
 -   [Necropsy Protocol](https://docs.google.com/document/d/1Ke3mQr-q8QKt0UZCGpsMug6kEELFuCbUdjS6IEC6f7M/edit?usp=sharing){.external target="_blank"}
-
--   [Blank Necropsy Gross Report](https://docs.google.com/document/d/1QkYorHLCWkMcQHtstuiK73XmxehqmnLFHT-CiW4dk50/edit?usp=sharing){.external target="_blank"}
-
--   [Example Necropsy Gross Report](https://docs.google.com/document/d/1M_CjPeOlHKLe6TskPTmbvUb9suKqEEJyXmSQVyvD33s/edit?usp=sharing){.external target="_blank"}
-
 -   [Necropsy Sample Checklists]
-
 -   [Necropsy Helpful Hint Guide](https://docs.google.com/presentation/d/1vacECKRKsLHIt6CsNtuaSNAvGJu0zk5q/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
-
 -   [Cetacean Strandings / Necropsy]
+
+## Reports
+-   [Blank Necropsy Gross Report](https://docs.google.com/document/d/1QkYorHLCWkMcQHtstuiK73XmxehqmnLFHT-CiW4dk50/edit?usp=sharing){.external target="_blank"}
+-   [Example Necropsy Gross Report](https://docs.google.com/document/d/1M_CjPeOlHKLe6TskPTmbvUb9suKqEEJyXmSQVyvD33s/edit?usp=sharing){.external target="_blank"}

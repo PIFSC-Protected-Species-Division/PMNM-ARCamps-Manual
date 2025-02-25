@@ -2,7 +2,7 @@
 title: "Huli'ia"
 format: html
 ---
-![](images/Huliiapic.png){fig-align="center"}
+![](images/Huliiapic.png){fig-align=center, height=400}
 
 > "Developed by the non-profit organization Nā Maka Onaona, Huli ‘ia is an ‘ōiwi (Native Hawaiian) observational process documenting seasonal changes and shifts across entire landscapes, ma uka i kai (from themountains to the sea), identifying dominant correlating cycles to guide resource management and best practices that support a productive and thriving community, ‘Āina Momona. It is an observational process documenting natural changes over time, identifies dominant cycles within certain species or occurrences (flowering, fruiting, presence/absence of flora/fauna, cloud formations, spawning, or recruiting of fish species, etc.) and assists in identifying correlations between species and/or occurrences as indicators of the other. When one thing happens (a flower species blooms en masse), it indicates that another occurrence (a fish is spawning en masse) is happening. It allows natural cycles to support and guide our management practices, allowing the flexibility needed to ensure the best times to rest areas or species from cultivation and harvest—or vice versa. Huli ‘ia stems from traditional management systems driven by an intimate understanding of the natural environment and the ability of communities to adjust and adapt their activities as best management practices to support these systems of nature."
 
