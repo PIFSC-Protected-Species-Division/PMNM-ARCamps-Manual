@@ -281,7 +281,7 @@
     "href": "content/EnteringtheMonument.html#sub-pages",
     "title": "Entering the Monument",
     "section": "Sub-Pages",
-    "text": "Sub-Pages\n\nBiosecurity and Packing\nPermits and BMPs\nCultural Briefing and Resources\nInternet & Media",
+    "text": "Sub-Pages\n\nBiosecurity and Packing\nPermits and BMPs\nCultural Briefing and Resources\nInternet & Media\nEntering the Monument",
     "crumbs": [
       "Entering the Monument"
     ]
@@ -1170,21 +1170,11 @@
     ]
   },
   {
-    "objectID": "content/Orientation.html",
-    "href": "content/Orientation.html",
-    "title": "Orientation",
-    "section": "",
-    "text": "About the Site\nOverview of Research\nOverview of Camps\nMeet the Team\nLand Acknowledgements",
-    "crumbs": [
-      "Orientation"
-    ]
-  },
-  {
     "objectID": "content/Orientation.html#sub-pages",
     "href": "content/Orientation.html#sub-pages",
     "title": "Orientation",
-    "section": "",
-    "text": "About the Site\nOverview of Research\nOverview of Camps\nMeet the Team\nLand Acknowledgements",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nAbout the Site\nOverview of Research\nOverview of Camps\nMeet the Team\nLand Acknowledgements",
     "crumbs": [
       "Orientation"
     ]
@@ -1330,6 +1320,50 @@
     "title": "Publications and Presentations",
     "section": "",
     "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)"
+  },
+  {
+    "objectID": "content/Partners.html",
+    "href": "content/Partners.html",
+    "title": "Partners",
+    "section": "",
+    "text": "The Secretary of Commerce, through the National Oceanic and Atmospheric Administration (NOAA), has primary responsibility regarding the management of the marine areas of the Monument, in consultation with the Secretary of the Interior.\nThe Secretary of the Interior, through the U.S. Fish and Wildlife Service (FWS), has sole responsibility for the areas of the Monument that overlay the Midway Atoll National Wildlife Refuge, the Battle of Midway National Memorial, and the Hawaiian Islands National Wildlife Refuge, in consultation with the Secretary of Commerce.\nThe State of Hawaiʻi, through the Department of Land and Natural Resources (DLNR), has primary responsibility for the Northwestern Hawaiian Islands Marine Refuge and State Seabird Sanctuary at Kure Atoll. Nothing in the Proclamation diminishes or enlarges the jurisdiction of the State of Hawaiʻi.\nThe Office of Hawaiian Affairs, a constitutionally established body set as a separate state entity independent of the executive branch of the State of Hawaiʻi, is responsible for representing the interests of the Native Hawaiian community pertaining to activities in the monument, including Native Hawaiian customary and traditional rights and practices exercised for subsistence, cultural and religious purposes under the Hawaiʻi Constitution.",
+    "crumbs": [
+      "Entering the Monument",
+      "Partners"
+    ]
+  },
+  {
+    "objectID": "content/Partners.html#pmnm-co-trustees",
+    "href": "content/Partners.html#pmnm-co-trustees",
+    "title": "Partners",
+    "section": "",
+    "text": "The Secretary of Commerce, through the National Oceanic and Atmospheric Administration (NOAA), has primary responsibility regarding the management of the marine areas of the Monument, in consultation with the Secretary of the Interior.\nThe Secretary of the Interior, through the U.S. Fish and Wildlife Service (FWS), has sole responsibility for the areas of the Monument that overlay the Midway Atoll National Wildlife Refuge, the Battle of Midway National Memorial, and the Hawaiian Islands National Wildlife Refuge, in consultation with the Secretary of Commerce.\nThe State of Hawaiʻi, through the Department of Land and Natural Resources (DLNR), has primary responsibility for the Northwestern Hawaiian Islands Marine Refuge and State Seabird Sanctuary at Kure Atoll. Nothing in the Proclamation diminishes or enlarges the jurisdiction of the State of Hawaiʻi.\nThe Office of Hawaiian Affairs, a constitutionally established body set as a separate state entity independent of the executive branch of the State of Hawaiʻi, is responsible for representing the interests of the Native Hawaiian community pertaining to activities in the monument, including Native Hawaiian customary and traditional rights and practices exercised for subsistence, cultural and religious purposes under the Hawaiʻi Constitution.",
+    "crumbs": [
+      "Entering the Monument",
+      "Partners"
+    ]
+  },
+  {
+    "objectID": "content/Partners.html#senior-executive-board",
+    "href": "content/Partners.html#senior-executive-board",
+    "title": "Partners",
+    "section": "Senior Executive Board",
+    "text": "Senior Executive Board\nA Senior Executive Board – composed of a senior-level designee from the Department of Commerce, the Department of the Interior, and the State of Hawaiʻi Department of Land and Natural Resources – provides policy guidance to their respective agency staff assigned to carry out Monument management activities.",
+    "crumbs": [
+      "Entering the Monument",
+      "Partners"
+    ]
+  },
+  {
+    "objectID": "content/Partners.html#pmnm-co-managers",
+    "href": "content/Partners.html#pmnm-co-managers",
+    "title": "Partners",
+    "section": "PMNM Co-Managers",
+    "text": "PMNM Co-Managers\nThe day-to-day management of the Monument is overseen by a seven-member management board comprised of two sub-agencies of each Co-Trustee, plus the Office of Hawaiian Affairs.\n\nNOAA Office of National Marine Sanctuaries\nNOAA National Marine Fisheries Service\nUS Fish and Wildlife Service- Ecological Services\nUS Fish and Wildlife Service- Refuges\nState of Hawaii- Division of Aquatic Resources\nState of Hawaii- Division of Forestry and Wildlife\nOffice of Hawaiian Affairs",
+    "crumbs": [
+      "Entering the Monument",
+      "Partners"
+    ]
   },
   {
     "objectID": "content/PostSeasonProtocols.html",
