@@ -3,3 +3,27 @@ title: "Partners"
 format: html
 ---
 
+## PMNM Co-Trustees
+
+-   The Secretary of Commerce, through the [National Oceanic and Atmospheric Administration (NOAA)](http://www.noaa.gov/){.external target="_blank"}, has primary responsibility regarding the management of the marine areas of the Monument, in consultation with the Secretary of the Interior.
+
+-   The Secretary of the Interior, through the [U.S. Fish and Wildlife Service (FWS)](http://www.fws.gov/hawaiianislands/){.external target="_blank"}, has sole responsibility for the areas of the Monument that overlay the Midway Atoll National Wildlife Refuge, the Battle of Midway National Memorial, and the Hawaiian Islands National Wildlife Refuge, in consultation with the Secretary of Commerce.
+
+-   The State of Hawaiʻi, through the [Department of Land and Natural Resources (DLNR)](http://hawaii.gov/dlnr){.external target="_blank"}, has primary responsibility for the Northwestern Hawaiian Islands Marine Refuge and State Seabird Sanctuary at Kure Atoll. Nothing in the Proclamation diminishes or enlarges the jurisdiction of the State of Hawaiʻi.
+
+-   The [Office of Hawaiian Affairs](http://www.oha.org/){.external target="_blank"}, a constitutionally established body set as a separate state entity independent of the executive branch of the State of Hawaiʻi, is responsible for representing the interests of the Native Hawaiian community pertaining to activities in the monument, including Native Hawaiian customary and traditional rights and practices exercised for subsistence, cultural and religious purposes under the Hawaiʻi Constitution.
+
+## Senior Executive Board
+A Senior Executive Board – composed of a senior-level designee from the Department of Commerce, the Department of the Interior, and the State of Hawaiʻi Department of Land and Natural Resources – provides policy guidance to their respective agency staff assigned to carry out Monument management activities.
+
+## PMNM Co-Managers
+The day-to-day management of the Monument is overseen by a seven-member management board comprised of two sub-agencies of each Co-Trustee, plus the Office of Hawaiian Affairs.
+
+-   [NOAA Office of National Marine Sanctuaries](http://sanctuaries.noaa.gov/)
+-   [NOAA National Marine Fisheries Service](http://www.nmfs.noaa.gov/){.external target="_blank"}
+-   [US Fish and Wildlife Service- Ecological Services](http://www.fws.gov/pacificislands/){.external target="_blank"}
+-   [US Fish and Wildlife Service- Refuges](http://www.fws.gov/refuges/){.external target="_blank"}
+-   [State of Hawaii- Division of Aquatic Resources](http://state.hi.us/dlnr/dar/){.external target="_blank"}
+-   [State of Hawaii- Division of Forestry and Wildlife](http://dlnr.hawaii.gov/dofaw/){.external target="_blank"}
+-   [Office of Hawaiian Affairs](){.external target="_blank"}
+

@@ -1,6 +1,7 @@
 ---
 title: Orientation
 ---
+![](images/sealturtle.jpg){fig-align="center, height=400}
 
 ## Sub-Pages
 
