@@ -1,3 +1,74 @@
 ---
 title: Past Media
 ---
+
+## NOAA Stories
+
+#### Field Camps:
+-   2024.11.12- [Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument)
+-   2023.06.16- [$1 Million for Sea Turtle and Hawaiian Monk Seal Conservation in the Pacific Islands](https://www.fisheries.noaa.gov/feature-story/1-million-sea-turtle-and-hawaiian-monk-seal-conservation-pacific-islands)
+-   2023.06.13- [Return to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season](https://www.fisheries.noaa.gov/feature-story/return-lalo-turtle-and-seal-biologists-deploy-papahanaumokuakea-2023-field-season)
+-   2022.10.17- [NOAA Fisheries PIFSC on Twitter](https://x.com/NOAAFish_PIFSC/status/1582079287158767616?s=20&t=ew3uutIXVo2QJi84OYJLzw)
+-   2022.10.13- [2022 Pacific Islands Field Season a Success](https://www.fisheries.noaa.gov/science-blog/2022-pacific-islands-field-season-success)
+-   2022.09.15- [How to Save an Island From Climate Change](https://www.fisheries.noaa.gov/feature-story/how-save-island-climate-change)
+-   2022.08.04- [NOAA Ship Oscar Elton Sette Departs for Papahānaumokuākea to Bring NOAA’s Remote Field Scientists Home](https://www.fisheries.noaa.gov/feature-story/noaa-ship-oscar-elton-sette-departs-papahanaumokuakea-bring-noaas-remote-field)
+-   2022.05.03- [Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2022 Field Season](https://www.fisheries.noaa.gov/feature-story/turtle-and-seal-biologists-deploy-papahanaumokuakea-2022-field-season)
+-   2021.11.10- [Northwestern Hawaiian Islands Field Camps 2021](https://www.fisheries.noaa.gov/gallery/northwestern-hawaiian-islands-field-camps-2021)
+-   2021.09.23- [Northwestern Hawaiian Islands 2021 Marine Debris Mission](https://www.fisheries.noaa.gov/gallery/northwestern-hawaiian-islands-2021-marine-debris-mission)
+-   2021.08.24- [Scientists return from PMNM with positive reports, discoveries](https://www.papahanaumokuakea.gov/new-news/2021/08/24/cruise-returns/)
+-   2021.09.01- [Return to Papahānaumokuākea Field Camps](https://www.fisheries.noaa.gov/science-blog/return-papahanaumokuakea-field-camps)
+-   2020.11.19- [2020 Northwestern Hawaiian Islands Field Season Highlights: Celebrating Partners](https://www.fisheries.noaa.gov/feature-story/2020-northwestern-hawaiian-islands-field-season-highlights-celebrating-partners)
+-   2019.05.14- [Partnering to Protect and Study Monk Seals and Sea Turtles: Northwestern Hawaiian Islands Field Camps 2019](https://www.fisheries.noaa.gov/feature-story/partnering-protect-and-study-monk-seals-and-sea-turtles-northwestern-hawaiian-islands)
+-   2018.11.21- [Assessing the Damage: The First Step After Hurricane Walaka](https://www.papahanaumokuakea.gov/new-news/2018/11/21/ffs-walaka/)
+-   2018.04.15- [Field Notes: Science and Stewardship in the Northwestern Hawaiian Islands](https://www.fisheries.noaa.gov/science-blog/field-notes-science-and-stewardship-northwestern-hawaiian-islands)
+-   2017.09.27- [A Day in the Life of East Island Exiles](https://www.fisheries.noaa.gov/science-blog/day-life-east-island-exiles)
+
+#### Monk Seals:
+-   2023.09.06- [Continuing a Conservation Science Legacy: 40 Years of Monitoring Hawaiian Monk Seals](https://www.fisheries.noaa.gov/feature-story/continuing-conservation-science-legacy-40-years-monitoring-hawaiian-monk-seals)
+-   2022.06.03- [Derelict Fishing Net Movement in the Northwestern Hawaiian Islands](https://www.fisheries.noaa.gov/feature-story/derelict-fishing-net-movement-northwestern-hawaiian-islands)
+-   2021.11.10- [Challenges, Satisfaction, and Lots of Monk Seal Pups During 2021 Field Season](https://www.fisheries.noaa.gov/feature-story/challenges-satisfaction-and-lots-monk-seal-pups-during-2021-field-season)
+-   2019.08.29- [There and Back Again: A Turtle Biologist’s Tale](https://www.fisheries.noaa.gov/science-blog/there-and-back-again-turtle-biologists-tale)
+-   2017.05.23- [The People Aboard NOAA’s ARC: Team French Frigate Shoals](https://pifscblog.wordpress.com/2017/05/23/team-french-frigate-shoals/)
+
+#### Marine Turtles:
+-   2024.06.17[Sea Turtle Week 2024](https://www.fisheries.noaa.gov/feature-story/swim-sea-turtle-week)
+-   2024.02.14- [Sea Turtle Research in the Pacific](https://www.fisheries.noaa.gov/pacific-islands/science-data/sea-turtle-research-pacific)
+-   2022.06.12- [Sea Turtle Week 2022](https://www.fisheries.noaa.gov/feature-story/sea-turtle-week-2022#:~:text=NOAA%20works%20to%20protect%20and,our%20work%20to%20conserve%20them.)
+-   2022.06.02- [Hawaiʻi Sea Turtles Are Amazing—from Afar](https://www.fisheries.noaa.gov/feature-story/hawaii-sea-turtles-are-amazing-afar)
+-   2021.08.12- [Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe](https://www.fisheries.noaa.gov/feature-story/turtles-tourism-and-traffic-keeping-hawaii-honu-safe)
+-   2021.06.16- [Sea Turtle Week 2021](https://www.fisheries.noaa.gov/content/sea-turtle-week-2021-celebrating-sea-turtle-conservation#:~:text=We%20kick%20off%20Sea%20Turtle,%2C%20hunting%2C%20and%20habitat%20degradation.)
+-   2020.07.20- [Hawksbill Sea Turtles Are Truly Hawai'i Locals](https://www.fisheries.noaa.gov/feature-story/hawksbill-sea-turtles-are-truly-hawaii-locals)
+-   2020.06.10- [Sea Turtle Week 2020](https://www.fisheries.noaa.gov/leadership-message/celebrating-sea-turtle-week-2020#:~:text=A%20message%20from%20Donna%20Wieting,June%2015-19%2C%202020.&text=Welcome%20to%20Sea%20Turtle%20Week,to%20protect%20and%20conserve%20them.)
+-   2020.04.10- [https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest](https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest)
+-   2019.06.10- [Sea Turtle Week 2019](https://www.fisheries.noaa.gov/feature-story/saving-sea-turtles-science-sea-turtle-week#:~:text=World%20Sea%20Turtle%20Day%20is,streamlined%20bodies%20and%20large%20flippers.)
+-   2018.06.11- [Sea Turtle Week 2018](https://www.fisheries.noaa.gov/feature-story/celebrating-sea-turtle-week-2018#:~:text=World%20Sea%20Turtle%20Day%20is,and%20Turtle%20Division%20(MMTD).)
+-   2017.09.26- [By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi](https://www.fisheries.noaa.gov/feature-story/numbers-annual-migration-green-sea-turtles-hawaii)
+
+
+## Other Media
+
+#### Field Camps:
+-   [Papahānaumokuākea Marine National Monument Flickr Album](https://www.flickr.com/photos/papahanaumokuakea/albums/)
+-   2022.12.06- [Monitoring Recovery of Palmyra Atoll’s Lagoons](https://storymaps.arcgis.com/stories/b6bf3843c8dc4f57b5d5d8deafd1818d)
+-   [Fantastic Field Camps: Seals, Turtles, & Talk Story](https://conservationcompass.org/career-resources/fantastic-field-camps-seals-turtles-and-talk-story/)
+-   [East Island Exiles: Our summer on a sea turtle sandbar](https://www.facebook.com/EastIslandExiles/?locale=hi_IN&_rdr)
+-   2021.12.06- [Editorial: More protection for Papahanaumokuakea](https://drive.google.com/file/d/1JNQC5VoSlym88uaz7VYP7S-dQ1vxEZpM/view?usp=sharing)
+-   2021.11.11- [NOAA scientists return from Northwest Hawaiian Islands](https://www.staradvertiser.com/2021/11/11/photo-gallery/noaa-scientists-return-from-northwest-hawaiian-islands/)
+-   2021.08.18- [Native Hawaiian researchers take a groundbreaking field trip to Papahanaumokuakea](https://www.hawaiinewsnow.com/2021/08/19/native-hawaiian-researchers-take-groundbreaking-field-trip-papahanaumokuakea/)
+-   [Researchers head to field sites in Northwestern Hawaiian Islands](https://www.yachtsandyachting.com/news/204076/Science-and-stewardship-in-Northwest-Hawaiian-Island)
+
+#### Monk Seals:
+-   2023.12.14- [Welcome to the extinction capital of the world](https://www.vox.com/down-to-earth/2023/12/14/23990382/extinction-capital-hawaii-endangered-species-act)
+-   2021.11.11- [NOAA biologists report many new monk seal pups at Papahanaumokuakea](https://www.staradvertiser.com/2021/11/11/breaking-news/noaa-biologists-report-many-new-monk-seal-pups-at-papahanaumokuakea-this-year/)
+
+#### Marine Turtles:
+-   2023.02.02- [Have you seen a honu recently? NOAA needs your help counting marked sea turtles](https://www.hawaiinewsnow.com/2023/02/03/have-you-seen-honu-recently-noaa-needs-your-help-counting-marked-sea-turtles/)
+-   2022.09.26- [Green Sea Turtle: Endangered Animals Spotlight](https://earth.org/?endangered-species=green-sea-turtle)
+-   2022.09.24- [Honu release, year of the limu celebration at Sea Life Park](https://www.khon2.com/local-news/honu-release-year-of-the-limu-celebration-at-sea-life-park/)
+-   2022.05- [Hope for Honu: Green Sea Turtles on the Road to Recovery](https://keolamagazine.com/malama-mokupuni/hope-for-honu/)
+-   2021- [Turtle Independence Day](https://www.youtube.com/watch?v=bqWs51ce4SE)
+-   2020.01.30- [Board Talk: Turtle Nesting, Post-Walaka](https://www.environment-hawaii.org/?p=12183)
+
+#### Hurricane Walaka:
+-   [Five Things You Should Know About the Island That Disappeared](https://www.youtube.com/watch?v=kvdpBcQJ6_0)
+-   2021- [From Loss to Recovery to Resilience](https://seagrant.soest.hawaii.edu/from-loss-to-recovery-to-resilience/)
