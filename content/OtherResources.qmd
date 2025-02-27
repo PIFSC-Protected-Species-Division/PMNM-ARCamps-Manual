@@ -1,3 +1,8 @@
 ---
 title: Other Resources
 ---
+
+## Sub-Pages
+-   [Past Media](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/PastMedia.html)
+-   [Library Corner](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/LibraryCorner.html)
+-   [About this Website](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/AboutThisWebsite.html)

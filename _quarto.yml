@@ -115,8 +115,6 @@ website:
         contents: 
           - href: content/OurVessels.qmd
             text: Our Vessels
-          - href: content/ShipProtocols.qmd
-            text: Ship Protocols
           - href: content/ShipPaperwork.qmd
             text: Ship Paperwork and Protocols
       - section: content/MonkSealProtocols.qmd

@@ -5,7 +5,9 @@ title: Past Media
 ## NOAA Stories
 
 #### Field Camps:
+-   2025- [Papahānaumokuākea National Marine Sanctuary](https://sanctuaries.noaa.gov/papahanaumokuakea/)
 -   2024.11.12- [Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument)
+-   2024.03.02- [NOAA proposes national marine sanctuary in Papahānaumokuākea](https://mauinow.com/2024/03/02/noaa-proposes-national-marine-sanctuary-in-papahanaumokuakea/)
 -   2023.06.16- [$1 Million for Sea Turtle and Hawaiian Monk Seal Conservation in the Pacific Islands](https://www.fisheries.noaa.gov/feature-story/1-million-sea-turtle-and-hawaiian-monk-seal-conservation-pacific-islands)
 -   2023.06.13- [Return to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season](https://www.fisheries.noaa.gov/feature-story/return-lalo-turtle-and-seal-biologists-deploy-papahanaumokuakea-2023-field-season)
 -   2022.10.17- [NOAA Fisheries PIFSC on Twitter](https://x.com/NOAAFish_PIFSC/status/1582079287158767616?s=20&t=ew3uutIXVo2QJi84OYJLzw)
@@ -22,8 +24,13 @@ title: Past Media
 -   2018.11.21- [Assessing the Damage: The First Step After Hurricane Walaka](https://www.papahanaumokuakea.gov/new-news/2018/11/21/ffs-walaka/)
 -   2018.04.15- [Field Notes: Science and Stewardship in the Northwestern Hawaiian Islands](https://www.fisheries.noaa.gov/science-blog/field-notes-science-and-stewardship-northwestern-hawaiian-islands)
 -   2017.09.27- [A Day in the Life of East Island Exiles](https://www.fisheries.noaa.gov/science-blog/day-life-east-island-exiles)
+-   [Dive in with NOAA Fisheries Podcast](https://www.fisheries.noaa.gov/podcast/dive-in-with-noaa-fisheries)
 
 #### Monk Seals:
+-   2025.02.24- [Viewing Marine Wildlife in Hawai'i](https://www.fisheries.noaa.gov/pacific-islands/marine-life-viewing-guidelines/viewing-marine-wildlife-hawaii)
+-   2024.08.29- [Toxoplasmosis and Its Effects on Hawaiʻi Marine Wildlife](https://www.fisheries.noaa.gov/pacific-islands/endangered-species-conservation/toxoplasmosis-and-its-effects-hawaii-marine#more-information)
+-   2024.04.09- [A Cat-Borne Threat to Monk Seals](https://www.fisheries.noaa.gov/resource/outreach-materials/cat-borne-threat-monk-seals)
+-   2024.02.20- [Another Year Of Protecting A Precious Population](https://www.fisheries.noaa.gov/feature-story/another-year-protecting-precious-population)
 -   2023.09.06- [Continuing a Conservation Science Legacy: 40 Years of Monitoring Hawaiian Monk Seals](https://www.fisheries.noaa.gov/feature-story/continuing-conservation-science-legacy-40-years-monitoring-hawaiian-monk-seals)
 -   2022.06.03- [Derelict Fishing Net Movement in the Northwestern Hawaiian Islands](https://www.fisheries.noaa.gov/feature-story/derelict-fishing-net-movement-northwestern-hawaiian-islands)
 -   2021.11.10- [Challenges, Satisfaction, and Lots of Monk Seal Pups During 2021 Field Season](https://www.fisheries.noaa.gov/feature-story/challenges-satisfaction-and-lots-monk-seal-pups-during-2021-field-season)
@@ -44,22 +51,24 @@ title: Past Media
 -   2018.06.11- [Sea Turtle Week 2018](https://www.fisheries.noaa.gov/feature-story/celebrating-sea-turtle-week-2018#:~:text=World%20Sea%20Turtle%20Day%20is,and%20Turtle%20Division%20(MMTD).)
 -   2017.09.26- [By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi](https://www.fisheries.noaa.gov/feature-story/numbers-annual-migration-green-sea-turtles-hawaii)
 
-
 ## Other Media
 
 #### Field Camps:
--   [Papahānaumokuākea Marine National Monument Flickr Album](https://www.flickr.com/photos/papahanaumokuakea/albums/)
--   2022.12.06- [Monitoring Recovery of Palmyra Atoll’s Lagoons](https://storymaps.arcgis.com/stories/b6bf3843c8dc4f57b5d5d8deafd1818d)
--   [Fantastic Field Camps: Seals, Turtles, & Talk Story](https://conservationcompass.org/career-resources/fantastic-field-camps-seals-turtles-and-talk-story/)
--   [East Island Exiles: Our summer on a sea turtle sandbar](https://www.facebook.com/EastIslandExiles/?locale=hi_IN&_rdr)
+-   2024.06.01- [Tern Island Blog](https://filmwasters.com/forum/index.php?topic=10657.0)
 -   2021.12.06- [Editorial: More protection for Papahanaumokuakea](https://drive.google.com/file/d/1JNQC5VoSlym88uaz7VYP7S-dQ1vxEZpM/view?usp=sharing)
 -   2021.11.11- [NOAA scientists return from Northwest Hawaiian Islands](https://www.staradvertiser.com/2021/11/11/photo-gallery/noaa-scientists-return-from-northwest-hawaiian-islands/)
 -   2021.08.18- [Native Hawaiian researchers take a groundbreaking field trip to Papahanaumokuakea](https://www.hawaiinewsnow.com/2021/08/19/native-hawaiian-researchers-take-groundbreaking-field-trip-papahanaumokuakea/)
--   [Researchers head to field sites in Northwestern Hawaiian Islands](https://www.yachtsandyachting.com/news/204076/Science-and-stewardship-in-Northwest-Hawaiian-Island)
+-   2018.04.14- [Researchers head to field sites in Northwestern Hawaiian Islands](https://www.yachtsandyachting.com/news/204076/Science-and-stewardship-in-Northwest-Hawaiian-Island)
+-   2017.12.01- [The Last Wild Place: The Northwestern Hawaiian Islands](https://www.civilbeat.org/projects/the-last-wild-place/)
+-   [Papahānaumokuākea Marine National Monument Flickr Album](https://www.flickr.com/photos/papahanaumokuakea/albums/)
+-   [East Island Exiles: Our summer on a sea turtle sandbar](https://www.facebook.com/EastIslandExiles/?locale=hi_IN&_rdr)
+-   [CIMAR Research Volunteer Page](https://www.soest.hawaii.edu/cimar/pps_field_research/)
 
 #### Monk Seals:
+-   2024.03.14- [Hawaiian Monk Seal Pupping Season](https://www.fisheries.noaa.gov/podcast/hawaiian-monk-seal-pupping-season)
 -   2023.12.14- [Welcome to the extinction capital of the world](https://www.vox.com/down-to-earth/2023/12/14/23990382/extinction-capital-hawaii-endangered-species-act)
 -   2021.11.11- [NOAA biologists report many new monk seal pups at Papahanaumokuakea](https://www.staradvertiser.com/2021/11/11/breaking-news/noaa-biologists-report-many-new-monk-seal-pups-at-papahanaumokuakea-this-year/)
+-   [Pono Cat Parents](https://hawaiivetmed.org/pono-pet-parent/)
 
 #### Marine Turtles:
 -   2023.02.02- [Have you seen a honu recently? NOAA needs your help counting marked sea turtles](https://www.hawaiinewsnow.com/2023/02/03/have-you-seen-honu-recently-noaa-needs-your-help-counting-marked-sea-turtles/)
@@ -70,5 +79,9 @@ title: Past Media
 -   2020.01.30- [Board Talk: Turtle Nesting, Post-Walaka](https://www.environment-hawaii.org/?p=12183)
 
 #### Hurricane Walaka:
--   [Five Things You Should Know About the Island That Disappeared](https://www.youtube.com/watch?v=kvdpBcQJ6_0)
+-   2024.11.14- [This Remote Hawaiian Island Had Vanished. Here’s Why Its Comeback Is Crucial](https://www.civilbeat.org/?p=1680029&utm_source=Civil+Beat+Master+List&utm_campaign=8627cfb0e5-EMAIL_CAMPAIGN_2024_11_05_01_52_COPY_01&utm_medium=email&utm_term=0_-4a7e232a85-402528759&mc_cid=8627cfb0e5&mc_eid=616a1ac334)
 -   2021- [From Loss to Recovery to Resilience](https://seagrant.soest.hawaii.edu/from-loss-to-recovery-to-resilience/)
+-   2018.11.28- [Five Things You Should Know About the Island That Disappeared](https://www.youtube.com/watch?v=kvdpBcQJ6_0)
+-   2018.11.26- [Memorial For A 2,171-Year-Old Island](https://www.civilbeat.org/2018/11/chip-fletcher-memorial-for-a-2171-year-old-island/)
+-   2018.10.24- [The Story](https://www.civilbeat.org/2018/10/the-story/)
+-   2018.10.23- [This Remote Hawaiian Island Just Vanished](https://www.civilbeat.org/2018/10/this-remote-hawaiian-island-just-vanished/)

@@ -2,7 +2,7 @@
 title: Onboarding
 ---
 
-![](images/Green_sea_turtle.jpg){fig-align="center, height=300}
+![](images/Green_sea_turtle.jpg){fig-align="center, width=700}
 
 Contains new hire paperwork for NOAA and RCUH, local tips, and acronyms.
 
