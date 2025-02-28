@@ -5,7 +5,6 @@ title: Past Media
 ## NOAA Stories
 
 #### Field Camps:
--   2025- [Papahānaumokuākea National Marine Sanctuary](https://sanctuaries.noaa.gov/papahanaumokuakea/){.external target="_blank"}
 -   2024.11.27- [Hawai‘i Coral Reef Assessments Complete for 2024](https://www.fisheries.noaa.gov/feature-story/hawaii-coral-reef-assessments-complete-2024){.external target="_blank"}
 -   2024.11.13- [2024 Research for Pacific Protected Species](https://www.fisheries.noaa.gov/feature-story/2024-research-pacific-protected-species){.external target="_blank"}
 -   2024.11.12- [Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument){.external target="_blank"}
