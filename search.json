@@ -193,6 +193,17 @@
     ]
   },
   {
+    "objectID": "content/WorksiteTraining.html#helpful-links",
+    "href": "content/WorksiteTraining.html#helpful-links",
+    "title": "Worksite Training",
+    "section": "Helpful Links",
+    "text": "Helpful Links\n\nIRC Labs and Building 130\nJIRA: IT Help Requests\nMARFAC SOP\nPIFSC Intranet- must be on ethernet or VPN",
+    "crumbs": [
+      "Training",
+      "Worksite Training"
+    ]
+  },
+  {
     "objectID": "content/WFATraining.html",
     "href": "content/WFATraining.html",
     "title": "Wilderness First Aid Training",
@@ -230,7 +241,7 @@
     "href": "content/OnboardingPaperwork.html#rcuhcimar",
     "title": "Onboarding Paperwork",
     "section": "RCUH/CIMAR",
-    "text": "RCUH/CIMAR\n\nRCUH New Hire Reference Guide for Regular Hires\nNew Hire Project Orientation Checklist\nInstructions- UH Email & ID Number\nHawaii State Ethics Information\neTimesheet User Guide\nInstructions for form I-9\nNBS FSA Overview\nTIAA Retirement Information\nCIMAR Employee Timesheet Payday Schedule 2025",
+    "text": "RCUH/CIMAR\n\nRCUH New Hire Reference Guide for Regular Hires\nNew Hire Project Orientation Checklist\nInstructions- UH Email & ID Number\nHawaii State Ethics Information\neTimesheet User Guide\nInstructions for form I-9\nNBS FSA Overview\nTIAA Retirement Information\nCIMAR Employee Timesheet Payday Schedule 2025\nRCUH Human Resources & Employee Self-Service",
     "crumbs": [
       "Onboarding",
       "Onboarding Paperwork"
@@ -697,7 +708,7 @@
     "href": "content/EnteringtheMonument.html#sub-pages",
     "title": "Entering the Monument",
     "section": "Sub-Pages",
-    "text": "Sub-Pages\n\nBiosecurity and Packing\nPermits and BMPs\nCultural Briefing and Resources\nInternet & Media\nEntering the Monument",
+    "text": "Sub-Pages\n\nBiosecurity and Packing\nPermits and BMPs\nCultural Briefing and Resources\nInternet & Media\nEntering the Monument\nPartners",
     "crumbs": [
       "Entering the Monument"
     ]
@@ -973,7 +984,18 @@
     "href": "content/About_the_IRC.html#ford-island-history",
     "title": "About the Inouye Regional Center",
     "section": "Ford Island History",
-    "text": "Ford Island History\nFord Island history and Interpretive Trail",
+    "text": "Ford Island History\n\nFord Island history and Interpretive Trail\nFord Island Bus Tour",
+    "crumbs": [
+      "Orientation",
+      "About the IRC"
+    ]
+  },
+  {
+    "objectID": "content/About_the_IRC.html#helpful-links",
+    "href": "content/About_the_IRC.html#helpful-links",
+    "title": "About the Inouye Regional Center",
+    "section": "Helpful Links",
+    "text": "Helpful Links\n\nHALEA Store\nFord Island Bistro\nIRC Long-Term Parking Request (To leave car at work while deployed)",
     "crumbs": [
       "Orientation",
       "About the IRC"
@@ -1242,7 +1264,7 @@
     "href": "content/Boating.html",
     "title": "Boating",
     "section": "",
-    "text": "Hawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats",
+    "text": "Hawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats\nNOAA Nav Charts",
     "crumbs": [
       "Training",
       "Boating"
@@ -1253,7 +1275,7 @@
     "href": "content/Boating.html#training",
     "title": "Boating",
     "section": "",
-    "text": "Hawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats",
+    "text": "Hawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats\nNOAA Nav Charts",
     "crumbs": [
       "Training",
       "Boating"
@@ -1370,7 +1392,7 @@
     "href": "content/ShipPaperwork.html",
     "title": "Ship Paperwork and Protocols",
     "section": "",
-    "text": "Cruises/Cruise Schedule",
+    "text": "Cruises/Cruise Schedule\nKiteworks",
     "crumbs": [
       "Ships",
       "Ship Paperwork and Protocols"
@@ -1392,7 +1414,7 @@
     "href": "content/MeettheTeam.html#protected-species-division",
     "title": "Meet the Team",
     "section": "Protected Species Division:",
-    "text": "Protected Species Division:\nErin Oleson, PhD Supervisory Research Ecologist\n\nMarine Turtle Biology and Assessment Program:\nSummer L. Martin, PhD Supervisory Research Biologist\n\n\nHawaiian Monk Seal Research Program:\nMichelle Barbieri, DVM, MS Supervisory Veterinary Medical Officer\n\n\nPSD Services and Support Program:\nJessica Bohlander Supervisory Marine Biologist",
+    "text": "Protected Species Division:\nErin Oleson, PhD Supervisory Research Ecologist\n\nMarine Turtle Biology and Assessment Program:\nSummer L. Martin, PhD Supervisory Research Biologist\n\n\nHawaiian Monk Seal Research Program:\nMichelle Barbieri, DVM, MS Supervisory Veterinary Medical Officer\n\n\nPSD Services and Support Program:\nJessica Bohlander Supervisory Marine Biologist\n\n\n\n\n\nNOAA Staff Directory",
     "crumbs": [
       "Orientation",
       "Meet the Team"
@@ -1469,7 +1491,7 @@
     "href": "content/SpecialStudiesSpecies.html",
     "title": "Special Studies/Species",
     "section": "",
-    "text": "Special Studies Overview\nTrail Cams, FFS, and PHR\nFFS: Entrapment Surveys\nFFS: Shark Bite Swab Kits",
+    "text": "Special Studies Overview\nTrail Cams, FFS, and PHR\nFFS: Entrapment Surveys",
     "crumbs": [
       "Monk Seal Protocols",
       "Special Studies/Species"
@@ -1718,7 +1740,7 @@
     "href": "content/PastMedia.html",
     "title": "Past Media",
     "section": "",
-    "text": "2025- Papahānaumokuākea National Marine Sanctuary\n2024.11.12- Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument\n2024.03.02- NOAA proposes national marine sanctuary in Papahānaumokuākea\n2023.06.16- $1 Million for Sea Turtle and Hawaiian Monk Seal Conservation in the Pacific Islands\n2023.06.13- Return to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season\n2022.10.17- NOAA Fisheries PIFSC on Twitter\n2022.10.13- 2022 Pacific Islands Field Season a Success\n2022.09.15- How to Save an Island From Climate Change\n2022.08.04- NOAA Ship Oscar Elton Sette Departs for Papahānaumokuākea to Bring NOAA’s Remote Field Scientists Home\n2022.05.03- Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2022 Field Season\n2021.11.10- Northwestern Hawaiian Islands Field Camps 2021\n2021.09.23- Northwestern Hawaiian Islands 2021 Marine Debris Mission\n2021.08.24- Scientists return from PMNM with positive reports, discoveries\n2021.09.01- Return to Papahānaumokuākea Field Camps\n2020.11.19- 2020 Northwestern Hawaiian Islands Field Season Highlights: Celebrating Partners\n2019.05.14- Partnering to Protect and Study Monk Seals and Sea Turtles: Northwestern Hawaiian Islands Field Camps 2019\n2018.11.21- Assessing the Damage: The First Step After Hurricane Walaka\n2018.04.15- Field Notes: Science and Stewardship in the Northwestern Hawaiian Islands\n2017.09.27- A Day in the Life of East Island Exiles\nDive in with NOAA Fisheries Podcast\n\n\n\n\n\n2025.02.24- Viewing Marine Wildlife in Hawai’i\n2024.08.29- Toxoplasmosis and Its Effects on Hawaiʻi Marine Wildlife\n2024.04.09- A Cat-Borne Threat to Monk Seals\n2024.02.20- Another Year Of Protecting A Precious Population\n2023.09.06- Continuing a Conservation Science Legacy: 40 Years of Monitoring Hawaiian Monk Seals\n2022.06.03- Derelict Fishing Net Movement in the Northwestern Hawaiian Islands\n2021.11.10- Challenges, Satisfaction, and Lots of Monk Seal Pups During 2021 Field Season\n2019.08.29- There and Back Again: A Turtle Biologist’s Tale\n2017.05.23- The People Aboard NOAA’s ARC: Team French Frigate Shoals\n\n\n\n\n\n2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.04.10- https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest\n2019.06.10- Sea Turtle Week 2019\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi",
+    "text": "2025- Papahānaumokuākea National Marine Sanctuary\n2024.11.27- Hawai‘i Coral Reef Assessments Complete for 2024\n2024.11.13- 2024 Research for Pacific Protected Species\n2024.11.12- Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument\n2024.03.02- NOAA proposes national marine sanctuary in Papahānaumokuākea\n2023.06.16- $1 Million for Sea Turtle and Hawaiian Monk Seal Conservation in the Pacific Islands\n2023.06.13- Return to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season\n2022.10.17- NOAA Fisheries PIFSC on Twitter\n2022.10.13- 2022 Pacific Islands Field Season a Success\n2022.09.15- How to Save an Island From Climate Change\n2022.08.04- NOAA Ship Oscar Elton Sette Departs for Papahānaumokuākea to Bring NOAA’s Remote Field Scientists Home\n2022.05.03- Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2022 Field Season\n2021.11.10- Northwestern Hawaiian Islands Field Camps 2021\n2021.09.23- Northwestern Hawaiian Islands 2021 Marine Debris Mission\n2021.08.24- Scientists return from PMNM with positive reports, discoveries\n2021.09.01- Return to Papahānaumokuākea Field Camps\n2020.11.19- 2020 Northwestern Hawaiian Islands Field Season Highlights: Celebrating Partners\n2019.05.14- Partnering to Protect and Study Monk Seals and Sea Turtles: Northwestern Hawaiian Islands Field Camps 2019\n2018.11.21- Assessing the Damage: The First Step After Hurricane Walaka\n2018.04.15- Field Notes: Science and Stewardship in the Northwestern Hawaiian Islands\n2017.09.27- A Day in the Life of East Island Exiles\nDive in with NOAA Fisheries Podcast\nPIFSC Communications Support Request\n\n\n\n\n\n2025.02.24- Viewing Marine Wildlife in Hawai’i\n2024.08.29- Toxoplasmosis and Its Effects on Hawaiʻi Marine Wildlife\n2024.04.09- A Cat-Borne Threat to Monk Seals\n2024.02.20- Another Year Of Protecting A Precious Population\n2023.09.06- Continuing a Conservation Science Legacy: 40 Years of Monitoring Hawaiian Monk Seals\n2022.06.03- Derelict Fishing Net Movement in the Northwestern Hawaiian Islands\n2021.11.10- Challenges, Satisfaction, and Lots of Monk Seal Pups During 2021 Field Season\n2019.08.29- There and Back Again: A Turtle Biologist’s Tale\n2018.06.18- https://www.fisheries.noaa.gov/video/sea-turtles-future-female\n2017.05.23- The People Aboard NOAA’s ARC: Team French Frigate Shoals\n\n\n\n\n\n2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.04.10- https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest\n2019.06.10- Sea Turtle Week 2019\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi",
     "crumbs": [
       "Other Resources",
       "Past Media"
@@ -1729,7 +1751,7 @@
     "href": "content/PastMedia.html#noaa-stories",
     "title": "Past Media",
     "section": "",
-    "text": "2025- Papahānaumokuākea National Marine Sanctuary\n2024.11.12- Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument\n2024.03.02- NOAA proposes national marine sanctuary in Papahānaumokuākea\n2023.06.16- $1 Million for Sea Turtle and Hawaiian Monk Seal Conservation in the Pacific Islands\n2023.06.13- Return to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season\n2022.10.17- NOAA Fisheries PIFSC on Twitter\n2022.10.13- 2022 Pacific Islands Field Season a Success\n2022.09.15- How to Save an Island From Climate Change\n2022.08.04- NOAA Ship Oscar Elton Sette Departs for Papahānaumokuākea to Bring NOAA’s Remote Field Scientists Home\n2022.05.03- Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2022 Field Season\n2021.11.10- Northwestern Hawaiian Islands Field Camps 2021\n2021.09.23- Northwestern Hawaiian Islands 2021 Marine Debris Mission\n2021.08.24- Scientists return from PMNM with positive reports, discoveries\n2021.09.01- Return to Papahānaumokuākea Field Camps\n2020.11.19- 2020 Northwestern Hawaiian Islands Field Season Highlights: Celebrating Partners\n2019.05.14- Partnering to Protect and Study Monk Seals and Sea Turtles: Northwestern Hawaiian Islands Field Camps 2019\n2018.11.21- Assessing the Damage: The First Step After Hurricane Walaka\n2018.04.15- Field Notes: Science and Stewardship in the Northwestern Hawaiian Islands\n2017.09.27- A Day in the Life of East Island Exiles\nDive in with NOAA Fisheries Podcast\n\n\n\n\n\n2025.02.24- Viewing Marine Wildlife in Hawai’i\n2024.08.29- Toxoplasmosis and Its Effects on Hawaiʻi Marine Wildlife\n2024.04.09- A Cat-Borne Threat to Monk Seals\n2024.02.20- Another Year Of Protecting A Precious Population\n2023.09.06- Continuing a Conservation Science Legacy: 40 Years of Monitoring Hawaiian Monk Seals\n2022.06.03- Derelict Fishing Net Movement in the Northwestern Hawaiian Islands\n2021.11.10- Challenges, Satisfaction, and Lots of Monk Seal Pups During 2021 Field Season\n2019.08.29- There and Back Again: A Turtle Biologist’s Tale\n2017.05.23- The People Aboard NOAA’s ARC: Team French Frigate Shoals\n\n\n\n\n\n2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.04.10- https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest\n2019.06.10- Sea Turtle Week 2019\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi",
+    "text": "2025- Papahānaumokuākea National Marine Sanctuary\n2024.11.27- Hawai‘i Coral Reef Assessments Complete for 2024\n2024.11.13- 2024 Research for Pacific Protected Species\n2024.11.12- Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument\n2024.03.02- NOAA proposes national marine sanctuary in Papahānaumokuākea\n2023.06.16- $1 Million for Sea Turtle and Hawaiian Monk Seal Conservation in the Pacific Islands\n2023.06.13- Return to Lalo: Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2023 Field Season\n2022.10.17- NOAA Fisheries PIFSC on Twitter\n2022.10.13- 2022 Pacific Islands Field Season a Success\n2022.09.15- How to Save an Island From Climate Change\n2022.08.04- NOAA Ship Oscar Elton Sette Departs for Papahānaumokuākea to Bring NOAA’s Remote Field Scientists Home\n2022.05.03- Turtle and Seal Biologists Deploy to Papahānaumokuākea for the 2022 Field Season\n2021.11.10- Northwestern Hawaiian Islands Field Camps 2021\n2021.09.23- Northwestern Hawaiian Islands 2021 Marine Debris Mission\n2021.08.24- Scientists return from PMNM with positive reports, discoveries\n2021.09.01- Return to Papahānaumokuākea Field Camps\n2020.11.19- 2020 Northwestern Hawaiian Islands Field Season Highlights: Celebrating Partners\n2019.05.14- Partnering to Protect and Study Monk Seals and Sea Turtles: Northwestern Hawaiian Islands Field Camps 2019\n2018.11.21- Assessing the Damage: The First Step After Hurricane Walaka\n2018.04.15- Field Notes: Science and Stewardship in the Northwestern Hawaiian Islands\n2017.09.27- A Day in the Life of East Island Exiles\nDive in with NOAA Fisheries Podcast\nPIFSC Communications Support Request\n\n\n\n\n\n2025.02.24- Viewing Marine Wildlife in Hawai’i\n2024.08.29- Toxoplasmosis and Its Effects on Hawaiʻi Marine Wildlife\n2024.04.09- A Cat-Borne Threat to Monk Seals\n2024.02.20- Another Year Of Protecting A Precious Population\n2023.09.06- Continuing a Conservation Science Legacy: 40 Years of Monitoring Hawaiian Monk Seals\n2022.06.03- Derelict Fishing Net Movement in the Northwestern Hawaiian Islands\n2021.11.10- Challenges, Satisfaction, and Lots of Monk Seal Pups During 2021 Field Season\n2019.08.29- There and Back Again: A Turtle Biologist’s Tale\n2018.06.18- https://www.fisheries.noaa.gov/video/sea-turtles-future-female\n2017.05.23- The People Aboard NOAA’s ARC: Team French Frigate Shoals\n\n\n\n\n\n2024.06.17Sea Turtle Week 2024\n2024.02.14- Sea Turtle Research in the Pacific\n2022.06.12- Sea Turtle Week 2022\n2022.06.02- Hawaiʻi Sea Turtles Are Amazing—from Afar\n2021.08.12- Turtles, Tourism, and Traffic—Keeping Hawaiʻi Honu Safe\n2021.06.16- Sea Turtle Week 2021\n2020.07.20- Hawksbill Sea Turtles Are Truly Hawai’i Locals\n2020.06.10- Sea Turtle Week 2020\n2020.04.10- https://www.fisheries.noaa.gov/story-map/saving-endangered-turtle-population-one-programs-quest\n2019.06.10- Sea Turtle Week 2019\n2018.06.11- Sea Turtle Week 2018\n2017.09.26- By the Numbers: The Annual Migration of Green Sea Turtles in Hawaiʻi",
     "crumbs": [
       "Other Resources",
       "Past Media"
@@ -1740,7 +1762,7 @@
     "href": "content/PastMedia.html#other-media",
     "title": "Past Media",
     "section": "Other Media",
-    "text": "Other Media\n\nField Camps:\n\n2024.06.01- Tern Island Blog\n2021.12.06- Editorial: More protection for Papahanaumokuakea\n2021.11.11- NOAA scientists return from Northwest Hawaiian Islands\n2021.08.18- Native Hawaiian researchers take a groundbreaking field trip to Papahanaumokuakea\n2018.04.14- Researchers head to field sites in Northwestern Hawaiian Islands\n2017.12.01- The Last Wild Place: The Northwestern Hawaiian Islands\nPapahānaumokuākea Marine National Monument Flickr Album\nEast Island Exiles: Our summer on a sea turtle sandbar\nCIMAR Research Volunteer Page\n\n\n\nMonk Seals:\n\n2024.03.14- Hawaiian Monk Seal Pupping Season\n2023.12.14- Welcome to the extinction capital of the world\n2021.11.11- NOAA biologists report many new monk seal pups at Papahanaumokuakea\nPono Cat Parents\n\n\n\nMarine Turtles:\n\n2023.02.02- Have you seen a honu recently? NOAA needs your help counting marked sea turtles\n2022.09.26- Green Sea Turtle: Endangered Animals Spotlight\n2022.09.24- Honu release, year of the limu celebration at Sea Life Park\n2022.05- Hope for Honu: Green Sea Turtles on the Road to Recovery\n2021- Turtle Independence Day\n2020.01.30- Board Talk: Turtle Nesting, Post-Walaka\n\n\n\nHurricane Walaka:\n\n2024.11.14- This Remote Hawaiian Island Had Vanished. Here’s Why Its Comeback Is Crucial\n2021- From Loss to Recovery to Resilience\n2018.11.28- Five Things You Should Know About the Island That Disappeared\n2018.11.26- Memorial For A 2,171-Year-Old Island\n2018.10.24- The Story\n2018.10.23- This Remote Hawaiian Island Just Vanished",
+    "text": "Other Media\n\nField Camps:\n\n2024.12.18- Messages in bottles: Trash or treasure? NOAA weighs in\n2024.06.01- Tern Island Blog\n2021.12.06- Editorial: More protection for Papahanaumokuakea\n2021.11.11- NOAA scientists return from Northwest Hawaiian Islands\n2021.08.18- Native Hawaiian researchers take a groundbreaking field trip to Papahanaumokuakea\n2018.04.14- Researchers head to field sites in Northwestern Hawaiian Islands\n2017.12.01- The Last Wild Place: The Northwestern Hawaiian Islands\nPapahānaumokuākea Marine National Monument Flickr Album\nEast Island Exiles: Our summer on a sea turtle sandbar\nCIMAR Research Volunteer Page\nCIMAR Annual Reports\n\n\n\nMonk Seals:\n\n2024.03.14- Hawaiian Monk Seal Pupping Season\n2023.12.14- Welcome to the extinction capital of the world\n2021.11.11- NOAA biologists report many new monk seal pups at Papahanaumokuakea\nPono Cat Parents\n\n\n\nMarine Turtles:\n\n2024.12.12- If you see a honu with a number, this is what you need to do\n2023.02.02- Have you seen a honu recently? NOAA needs your help counting marked sea turtles\n2022.09.26- Green Sea Turtle: Endangered Animals Spotlight\n2022.09.24- Honu release, year of the limu celebration at Sea Life Park\n2022.05- Hope for Honu: Green Sea Turtles on the Road to Recovery\n2021- Turtle Independence Day\n2020.01.30- Board Talk: Turtle Nesting, Post-Walaka\nImpacts of Nesting Habitat Loss to Reproductively Active Green Sea Turtles, East Island, NWHI, 2019-2023\n\n\n\nHurricane Walaka:\n\n2024.11.14- This Remote Hawaiian Island Had Vanished. Here’s Why Its Comeback Is Crucial\n2021- From Loss to Recovery to Resilience\n2018.11.28- Five Things You Should Know About the Island That Disappeared\n2018.11.26- Memorial For A 2,171-Year-Old Island\n2018.10.24- The Story\n2018.10.23- This Remote Hawaiian Island Just Vanished\nHow will our kūpuna islands respond to climate change? A look at past, present, and future sea level change and storms within Papahānaumokuākea",
     "crumbs": [
       "Other Resources",
       "Past Media"
