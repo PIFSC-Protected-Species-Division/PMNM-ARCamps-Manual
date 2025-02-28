@@ -14,3 +14,4 @@ Contains pre-deployment guidelines to protect biosecurity, ensure adherence to b
 -   [Cultural Briefing and Resources](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/CulturalBriefing.html)
 -   [Internet & Media](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/CommunicationMedia.html)
 -   [Entering the Monument](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Partners.html)
+-   [Partners](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Partners.html)

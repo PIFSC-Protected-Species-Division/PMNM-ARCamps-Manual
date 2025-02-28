@@ -9,3 +9,4 @@ title: Boating
 -   NOAA Component
 -   Open Water Module (OWM)
 -   PQS on camp boats
+-   [NOAA Nav Charts](https://www.nauticalcharts.noaa.gov/charts/noaa-enc.html){.external target="_blank"}

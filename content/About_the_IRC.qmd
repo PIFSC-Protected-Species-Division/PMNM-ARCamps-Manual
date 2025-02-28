@@ -21,7 +21,13 @@ format: html
 
 <iframe src="https://www.youtube.com/embed/oINP4x5Ipy0" allowfullscreen frameborder=0 width="780" height="520"></iframe>
 
-
 ## Ford Island History
+-   [Ford Island history and Interpretive Trail](https://historichawaii.org/2020/05/21/fordislandhistoricaltrail/){.external target="_blank"}
+-   [Ford Island Bus Tour](https://www.nps.gov/perl/ford-island-bus-tour.htm){.external target="_blank"}
 
-[Ford Island history and Interpretive Trail](https://historichawaii.org/2020/05/21/fordislandhistoricaltrail/){.external target="_blank"}
+## Helpful Links
+
+-   [HALEA Store](https://halea.storenvy.com/){.external target="_blank"}
+-   [Ford Island Bistro](https://www.fordislandbistro.com/){.external target="_blank"}
+-   [IRC Long-Term Parking Request (To leave car at work while deployed)](https://docs.google.com/spreadsheets/d/1Mrh60KE4NYzYzspWgjw_k1Ubt1GuWm3-t-sVwYOMXoc/edit?gid=798184735#gid=798184735){.external target="_blank"}
+

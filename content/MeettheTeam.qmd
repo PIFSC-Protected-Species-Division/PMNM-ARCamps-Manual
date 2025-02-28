@@ -16,4 +16,6 @@ title: Meet the Team
 ### PSD Services and Support Program:
 [Jessica Bohlander](https://www.fisheries.noaa.gov/contact/jessica-bohlander){.external target="_blank"} *Supervisory Marine Biologist*
 
+![](images/PSD_Poster.png){fig-align="center}
 
+[NOAA Staff Directory](https://nsd.rdc.noaa.gov/){.external target="_blank"}

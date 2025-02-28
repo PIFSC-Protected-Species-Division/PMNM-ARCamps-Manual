@@ -35,3 +35,10 @@ A signed user agreement on file with the Lab Manager is required to become an au
 
 1.  Review [PIFSC Safety Orientation for New Staff](https://docs.google.com/document/d/1ii6HU5gPcJ7-Hy1G6e2WI7xDfkFhfCGIDjrpacj6O1w/edit?usp=sharing){.external target="_blank"}
 2.  Complete the [quiz](https://docs.google.com/forms/d/e/1FAIpQLSffRmUCu7JO2c60m8_L5gO8AcIV4bPNohGO9DxytEmmOM8IiA/viewform?c=0&w=1){.external target="_blank"}.
+
+## Helpful Links
+
+-   [IRC Labs and Building 130](https://sites.google.com/noaa.gov/pifsc-labs){.external target="_blank"}
+-   [JIRA: IT Help Requests](https://apps-st.fisheries.noaa.gov/jirasm/servicedesk/customer/portal/4/user/login?destination=portal%2F4){.external target="_blank"}
+-   [MARFAC SOP](https://docs.google.com/document/d/1pdmb4r6L-SWFT0VO6FskY2gjH7Fc4F4CHoV-S3OlEOQ/edit){.external target="_blank"}
+-   [PIFSC Intranet- must be on ethernet or VPN](https://sites.google.com/noaa.gov/pifsc-intranet/home){.external target="_blank"}

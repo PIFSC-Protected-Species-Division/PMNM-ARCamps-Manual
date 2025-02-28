@@ -8,5 +8,3 @@ format: html
 -   [Trail Cams, FFS, and PHR](https://docs.google.com/document/d/1YVgjg3bKP2eaWao40FhwaE1JxwueOasDGxoHRVWygBQ/edit?usp=sharing){.external target="_blank"}
 
 -   [FFS: Entrapment Surveys](https://docs.google.com/document/d/1o0uvojGZ0D5Xjdr8bRvXPnm4n94zeLkx_Cfocbz8EMI/edit?usp=sharing){.external target="_blank"}
-
--   [FFS: Shark Bite Swab Kits](https://docs.google.com/document/d/1jZEmDwQEN4Y6mnJGXHMo2Si_foL04AZbfEAQATKAHB4/edit?usp=sharing){.external target="_blank"}
