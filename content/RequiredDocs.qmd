@@ -1,0 +1,26 @@
+---
+title: "RequiredDocs"
+format: html
+---
+
+
+## Small Boats General
+-   [PSD Small Boat Guidelines for PMNM Field Camps](https://docs.google.com/document/d/1NNs68DoSrELyjusWC1ZVkR8MjxJ9XsHQMeryGB4mAsc/edit?usp=sharing){.external target="_blank"}
+-   [Gar / Float Plans]
+-   [Field PQS Form]
+-   [Start Up / Shut Down Checklists]
+-   [PIFSC VOP Worksheet]
+-   [Mooring Set Up]
+-   [MHI Small Boat Operator Handbook](https://drive.google.com/file/d/1DgNCcmMHE9xOkrIXJXx3rUcFLT-p0nwW/view?usp=drive_link){.external target="_blank"}
+-   [NOAA SBSP Manual v4.2](https://drive.google.com/file/d/1jgDs4ywqKSD_fk4wWVu4S_iZJNfNVMz5/view?usp=sharing){.external target="_blank"}
+-   [ASBES: blank checklist](https://drive.google.com/file/d/1bO7-08xxpMmaOnxUXe4wAqOtHMjbSL7B/view?usp=sharing){.external target="_blank"}
+-   [ASBES Outline: expanded checklist](https://drive.google.com/file/d/1X_s4v9v8ePQGCMslK2hiFjY272SuzLX3/view?usp=sharing){.external target="_blank"}
+-   [Boat Records](https://drive.google.com/drive/folders/1muNBLvxE2ePJzXzY3mYkuwuqvhmDmtqb?usp=drive_link){.external target="_blank"}
+
+
+## Kayaks
+-   [NWHI Kayak Protocols](https://docs.google.com/document/d/1wtiQc4GI6ty-QAmoRidBUTmOI3M0vJewv8oE2USq6-U/edit?usp=sharing){.external target="_blank"}
+-   [NWHI Kayak PQS](https://docs.google.com/document/d/1mbeCMh5m5a2_c5O8Gy7Z01WNTWygVtx7dLI4PKkowFA/edit?usp=sharing){.external target="_blank"}
+
+## Manuals, Repair, Troubleshooting 
+-   [Manuals, Repair, Troubleshooting Folder](https://drive.google.com/drive/folders/1LJqDz1iJRSaoxYTLboCmhufC2xD7qrFt?usp=drive_link){.external target="_blank"}

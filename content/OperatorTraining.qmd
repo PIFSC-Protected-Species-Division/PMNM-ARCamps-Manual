@@ -1,0 +1,15 @@
+---
+title: "OperatorTraining"
+format: html
+---
+
+## Training
+
+-   [Hawaii Boat Safety Course](https://www.boatus.org/hawaii){.external target="_blank"}(8 hours online, email cert to hope.ronco\@noaa.gov and lizabeth.kashinsky\@noaa.gov)
+-   MOCC
+-   NOAA Component
+-   Open Water Module (OWM)
+-   PQS on camp boats
+-   [NOAA Nav Charts](https://www.nauticalcharts.noaa.gov/charts/noaa-enc.html){.external target="_blank"}
+
+[E-Kit Inventory](https://drive.google.com/file/d/174vEo1PIzSpAfXk7DOvUZVW_gR09pVqH/view?usp=drive_link){.external target="_blank"}

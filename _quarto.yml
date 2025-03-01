@@ -109,14 +109,20 @@ website:
             text: Material Safety Data Sheets
           - href: content/SettingUpCamp.qmd
             text: Setting Up Camp
-          - href: content/Boats.qmd
-            text: Boats
       - section: content/Ships.qmd
         contents: 
           - href: content/OurVessels.qmd
             text: Our Vessels
           - href: content/ShipPaperwork.qmd
             text: Ship Paperwork and Protocols
+      - section: content/Boats.qmd
+        contents: 
+          - href: content/OperatorTraining.qmd
+            text: Operator Training
+          - href: content/RequiredDocs.qmd
+            text: Required Documents
+          - href: content/LogsandMaintenance.qmd
+            text: Logs and Maintenance
       - section: content/MonkSealProtocols.qmd
         contents: 
           - href: content/MonkSealOverview.qmd
