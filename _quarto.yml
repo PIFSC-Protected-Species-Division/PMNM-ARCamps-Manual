@@ -89,8 +89,6 @@ website:
             text: Employment Training
           - href: content/WorksiteTraining.qmd
             text: Worksite Training
-          - href: content/Boating.qmd
-            text: Boating
           - href: content/WFATraining.qmd
             text: Wilderness First Aid
           - href: content/SafetyTraining.qmd

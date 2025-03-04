@@ -3,3 +3,22 @@ title: "Library Corner"
 format: html
 ---
 
+## Monument Management
+-   2024- [Lalo (French Frigate Shoals) Resilience Implementation Options Report : Report To The Papahānaumokuākea Marine National Monument Management Board](https://repository.library.noaa.gov/view/noaa/56798)
+-   2023.09- [Mai Ka Pō Mai: applying Indigenous cosmology and worldview to empower and transform a management plan for Papahānaumokuākea Marine National Monument](https://repository.library.noaa.gov/view/noaa/60954)
+-   2018.11.13- [Incorporating Nature and Culture into the Daily Management of Papahānaumokuākea Marine National Monument](https://usicomos.org/wp-content/uploads/2019/11/Clark-_-Miller-2019-US-ICOMOS-Proceedings.pdf)
+-   2014 [Environmental assessment, Papahānaumokuākea Marine National Monument, Northwestern Hawaiian Islands Hawai'i](https://repository.library.noaa.gov/view/noaa/10210/)
+
+## Monk Seals
+-   2023- [Monitoring the diurnal and seasonal foraging of Hawaiian monk seals in mesophotic rubble habitat using seafloor event loggers called ‘electric rocks’](https://repository.library.noaa.gov/view/noaa/58463)
+-   2016- [Preliminary assessment of monk seal-fishery interactions in the Main Hawaiian Islands](https://repository.library.noaa.gov/view/noaa/12968)
+-   2009.03- [Clinical observations of ocular disease in Hawaiian monk seals (Monachus schauinslandi)](https://repository.library.noaa.gov/view/noaa/4171)
+-   2008.01.08- [Shark predation on Hawaiian monk seals workshop, Honolulu, Hawaii, January 8-9, 2008](https://repository.library.noaa.gov/view/noaa/21424)
+
+## Sea Turtles
+-   2019- [Densities and drivers of sea turtle populations across Pacific coral reef ecosystems](https://repository.library.noaa.gov/view/noaa/24908)
+
+##  Project Reports
+-   2023- [Project Report : NOAA Ship Oscar Elton Sette, SE-22-06](https://repository.library.noaa.gov/view/noaa/55664)
+-   2022- [Project Report: NOAA Ship Oscar Elton Sette, SE-21-04](https://repository.library.noaa.gov/view/noaa/47712)
+-   2016- []

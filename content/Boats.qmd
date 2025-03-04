@@ -3,3 +3,7 @@ title: "Boats"
 format: html
 ---
 
+##  Sub-Pages
+-   [Operator Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OperatorTraining.html)
+-   [Required Documents](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/RequiredDocs.html)
+-   [Logs and Maintenance](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/LogsandMaintenance.html)

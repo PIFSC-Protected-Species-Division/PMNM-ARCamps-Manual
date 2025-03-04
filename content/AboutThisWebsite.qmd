@@ -3,3 +3,4 @@ title: "About This Website"
 format: html
 ---
 
+Designed and maintained by PSD as a resource for field staff deploying to the NWHI. Website point of contact: Marylou Staman at marylou.staman@noaa.gov.
