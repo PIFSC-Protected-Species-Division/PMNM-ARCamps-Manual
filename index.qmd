@@ -6,10 +6,6 @@ page-layout: full
 
 ![](content/images/2018_EastPano-light.JPG)
 
-## Welcome to NOAA's ARC!
-
-This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument
-
 ## Top Links
 
 -   [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977) (see also training tab on left)
@@ -18,12 +14,13 @@ This is a training and field manual for protected species field researchers work
 
 ## Who are we?
 
-`A brief` overview to orient `new staff` to the levels of organization
-(NOAA, PIFSC, PSD, HMSRP, MTBAP, PSSP, CIMAR/RCUH, PMNM)
+NOAA's Pacific Islands Fisheries Science Center (PIFSC) works with the Pacific Islands Regional Office to conduct research and monitoring programs that support the domestic and international conservation and management of living marine resources across the Pacific Islands.
 
-See "Acronyms" for more
+Within PIFSC, the Protected Species Division (PSD) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements. PSD is comprised of the Marine Turtle Biology and Assessment Program (MTBAP), Hawaiian Monk Seal Research Program (HMSRP), Cetacean Research Program (CRP), and PSD Services and Support Program (PSSP).
 
-`C:\Users\marylou.staman\Desktop\2025.01 Marylou MOICC`
+The Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.
+
+See [Acronyms](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Acronyms.html) for more.
 
 ## Schedule
 
@@ -35,17 +32,4 @@ See "Acronyms" for more
 
 ## How to use this manual
 
-XYZ instructions
-
-## Example Manuals
-
-Here are other lab manuals to pull inspiration from
-
--   [SWFSC Southwest Acoustic Ecology Lab Manual](https://sael-swfsc.github.io/SAEL-lab-manual/)
--   [Faylab Manual](https://thefaylab.github.io/lab-manual/)
--   [SWFSC Glider Lab Manual](https://swfsc.github.io/glider-lab-manual/)
--   [Adrift Field Methods](https://sael-swfsc.github.io/adrift-field-methods/)
-
-## Example how to link to other pages
-
--   [Lab Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/LabManagement.html)
+Each menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic.

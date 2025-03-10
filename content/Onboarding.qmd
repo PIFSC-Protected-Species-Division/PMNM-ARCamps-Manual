@@ -2,13 +2,13 @@
 title: Onboarding
 ---
 
-![](images/Green_sea_turtle.jpg){fig-align="center, width=700}
+![](images/Green_sea_turtle.jpg){fig-align="center, width=400}
 
 Contains new hire paperwork for NOAA and RCUH, local tips, and acronyms.
 
 ## Sub-Pages
 -   [Onboarding Paperwork](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OnboardingPaperwork.html)
--   [https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/HonoluluTips.html](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/HonoluluTips.html)
+-   [Honolulu Tips](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/HonoluluTips.html)
 -   [Acronyms](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Acronyms.html)
 
 
