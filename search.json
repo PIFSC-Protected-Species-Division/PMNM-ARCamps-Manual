@@ -792,16 +792,6 @@
     ]
   },
   {
-    "objectID": "index.html#welcome-to-noaas-arc",
-    "href": "index.html#welcome-to-noaas-arc",
-    "title": "Welcome",
-    "section": "Welcome to NOAA’s ARC!",
-    "text": "Welcome to NOAA’s ARC!\nThis is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
     "objectID": "index.html#top-links",
     "href": "index.html#top-links",
     "title": "Welcome",
@@ -816,7 +806,7 @@
     "href": "index.html#who-are-we",
     "title": "Welcome",
     "section": "Who are we?",
-    "text": "Who are we?\nA brief overview to orient new staff to the levels of organization (NOAA, PIFSC, PSD, HMSRP, MTBAP, PSSP, CIMAR/RCUH, PMNM)\nSee “Acronyms” for more\nC:\\Users\\marylou.staman\\Desktop\\2025.01 Marylou MOICC",
+    "text": "Who are we?\nNOAA’s Pacific Islands Fisheries Science Center (PIFSC) works with the Pacific Islands Regional Office to conduct research and monitoring programs that support the domestic and international conservation and management of living marine resources across the Pacific Islands.\nWithin PIFSC, the Protected Species Division (PSD) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements. PSD is comprised of the Marine Turtle Biology and Assessment Program (MTBAP), Hawaiian Monk Seal Research Program (HMSRP), Cetacean Research Program (CRP), and PSD Services and Support Program (PSSP).\nThe Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.\nSee Acronyms for more.",
     "crumbs": [
       "Welcome"
     ]
@@ -836,27 +826,7 @@
     "href": "index.html#how-to-use-this-manual",
     "title": "Welcome",
     "section": "How to use this manual",
-    "text": "How to use this manual\nXYZ instructions",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#example-manuals",
-    "href": "index.html#example-manuals",
-    "title": "Welcome",
-    "section": "Example Manuals",
-    "text": "Example Manuals\nHere are other lab manuals to pull inspiration from\n\nSWFSC Southwest Acoustic Ecology Lab Manual\nFaylab Manual\nSWFSC Glider Lab Manual\nAdrift Field Methods",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#example-how-to-link-to-other-pages",
-    "href": "index.html#example-how-to-link-to-other-pages",
-    "title": "Welcome",
-    "section": "Example how to link to other pages",
-    "text": "Example how to link to other pages\n\nLab Management",
+    "text": "How to use this manual\nEach menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic.",
     "crumbs": [
       "Welcome"
     ]
@@ -1913,7 +1883,7 @@
     "href": "content/Onboarding.html#sub-pages",
     "title": "Onboarding",
     "section": "Sub-Pages",
-    "text": "Sub-Pages\n\nOnboarding Paperwork\nhttps://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/HonoluluTips.html\nAcronyms",
+    "text": "Sub-Pages\n\nOnboarding Paperwork\nHonolulu Tips\nAcronyms",
     "crumbs": [
       "Onboarding"
     ]
