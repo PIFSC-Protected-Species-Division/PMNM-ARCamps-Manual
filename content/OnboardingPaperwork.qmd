@@ -2,6 +2,8 @@
 title: Onboarding Paperwork
 ---
 
+Contains information and required paperwork for new hires.
+
 ## NOAA
 -   [2025 Administrative/Orientation Information](https://docs.google.com/document/d/13uRDwDVw_rAtg3rR4IGUthAlL20VHHP2O9BSOheNgFM/edit){.external target="_blank"}
 -   [Hiring Checklist](https://docs.google.com/spreadsheets/d/1c0ytT9lpYq_nSaTrdw0FW_U7tRS94vj_sfW4xp6hkcU/edit?gid=0#gid=0){.external target="_blank"}
@@ -9,6 +11,8 @@ title: Onboarding Paperwork
 -   [PIFSC Values Document](https://drive.google.com/file/d/1yR0ftG3OXy9g64ZuuwZNus9DNlvuIGbw/view?usp=sharing){.external target="_blank"}
 
 ## RCUH/CIMAR
+Consolidated attachments from RCUH new hire email
+
 -   [RCUH New Hire Reference Guide for Regular Hires](https://drive.google.com/file/d/1JU45wljUc92xpV-t2qZ0Dw9IXJLKQNlZ/view?usp=drive_link){.external target="_blank"}
 -   [New Hire Project Orientation Checklist](https://drive.google.com/file/d/18UA8JDiipA4RfK7S3uliWz9jgk1hQvlV/view?usp=drive_link){.external target="_blank"}
 -   [Instructions- UH Email & ID Number](https://drive.google.com/file/d/133VMhmIdR0Aeee_w9jpHCs129TcI-PD5/view?usp=drive_link){.external target="_blank"}
@@ -19,6 +23,9 @@ title: Onboarding Paperwork
 -   [TIAA Retirement Information](https://drive.google.com/file/d/1aMcocytOBGUr7hKLMaFe8JBxnfKivm_x/view?usp=drive_link){.external target="_blank"}
 -   [CIMAR Employee Timesheet Payday Schedule 2025](https://drive.google.com/file/d/1kiLq003bWQJDx6IvEcI16LVAywJfES9y/view?usp=drive_link){.external target="_blank"}
 -   [RCUH Human Resources & Employee Self-Service](https://hr.rcuh.com/psp/hcmprd/EMPLOYEE/EMPL/?cmd=login&languageCd=ENG&){.external target="_blank"}
+
+##  Ships
+See [ship paperwork](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/ShipPaperwork.html).
 
 ## Points of Contact
 
