@@ -2,6 +2,8 @@
 title: Ships
 ---
 
+![](images/ShipPage.jpg){fig-align="center, width=600}
+
 ## Sub-Pages
 -   [Our Vessels](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OurVessels.html)
 -   [Ship Paperwork and Protocols](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/ShipPaperwork.html)

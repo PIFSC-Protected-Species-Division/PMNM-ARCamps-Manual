@@ -3,3 +3,6 @@ title: "Logs and Maintenance"
 format: html
 ---
 
+[Boat Records Folder](https://drive.google.com/drive/folders/1muNBLvxE2ePJzXzY3mYkuwuqvhmDmtqb){.external target="_blank"}
+
+[E-Kit Inventory](https://drive.google.com/file/d/174vEo1PIzSpAfXk7DOvUZVW_gR09pVqH/view?usp=drive_link){.external target="_blank"}
