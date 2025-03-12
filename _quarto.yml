@@ -40,8 +40,8 @@ website:
         target: _blank
         #"target: _blank" makes link pop out to new window
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual Template"
+        href: https://github.com/PIFSC-Protected-Species-Division/PMNM-ARCamps-Manual
+        text: "Github Repository"
 
     style: "docked"
     search: true
