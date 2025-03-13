@@ -630,21 +630,11 @@
     "text": "ADRIFT example"
   },
   {
-    "objectID": "content/Boats.html",
-    "href": "content/Boats.html",
-    "title": "Boats",
-    "section": "",
-    "text": "Operator Training\nRequired Documents\nLogs and Maintenance",
-    "crumbs": [
-      "Boats"
-    ]
-  },
-  {
     "objectID": "content/Boats.html#sub-pages",
     "href": "content/Boats.html#sub-pages",
     "title": "Boats",
-    "section": "",
-    "text": "Operator Training\nRequired Documents\nLogs and Maintenance",
+    "section": "Sub-Pages",
+    "text": "Sub-Pages\n\nOperator Training\nRequired Documents\nLogs and Maintenance",
     "crumbs": [
       "Boats"
     ]
