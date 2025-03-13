@@ -3,6 +3,8 @@ title: "Boats"
 format: html
 ---
 
+![](images/SmallBoat.png){fig-align="center, width=420}
+
 ##  Sub-Pages
 -   [Operator Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OperatorTraining.html)
 -   [Required Documents](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/RequiredDocs.html)
