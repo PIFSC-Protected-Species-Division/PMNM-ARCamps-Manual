@@ -208,7 +208,7 @@
     "href": "content/WFATraining.html",
     "title": "Wilderness First Aid Training",
     "section": "",
-    "text": "The 2025 contractor for Wilderness First Aid training is NOLS. Training will be conducted in-person over 3 days.",
+    "text": "The 2025 contractor for Wilderness First Aid training is NOLS. Training will be conducted in-person over 3 days.\n\nNOLS Wilderness Medicine Handbook\nNOLS Wilderness Medicine Communicable Disease Mitigation Practices and Expectations for Students",
     "crumbs": [
       "Training",
       "Wilderness First Aid"
@@ -724,7 +724,7 @@
     "href": "content/HonoluluTips.html",
     "title": "Honolulu Tips",
     "section": "",
-    "text": "Book flights to Daniel K. Inouye International Airport (HNL). The Bus and rideshare pickups are available outside the airport.",
+    "text": "Book flights to Daniel K. Inouye International Airport (HNL). The Bus and rideshare pickups are available outside the terminals.",
     "crumbs": [
       "Onboarding",
       "Honolulu Tips"
@@ -735,7 +735,7 @@
     "href": "content/HonoluluTips.html#traveling-to-honolulu",
     "title": "Honolulu Tips",
     "section": "",
-    "text": "Book flights to Daniel K. Inouye International Airport (HNL). The Bus and rideshare pickups are available outside the airport.",
+    "text": "Book flights to Daniel K. Inouye International Airport (HNL). The Bus and rideshare pickups are available outside the terminals.",
     "crumbs": [
       "Onboarding",
       "Honolulu Tips"
@@ -757,7 +757,29 @@
     "href": "content/HonoluluTips.html#transportation",
     "title": "Honolulu Tips",
     "section": "Transportation",
-    "text": "Transportation\nThe IRC shuttle provides service from the Ford Island gate and runs from 6-9AM and 3-6PM.\n\n\n\n\n\nThe Bus provides service across Oahu and is the cheapest way to get around the island.\n\nThe Bus routes and timetables\nOahu Bus Iphone App\n\nIf you choose to ship a car from the mainland to Oahu, prices typically range around $1500. Matson and Pasha Hawaii are two companies that provide car shipping services.",
+    "text": "Transportation\nFord Island shuttle service: The shuttle is a white van with a NOAA logo. It runs consistently from 6:00-9:00 a.m. and from 2:30-600 p.m. You can also schedule a ride in between those hours by calling 808-725-6229.\nShuttle tips from Jon - The stops are not obviously marked, but the one I use most is on Kamehameha Hwy heading eastbound. Between bus stop #695 and the right turn onto the Ford Island bridge, there is a yellow fire extinguisher just past where the right turn lane begins.\nIt is recommended that you call the shuttle service number when you arrive at the stop, even if it is during their normal running hours.\n\n\n\n\n\nThe Bus provides service across Oahu and is the cheapest way to get around the island.\n\nThe Bus routes and timetables\nOahu Bus Iphone App\n\nIf you choose to ship a car from the mainland to Oahu, prices typically range around $1500. Matson and Pasha Hawaii are two companies that provide car shipping services.",
+    "crumbs": [
+      "Onboarding",
+      "Honolulu Tips"
+    ]
+  },
+  {
+    "objectID": "content/HonoluluTips.html#kuleana-campaign",
+    "href": "content/HonoluluTips.html#kuleana-campaign",
+    "title": "Honolulu Tips",
+    "section": "Kuleana Campaign",
+    "text": "Kuleana Campaign\nThe Hawaii Tourism Authority (HTA) and Hawaii Visitors and Convention Bureau (HVCB) have created a new video “Kuleana Campaign” to educate visitors about cultural norms and practices unique to the Aloha State. These unwritten rules are important to knowing what it means “Live Aloha” while enjoying a Hawaii vacation.",
+    "crumbs": [
+      "Onboarding",
+      "Honolulu Tips"
+    ]
+  },
+  {
+    "objectID": "content/HonoluluTips.html#ocean-safety",
+    "href": "content/HonoluluTips.html#ocean-safety",
+    "title": "Honolulu Tips",
+    "section": "Ocean Safety",
+    "text": "Ocean Safety\nHawaii beach/ocean safety tips",
     "crumbs": [
       "Onboarding",
       "Honolulu Tips"
@@ -1743,8 +1765,8 @@
     ]
   },
   {
-    "objectID": "content/RequiredDocs.html#small-boats-general",
-    "href": "content/RequiredDocs.html#small-boats-general",
+    "objectID": "content/RequiredDocs.html#small-boats",
+    "href": "content/RequiredDocs.html#small-boats",
     "title": "RequiredDocs",
     "section": "",
     "text": "PSD Field Camp Vessel Operations and Emergency Guidelines\nPSD Boats at Field Camps SBOM\n2024 Gar / Float Plans **Needs Update\nField PQS Form\nWing Startup Checklist\nMHI Small Boat Operator Handbook\nNOAA SBSP Manual v4.2\nASBES: blank checklist\nASBES Outline: expanded checklist\nBoat Records",
@@ -1781,6 +1803,16 @@
     "title": "Resources",
     "section": "",
     "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
+  },
+  {
+    "objectID": "content/Orientation.html",
+    "href": "content/Orientation.html",
+    "title": "Orientation",
+    "section": "",
+    "text": "{fig-align=“center, height=400} 2025 Field Camp Administration Orientation Information\nWork Description and Personal Items",
+    "crumbs": [
+      "Orientation"
+    ]
   },
   {
     "objectID": "content/Orientation.html#sub-pages",
