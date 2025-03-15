@@ -4,7 +4,7 @@ title: Honolulu Tips
 
 
 ## Traveling to Honolulu
-Book flights to  Daniel K. Inouye International Airport (HNL). The Bus and rideshare pickups are available outside the airport.
+Book flights to  Daniel K. Inouye International Airport (HNL). The Bus and rideshare pickups are available outside the terminals.
 
 
 ## Living in Honolulu
@@ -14,7 +14,12 @@ Facebook Marketplace and Craigslist are typically the easiest sources to find sh
 
 ## Transportation
 
-The IRC shuttle provides service from the Ford Island gate and runs from 6-9AM and 3-6PM.
+Ford Island shuttle service: The shuttle is a white van with a NOAA logo. It runs consistently from 6:00-9:00 a.m. and from 2:30-600 p.m. You can also schedule a ride in between those hours by calling 808-725-6229.
+
+Shuttle tips from Jon - The stops are not obviously marked, but the one I use most is on Kamehameha Hwy heading eastbound. Between bus stop #695 and the right turn onto the Ford Island bridge, there is a yellow fire extinguisher just past where the right turn lane begins.
+
+It is recommended that you call the shuttle service number when you arrive at the stop, even if it is during their normal running hours.
+
 
 ![](images/ShuttleMap.png){fig-align="center, width=500}
 
@@ -24,3 +29,9 @@ The Bus provides service across Oahu and is the cheapest way to get around the i
 -   [Oahu Bus Iphone App](https://apps.apple.com/us/app/dabus2-the-oahu-bus-app/id1117179614){.external target="_blank"}
 
 If you choose to ship a car from the mainland to Oahu, prices typically range around $1500. [Matson](https://www.matson.com/ship-your-car-with-matson-2.html?utm_source=google&utm_medium=cpc&utm_campaign=mvnp-peregrine-search&utm_content=pov-shipping&gad_source=1&gclid=CjwKCAjwvr--BhB5EiwAd5YbXnd1ecnY8BBV-aKd0NKJfYNSshvz-ZM18nmB_IBAne9V_ov5kj6-VBoCmzwQAvD_BwE){.external target="_blank"} and [Pasha Hawaii](https://www.pashahawaii.com/quote-car?gad_source=1&gclid=CjwKCAjwvr--BhB5EiwAd5YbXgstnYB0IUtpGaVneMxZFPgn7UlHc0ki-NRikLftIPzNHWZGH1SPmhoCqBYQAvD_BwE) are two companies that provide car shipping services.
+
+## Kuleana Campaign
+The Hawaii Tourism Authority (HTA) and Hawaii Visitors and Convention Bureau (HVCB) have created a new [video “Kuleana Campaign”](https://www.hawaii-aloha.com/blog/learn-to-live-aloha-kuleana-campaign-videos/){.external target="_blank"} to educate visitors about cultural norms and practices unique to the Aloha State. These unwritten rules are important to knowing what it means “Live Aloha” while enjoying a Hawaii vacation.
+
+## Ocean Safety
+[Hawaii beach/ocean safety tips](https://oceansafety.hawaii.gov/){.external target="_blank"}
