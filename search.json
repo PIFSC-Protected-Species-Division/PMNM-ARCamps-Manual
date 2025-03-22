@@ -248,6 +248,17 @@
     ]
   },
   {
+    "objectID": "content/OnboardingPaperwork.html#reimbursement-forms",
+    "href": "content/OnboardingPaperwork.html#reimbursement-forms",
+    "title": "Onboarding Paperwork",
+    "section": "Reimbursement Forms",
+    "text": "Reimbursement Forms\n\n2025 Clothing Reimbursements\nCIMAR Cash Reimbursements",
+    "crumbs": [
+      "Onboarding",
+      "Onboarding Paperwork"
+    ]
+  },
+  {
     "objectID": "content/OnboardingPaperwork.html#ships",
     "href": "content/OnboardingPaperwork.html#ships",
     "title": "Onboarding Paperwork",
@@ -1197,11 +1208,22 @@
     ]
   },
   {
-    "objectID": "content/PermitsBMPs.html#research-permits",
-    "href": "content/PermitsBMPs.html#research-permits",
+    "objectID": "content/PermitsBMPs.html#seal-research-permits",
+    "href": "content/PermitsBMPs.html#seal-research-permits",
     "title": "Permits & BMPs",
     "section": "",
     "text": "HMS Research Permit 22677\nHMS Research Permit 22677 Extension\nHMS Research Permit 22677 Take Tables\nHMS Research Permit Application",
+    "crumbs": [
+      "Entering the Monument",
+      "Permits & BMPs"
+    ]
+  },
+  {
+    "objectID": "content/PermitsBMPs.html#turtle-research-permits",
+    "href": "content/PermitsBMPs.html#turtle-research-permits",
+    "title": "Permits & BMPs",
+    "section": "Turtle Research Permits",
+    "text": "Turtle Research Permits\n\nNMFS In-Water Permit 21260\nUSFWS Permit TE-72088A-3\nDAR SAP 2026-01 (not finalized)",
     "crumbs": [
       "Entering the Monument",
       "Permits & BMPs"
