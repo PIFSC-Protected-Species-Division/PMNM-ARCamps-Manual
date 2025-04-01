@@ -69,6 +69,8 @@ website:
             text: Meet the Team
           - href: content/LandAcknowledgements.qmd
             text: Land Acknowledgements
+          - href: content/IThelp.qmd
+            text: IT Help
       - section: content/EnteringtheMonument.qmd
         text: "Entering the Monument"
         contents: 
