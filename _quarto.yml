@@ -157,6 +157,8 @@ website:
             text: Library Corner
           - href: content/AboutThisWebsite.qmd
             text: About This Website
+          - href: content/Tshirts.qmd
+            text: T-shirts
 
         
 format:
