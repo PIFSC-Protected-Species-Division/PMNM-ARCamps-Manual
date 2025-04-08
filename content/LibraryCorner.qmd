@@ -17,7 +17,14 @@ format: html
 -   2008.01.08- [Shark predation on Hawaiian monk seals workshop, Honolulu, Hawaii, January 8-9, 2008](https://repository.library.noaa.gov/view/noaa/21424){.external target="_blank"}
 
 ## Sea Turtles
+-   2025- [Marine debris impacts on Hawaiian green sea turtles (Chelonia mydas): High prevalence of hook-and-line fishing gear in strandings](https://www.sciencedirect.com/science/article/pii/S0025326X25003443){.external target="_blank"}
+-   2024  [Abundance, production, and migrations of nesting green turtles at Rose Atoll, American Samoa, a regionally important rookery in the Central South Pacific Ocean](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1403240/full){.external target="_blank"}
+-   2024- [Sex ratios of olive ridley sea turtles in the North Pacific high seas: implications for climate change research](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.int-res.com/articles/meps_oa/m748p149.pdf){.external target="_blank"}
+-   2023- [Population structure of Pacific green turtles: a new perspective from microsatellite DNA variation](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1116941/full){.external target="_blank"}
+-   2020- [Hawaiian hawksbills: a distinct and isolated nesting colony in the Central North Pacific Ocean revealed by mitochondrial DNA](https://link.springer.com/article/10.1007/s10592-020-01287-1){.external target="_blank"}
+-   2020- [Sea turtle tagging in the Mariana Islands Training and Testing (MITT) study area](https://repository.library.noaa.gov/view/noaa/23886){.external target="_blank"}
 -   2019- [Densities and drivers of sea turtle populations across Pacific coral reef ecosystems](https://repository.library.noaa.gov/view/noaa/24908){.external target="_blank"}
+-   2018- [Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World](https://www.cell.com/current-biology/fulltext/S0960-9822(17)31539-7?inline-read-more=){.external target="_blank"}
 
 ##  Project Reports
 -   2023- [Project Report : NOAA Ship Oscar Elton Sette, SE-22-06](https://repository.library.noaa.gov/view/noaa/55664){.external target="_blank"}
