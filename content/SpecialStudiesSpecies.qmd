@@ -9,4 +9,4 @@ format: html
 
 -   [FFS: Entrapment Surveys](https://docs.google.com/document/d/1o0uvojGZ0D5Xjdr8bRvXPnm4n94zeLkx_Cfocbz8EMI/edit?usp=sharing){.external target="_blank"}
 
--   [PMNM Avian Influenza Guidance](https://docs.google.com/document/d/1C0krtPpufP6KX--c5-xhtopi81wGLJpaJ5mMfgyuPag/edit?usp=drive_link){.external target="_blank"}
+-   [PMNM Avian Influence Guidance](https://docs.google.com/document/d/1C0krtPpufP6KX--c5-xhtopi81wGLJpaJ5mMfgyuPag/edit?usp=drive_link){.external target="_blank"}
