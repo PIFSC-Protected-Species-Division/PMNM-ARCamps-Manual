@@ -3,6 +3,6 @@ title: "Overview"
 format: html
 ---
 
--   [Scientific Objectives](https://docs.google.com/document/d/1XpXBhXfYftiAGn0ggQ4B7xPdO8QSCIR5/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+-   [Scientific Objectives](https://docs.google.com/document/d/1CRnuyJY_wsW4c0WAmcxwFsRtTeL-O_v1wl7EzHGKuO0/edit?usp=sharing){.external target="_blank"}
 
 -   [Field Data Collection and Editing](https://docs.google.com/document/d/1J9erAZvJZK3SEP5PrhrG2f7l5oaTboSsLX21zUUZJ9g/edit?usp=sharing){.external target="_blank"}
