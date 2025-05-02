@@ -20,7 +20,6 @@ Within PIFSC, the Protected Species Division (PSD) provides the scientific found
 
 The Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.
 
-See [Acronyms](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/Acronyms.html) for more.
 
 ## Schedule
 
