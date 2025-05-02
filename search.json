@@ -14,7 +14,7 @@
     "href": "index.html#who-are-we",
     "title": "Welcome",
     "section": "Who are we?",
-    "text": "Who are we?\nNOAA’s Pacific Islands Fisheries Science Center (PIFSC) works with the Pacific Islands Regional Office to conduct research and monitoring programs that support the domestic and international conservation and management of living marine resources across the Pacific Islands.\nWithin PIFSC, the Protected Species Division (PSD) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements. PSD is comprised of the Marine Turtle Biology and Assessment Program (MTBAP), Hawaiian Monk Seal Research Program (HMSRP), Cetacean Research Program (CRP), and PSD Services and Support Program (PSSP).\nThe Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.\nSee Acronyms for more.",
+    "text": "Who are we?\nNOAA’s Pacific Islands Fisheries Science Center (PIFSC) works with the Pacific Islands Regional Office to conduct research and monitoring programs that support the domestic and international conservation and management of living marine resources across the Pacific Islands.\nWithin PIFSC, the Protected Species Division (PSD) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements. PSD is comprised of the Marine Turtle Biology and Assessment Program (MTBAP), Hawaiian Monk Seal Research Program (HMSRP), Cetacean Research Program (CRP), and PSD Services and Support Program (PSSP).\nThe Cooperative Institute for Marine and Atmospheric Research (CIMAR), funded by the Research Corporation of the University of Hawaii (RCUH), promotes the delivery of cutting-edge research to support NOAA’s missions and programs. CIMAR serves as a bridge between the basic and applied research capabilities of the University of Hawaiʻi (UH) and the mission-oriented research of NOAA.",
     "crumbs": [
       "Welcome"
     ]
@@ -398,7 +398,7 @@
     "href": "content/OurVessels.html",
     "title": "Our Vessels",
     "section": "",
-    "text": "NOAA Ship Oscar Elton Sette as built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.",
+    "text": "NOAA Ship Oscar Elton Sette was built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.",
     "crumbs": [
       "Ships",
       "Our Vessels"
@@ -409,7 +409,7 @@
     "href": "content/OurVessels.html#noaa-white-ships",
     "title": "Our Vessels",
     "section": "",
-    "text": "NOAA Ship Oscar Elton Sette as built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.",
+    "text": "NOAA Ship Oscar Elton Sette was built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.",
     "crumbs": [
       "Ships",
       "Our Vessels"
@@ -420,7 +420,7 @@
     "href": "content/OurVessels.html#charter-vessels",
     "title": "Our Vessels",
     "section": "Charter Vessels",
-    "text": "Charter Vessels",
+    "text": "Charter Vessels\nPSD has worked with P&R Water Taxi to charter offshore supply vessels to transport teams to and from field camps. Currently, the Imua is the only charter vessel in service.",
     "crumbs": [
       "Ships",
       "Our Vessels"
@@ -483,6 +483,16 @@
     "title": "Analysis Methods",
     "section": "",
     "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example"
+  },
+  {
+    "objectID": "content/Boats.html",
+    "href": "content/Boats.html",
+    "title": "Boats",
+    "section": "",
+    "text": "{fig-align=“center, width=420} See PSD Small Boat Page for more info.",
+    "crumbs": [
+      "Boats"
+    ]
   },
   {
     "objectID": "content/Boats.html#sub-pages",
@@ -909,6 +919,16 @@
     "crumbs": [
       "Monk Seal Protocols",
       "Population Assessment"
+    ]
+  },
+  {
+    "objectID": "content/MarineTurtleProtocols.html",
+    "href": "content/MarineTurtleProtocols.html",
+    "title": "Marine Turtle Protocols",
+    "section": "",
+    "text": "See MTBAP Landing Page",
+    "crumbs": [
+      "Marine Turtle Protocols"
     ]
   },
   {
