@@ -6,6 +6,7 @@ title: Our Vessels
 
 ![](images/Sette.jpg){fig-align="center, width=300, height=200}
 
-NOAA Ship [Oscar Elton Sette](https://www.omao.noaa.gov/marine-operations/ships/oscar-elton-sette){.external target="_blank"} as built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.
+NOAA Ship [Oscar Elton Sette](https://www.omao.noaa.gov/marine-operations/ships/oscar-elton-sette){.external target="_blank"} was built by VT Halter Marine, Inc. in Moss Point, Mississippi. The ship was commissioned on January 23, 2003 and is homeported in Honolulu, Hawaii. Oscar Elton Sette conducts fisheries assessments, physical and chemical oceanography research, marine mammal surveys, and marine debris surveys. The ship operates throughout the central and western Pacific Ocean.
 
 ## Charter Vessels
+PSD has worked with [P&R Water Taxi](https://www.pnrwatertaxi.com/osv-specifications){.external target="_blank"} to charter offshore supply vessels to transport teams to and from field camps. Currently, the [Imua](https://drive.google.com/file/d/1Zw0rbhvuC0vluvTdr0oqjgcL70Xxvygm/view?usp=sharing){.external target="_blank"} is the only charter vessel in service.

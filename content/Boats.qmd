@@ -4,6 +4,7 @@ format: html
 ---
 
 ![](images/SmallBoat.png){fig-align="center, width=420}
+See [PSD Small Boat Page](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/){.external target="_blank"} for more info.
 
 ##  Sub-Pages
 -   [Operator Training](https://pifsc-protected-species-division.github.io/PMNM-ARCamps-Manual/content/OperatorTraining.html)
