@@ -1,4 +1,4 @@
-
+This is a training and field manual for protected species field researchers working in the Papahānaumokuākea Marine National Monument.
 
 
 ### Disclaimer
