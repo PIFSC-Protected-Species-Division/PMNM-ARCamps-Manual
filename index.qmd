@@ -8,9 +8,9 @@ page-layout: full
 
 ## Top Links
 
--   [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977) (see also training tab on left)
--   [CIMAR Papahānaumokuākea Protected Species Field Research](https://www.soest.hawaii.edu/cimar/pps_field_research/)
--   [NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument)
+-   [2025 Training Calendar](https://docs.google.com/spreadsheets/d/1OV38aqmozr1M2S0mQMCeSKyBR_erWXjjPL0ZV0qQPqk/edit?gid=835735977#gid=835735977){.external target="_blank"} (see also training tab on left)
+-   [CIMAR Papahānaumokuākea Protected Species Field Research](https://www.soest.hawaii.edu/cimar/pps_field_research/){.external target="_blank"}
+-   [NOAA Population Assessment Field Camps in the Papahānaumokuākea Marine National Monument](https://www.fisheries.noaa.gov/pacific-islands/population-assessments/population-assessment-field-camps-papahanaumokuakea-marine-national-monument){.external target="_blank"}
 
 ## Who are we?
 
